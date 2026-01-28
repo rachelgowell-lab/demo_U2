@@ -3619,3 +3619,44 @@ Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been c
 [2026.01.28-20.16.39:231][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-20.16.39:231][525]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
 [2026.01.28-20.16.39:231][525]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegren Validating asset
+[2026.01.28-20.19.06:520][548]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5795.351074
+[2026.01.28-20.19.06:594][557]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-20.19.06:594][557]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5795.418945, Update Interval: 339.564819
+[2026.01.28-20.20.31:351][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2026.01.28-20.20.32:673][124]LogSlate: Window 'Save Content' being destroyed
+[2026.01.28-20.20.32:683][124]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.20.32:718][124]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-20.20.32:886][124]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.28-20.20.32:909][124]LogPSOHitching: Encountered 1900 PSO creation hitches so far (651 graphics, 1249 compute). 0 of them were precached.
+[2026.01.28-20.20.33:031][124]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren]
+[2026.01.28-20.20.33:031][124]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-20.20.33:048][124]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegren
+[2026.01.28-20.20.33:048][124]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegrenA66CBF9E4D1B5F0121B0CBB5D70AA373.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Triggerables/BP_HealthRegren.uasset'
+[2026.01.28-20.20.33:056][124]LogFileHelpers: InternalPromptForCheckoutAndSave took 372.609 ms (total: 1.61 sec)
+[2026.01.28-20.20.33:115][124]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.20.33:115][124]LogContentValidation: Enabled validators:
+[2026.01.28-20.20.33:115][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.20.33:115][124]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.20.33:115][124]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.20.33:115][124]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.20.33:115][124]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.20.33:115][124]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.20.33:115][124]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegren Validating asset
+[2026.01.28-20.21.01:595][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.21.01:633][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-20.21.01:633][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-20.21.01:649][533]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegren
+[2026.01.28-20.21.01:649][533]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegren088442B74C2A4DC3EDD57695A908F07D.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Triggerables/BP_HealthRegren.uasset'
+[2026.01.28-20.21.01:655][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.515 ms (total: 1.67 sec)
+[2026.01.28-20.21.01:718][533]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-20.21.01:718][533]LogContentValidation: Enabled validators:
+[2026.01.28-20.21.01:718][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.21.01:718][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.21.01:718][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.21.01:718][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.21.01:718][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.21.01:718][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.21.01:718][533]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegren Validating asset
+[2026.01.28-20.21.02:943][672]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Triggerables\BP_HealthRegren.uasset: [Compiler] In use pin  Consumed By  no longer exists on node  Consumed . Please refresh node or break links to remove pin.
+[2026.01.28-20.21.02:948][672]LogStreaming: Display: FlushAsyncLoading(805): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.21.02:992][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
