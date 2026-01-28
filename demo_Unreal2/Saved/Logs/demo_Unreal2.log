@@ -2446,3 +2446,97 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.01.28-19.11.11:008][991]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1720.387573, Update Interval: 309.373444
 [2026.01.28-19.14.26:684][149]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
 [2026.01.28-19.15.03:392][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.28-19.16.56:819][230]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2066.213867
+[2026.01.28-19.16.56:902][240]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.16.56:902][240]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2066.288818, Update Interval: 334.195984
+[2026.01.28-19.18.03:732][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.28-19.19.22:487][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.28-19.19.22:491][455]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.01.28-19.19.22:491][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPI_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.19.22:491][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPI_HealthComp]
+[2026.01.28-19.19.22:501][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPI_HealthComp_Auto3
+[2026.01.28-19.19.22:501][455]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BPI_HealthComp_Auto3C6CDB889480DB6FE9AC712BE15D31B9F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Components/BPI_HealthComp_Auto3.uasset'
+[2026.01.28-19.19.22:503][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.19.22:503][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_HealthComp]
+[2026.01.28-19.19.22:516][455]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto3
+[2026.01.28-19.19.22:516][455]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthComp_Auto307F902264BC999BAE765DAA18E3E2CD8.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto3.uasset'
+[2026.01.28-19.19.22:516][455]LogFileHelpers: Auto-saving content packages took 0.025
+[2026.01.28-19.20.15:008][570]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.28-19.20.51:921][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.28-19.20.58:898][682]LogEditorTransaction: Undo Promote To Variable
+[2026.01.28-19.22.25:525][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.01.28-19.22.40:960][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.01.28-19.23.25:970][953]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2455.354248
+[2026.01.28-19.23.26:036][961]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.23.26:036][961]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2455.411865, Update Interval: 354.488342
+[2026.01.28-19.23.26:091][968]LogStreaming: Display: FlushAsyncLoading(773): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.23.26:091][968]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BPI_HealthComponent.BPI_HealthComponent_C'",MemberName="HealthCompNotify_TookDamage",MemberGuid=5590DC11490D315E38B81AA9F33C50E9)'
+[2026.01.28-19.24.45:449][222]LogEditorTransaction: Undo Create Pin Link
+[2026.01.28-19.28.04:640][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.28-19.28.10:732][111]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.28-19.28.10:779][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.28-19.28.15:011][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.28-19.28.16:197][598]LogSlate: Window 'Save Content' being destroyed
+[2026.01.28-19.28.16:208][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.28.16:245][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPI_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.28.16:245][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPI_HealthComp]
+[2026.01.28-19.28.16:257][598]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPI_HealthComp
+[2026.01.28-19.28.16:257][598]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BPI_HealthComp40B04606446C16F779F9ADB6F0D7455C.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BPI_HealthComp.uasset'
+[2026.01.28-19.28.16:258][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.28.16:258][598]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_HealthComp]
+[2026.01.28-19.28.16:272][598]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BP_HealthComp
+[2026.01.28-19.28.16:272][598]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthComp33306CC74DA41E71850331B2251DB8C2.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BP_HealthComp.uasset'
+[2026.01.28-19.28.16:273][598]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Fab/Materials/Standard/M_MS_Base] ([1] browsable assets)...
+[2026.01.28-19.28.16:273][598]OBJ SavePackage: Finished generating thumbnails for package [/Fab/Materials/Standard/M_MS_Base]
+[2026.01.28-19.28.16:273][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Fab/Materials/Standard/M_MS_Base" FILE="../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset" SILENT=true
+[2026.01.28-19.28.16:282][598]LogSavePackage: Moving output files for package: /Fab/Materials/Standard/M_MS_Base
+[2026.01.28-19.28.16:282][598]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/M_MS_BaseC27A3C45475A5F8E7695B2978DC321F3.tmp' to '../../Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset'
+[2026.01.28-19.28.16:291][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.643 ms (total: 658.045 ms)
+[2026.01.28-19.28.16:342][598]LogContentValidation: Display: Starting to validate 3 assets
+[2026.01.28-19.28.16:343][598]LogContentValidation: Enabled validators:
+[2026.01.28-19.28.16:343][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.28.16:343][598]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.28.16:343][598]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.28.16:343][598]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.28.16:343][598]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.28.16:343][598]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.28.16:343][598]AssetCheck: /Game/Blueprints/Components/BPI_HealthComp Validating asset
+[2026.01.28-19.28.16:343][598]AssetCheck: /Game/Blueprints/Components/BP_HealthComp Validating asset
+[2026.01.28-19.28.16:343][598]AssetCheck: /Fab/Materials/Standard/M_MS_Base Validating asset
+[2026.01.28-19.28.16:358][598]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.28-19.29.19:586][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.28-19.29.31:490][882]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2026.01.28-19.29.31:537][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.28-19.29.57:666][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.01.28-19.29.57:669][932]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.025
+[2026.01.28-19.29.57:669][932]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPI_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.29.57:669][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPI_HealthComp]
+[2026.01.28-19.29.57:681][932]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPI_HealthComp_Auto4
+[2026.01.28-19.29.57:681][932]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BPI_HealthComp_Auto4FB512B344B6469BAE7BBC5B5A9B501FB.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Components/BPI_HealthComp_Auto4.uasset'
+[2026.01.28-19.29.57:682][932]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.29.57:682][932]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_HealthComp]
+[2026.01.28-19.29.57:694][932]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto4
+[2026.01.28-19.29.57:694][932]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthComp_Auto479E455F74E61D7B5BECEA4875554D845.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto4.uasset'
+[2026.01.28-19.29.57:695][932]LogFileHelpers: Auto-saving content packages took 0.026
+[2026.01.28-19.30.07:598][ 77]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2856.978027
+[2026.01.28-19.30.07:689][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.30.07:689][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2857.061768, Update Interval: 331.297333
+[2026.01.28-19.30.40:039][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.28-19.31.31:128][745]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.01.28-19.32.16:533][217]LogEditorTransaction: Undo Create Reroute Node
+[2026.01.28-19.32.21:422][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.28-19.33.03:245][257]LogStreaming: Display: FlushAsyncLoading(775): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.33.53:733][977]LogEditorTransaction: Undo Move Node
+[2026.01.28-19.33.54:197][985]LogEditorTransaction: Undo Delete current selection
+[2026.01.28-19.33.54:595][ 21]LogEditorTransaction: Undo Add Node
+[2026.01.28-19.33.55:349][106]LogEditorTransaction: Undo Remove Parameter
+[2026.01.28-19.33.55:642][139]LogEditorTransaction: Undo Add In Parameter
+[2026.01.28-19.33.55:939][173]LogEditorTransaction: Undo Create Pin Link
+[2026.01.28-19.33.57:866][390]LogEditorTransaction: Undo Create Pin Link
+[2026.01.28-19.34.14:811][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.01.28-19.35.51:824][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.01.28-19.36.20:317][158]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3229.697510
+[2026.01.28-19.36.20:417][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.36.20:417][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3229.790039, Update Interval: 329.222687
+[2026.01.28-19.36.29:025][115]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element not found.]
+[2026.01.28-19.36.56:791][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
