@@ -3569,3 +3569,53 @@ Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been c
 [2026.01.28-20.09.51:411][152]AssetCheck: /Game/Blueprints/Components/BP_HealthComp Validating asset
 [2026.01.28-20.09.51:411][152]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegren Validating asset
 [2026.01.28-20.09.51:584][155]LogPSOHitching: Encountered 1850 PSO creation hitches so far (628 graphics, 1222 compute). 0 of them were precached.
+[2026.01.28-20.10.27:534][926]LogContentBrowser: Attempting asset rename: NS_Zap_04_Green -> NS_Zap_04_Green
+[2026.01.28-20.12.33:331][614]LogStreaming: Display: FlushAsyncLoading(799): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.12.33:402][614]LogNiagaraEditor: Niagara graph NiagaraGraph /Niagara/Modules/Update/Material/DynamicMaterialParameters.DynamicMaterialParameters:NiagaraScriptSource_3.NiagaraGraph_0: The default value declaration for the variable 'Module.Index0Float3Write' is not consistent between the graph and the metadata.
+  Either change the default mode to 'custom' or check the input pins in the parameter map get node in the graph.
+[2026.01.28-20.12.33:402][614]LogNiagaraEditor: Niagara graph NiagaraGraph /Niagara/Modules/Update/Material/DynamicMaterialParameters.DynamicMaterialParameters:NiagaraScriptSource_3.NiagaraGraph_0: The default value declaration for the variable 'Module.Index1Float3Write' is not consistent between the graph and the metadata.
+  Either change the default mode to 'custom' or check the input pins in the parameter map get node in the graph.
+[2026.01.28-20.12.33:424][614]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Zap_LUT_01.T_VFX_Zap_LUT_01 (TFO_AutoDXT, 256x4 x1x1x1) (Required Memory Estimate: 1.16142 MB), EncodeSpeed: Fast
+[2026.01.28-20.12.33:427][614]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Scorch_Mark_01.T_VFX_Scorch_Mark_01 (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.01.28-20.12.33:436][614]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Flare_01.T_VFX_Flare_01 (G8, 2048x2048 x1x1x1) (Required Memory Estimate: 116.999993 MB), EncodeSpeed: Fast
+[2026.01.28-20.12.33:470][614]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Zap_Lightning_01.T_VFX_Zap_Lightning_01 (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.01.28-20.12.33:476][614]LogTexture: Display: Building textures: /Game/Vefects/Zap_VFX/VFX/Zap/Textures/T_VFX_Zap_Lightning_01_BG.T_VFX_Zap_Lightning_01_BG (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.999984 MB), EncodeSpeed: Fast
+[2026.01.28-20.12.37:435][966]LogStreaming: Display: FlushAsyncLoading(800): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.13.07:406][534]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5436.295410
+[2026.01.28-20.13.07:489][544]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-20.13.07:489][544]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5436.371094, Update Interval: 305.817444
+[2026.01.28-20.13.15:967][921]LogStreaming: Display: FlushAsyncLoading(801): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.13.15:967][921]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Components/BP_HealthComponent.BP_HealthComponent_C'",MemberName="RegenerateHealth",MemberGuid=EF4A129340F123632DBA9786B7E9C6C1)'
+[2026.01.28-20.14.47:295][941]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.01.28-20.15.12:505][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2026.01.28-20.15.12:509][ 17]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.027
+[2026.01.28-20.15.12:510][ 17]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-20.15.12:579][ 17]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren]
+[2026.01.28-20.15.12:579][ 17]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-20.15.12:597][ 17]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Triggerables/BP_HealthRegren_Auto8
+[2026.01.28-20.15.12:597][ 17]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegren_Auto8D3F544914314E02120A1ED86165E5C29.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Triggerables/BP_HealthRegren_Auto8.uasset'
+[2026.01.28-20.15.12:598][ 17]LogFileHelpers: Auto-saving content packages took 0.088
+[2026.01.28-20.16.37:915][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.01.28-20.16.39:020][525]LogSlate: Window 'Save Content' being destroyed
+[2026.01.28-20.16.39:029][525]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.16.39:066][525]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-20.16.39:067][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-20.16.39:067][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.28-20.16.39:088][525]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.28-20.16.39:089][525]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase469904A445DF52F2AED16192FD3CE92A.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.28-20.16.39:089][525]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-20.16.39:161][525]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren]
+[2026.01.28-20.16.39:161][525]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-20.16.39:175][525]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegren
+[2026.01.28-20.16.39:175][525]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegrenDD9C622B4ECC638229A1069CDC0B65A4.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Triggerables/BP_HealthRegren.uasset'
+[2026.01.28-20.16.39:182][525]LogFileHelpers: InternalPromptForCheckoutAndSave took 153.806 ms (total: 1.24 sec)
+[2026.01.28-20.16.39:231][525]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.28-20.16.39:231][525]LogContentValidation: Enabled validators:
+[2026.01.28-20.16.39:231][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.16.39:231][525]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.16.39:231][525]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.16.39:231][525]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.16.39:231][525]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.16.39:231][525]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.16.39:231][525]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.28-20.16.39:231][525]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegren Validating asset
