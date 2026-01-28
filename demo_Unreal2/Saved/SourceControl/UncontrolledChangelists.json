@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset",
+				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BPI_Health.uasset",
+				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BP_HealthCompnent.uasset",
+				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/BP_HealthCompnent.uasset",
+				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/BPI_Health.uasset"
+			]
+		}
+	]
+}
