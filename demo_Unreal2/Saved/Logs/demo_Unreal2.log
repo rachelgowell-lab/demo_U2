@@ -3660,3 +3660,29 @@ Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been c
 [2026.01.28-20.21.02:943][672]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Triggerables\BP_HealthRegren.uasset: [Compiler] In use pin  Consumed By  no longer exists on node  Consumed . Please refresh node or break links to remove pin.
 [2026.01.28-20.21.02:948][672]LogStreaming: Display: FlushAsyncLoading(805): 1 QueuedPackages, 0 AsyncPackages
 [2026.01.28-20.21.02:992][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.01.28-20.22.40:073][850]LogSlate: Window 'FBX Export Options' being destroyed
+[2026.01.28-20.22.59:228][186]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/" -install="O:/SAG Winter 2026/Rachel Gowell/Class UE Demo/Health regen/demo_Unreal2.zip"" -nocompile -nocompileuat ]
+[2026.01.28-20.22.59:237][186]LogStreaming: Display: FlushAsyncLoading(806): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.22.59:239][186]LogAudioDerivedData: Display: Building compressed audio format BINKA hash BINKA_SCVER_5028_R4DV_false_SR0_48000.000000_SR1_32000.000000_SR2_24000.000000_SR3_12000.000000_SR4_8000.000000_QMOD_1.000000_CQLT_-1_ASTH_0.000000_INLC_false_LCK1_0.000000_CSZE_65536_LCF_false_ZCS_256_MCSO_0_END wave CompileSuccess...
+[2026.01.28-20.22.59:241][186]LogAudioDerivedData: Display: CompileSuccess compressed to 14.13% (from 93KB to 13KB) with BINKA at Quality 80 with Quality Modifier 1.00
+[2026.01.28-20.22.59:242][186]LogAudio: Display: Chunk stats for (SoundWave /Engine/EditorSounds/Notifications/CompileSuccess.CompileSuccess: Duration=0.50 secs, Channels=2), Settings(FirstChunkSize=4294967295 frames, InlineFirst=false, MaxChunkSize=262144), Chunks=2, Chunk0=28 bytes, Chunk1=13553 bytes, ChunkN=0)
+[2026.01.28-20.22.59:279][186]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2026.01.28-20.22.59:299][186]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.01.28-20.22.59:415][190]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2026.01.28-20.22.59:425][190]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/ -install="O:/SAG Winter 2026/Rachel Gowell/Class UE Demo/Health regen/demo_Unreal2.zip" -nocompile -nocompileuat
+[2026.01.28-20.22.59:479][191]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2026.01.28-20.22.59:688][202]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 0.21 s.
+[2026.01.28-20.22.59:742][207]UATHelper: Zip Project Task (Windows (Editor)): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.01.28-20.22.59:941][226]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2026.01.28-20.22.59:941][226]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2026.01.28-20.22.59:941][226]UATHelper: Zip Project Task (Windows (Editor)): Project directory: C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2
+[2026.01.28-20.22.59:941][226]UATHelper: Zip Project Task (Windows (Editor)): Install directory: O:/SAG Winter 2026/Rachel Gowell/Class UE Demo/Health regen/demo_Unreal2.zip
+[2026.01.28-20.22.59:941][226]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2026.01.28-20.23.40:536][622]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.01.28-20.23.40:636][623]LogD3D12RHI: Waited for PSO creation for 200.000000ms
+[2026.01.28-20.23.40:647][623]LogPSOHitching: Encountered 1950 PSO creation hitches so far (675 graphics, 1275 compute). 0 of them were precached.
+[2026.01.28-20.23.55:523][236]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.01.28-20.23.55:523][236]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.01.28-20.23.55:534][236]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 56s
+[2026.01.28-20.23.55:534][236]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2026.01.28-20.23.55:609][236]LogStreaming: Display: FlushAsyncLoading(807): 1 QueuedPackages, 0 AsyncPackages
