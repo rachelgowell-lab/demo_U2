@@ -3545,3 +3545,27 @@ Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been c
 [2026.01.28-20.09.18:811][ 61]LogPSOHitching: Encountered 1700 PSO creation hitches so far (592 graphics, 1108 compute). 0 of them were precached.
 [2026.01.28-20.09.18:970][ 61]LogPSOHitching: Encountered 1750 PSO creation hitches so far (595 graphics, 1155 compute). 0 of them were precached.
 [2026.01.28-20.09.19:291][ 61]LogPSOHitching: Encountered 1800 PSO creation hitches so far (600 graphics, 1200 compute). 0 of them were precached.
+[2026.01.28-20.09.49:396][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.28-20.09.51:159][152]LogSlate: Window 'Save Content' being destroyed
+[2026.01.28-20.09.51:167][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-20.09.51:213][152]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-20.09.51:213][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_HealthComp]
+[2026.01.28-20.09.51:235][152]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BP_HealthComp
+[2026.01.28-20.09.51:235][152]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthComp1CA582BE4EB99D3B1A047583FCEA1F23.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BP_HealthComp.uasset'
+[2026.01.28-20.09.51:236][152]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-20.09.51:354][152]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren]
+[2026.01.28-20.09.51:354][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-20.09.51:368][152]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegren
+[2026.01.28-20.09.51:368][152]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegren56B1BB694202A29A3CC3F8856B8A302F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Triggerables/BP_HealthRegren.uasset'
+[2026.01.28-20.09.51:377][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 210.099 ms (total: 1.08 sec)
+[2026.01.28-20.09.51:411][152]LogContentValidation: Display: Starting to validate 2 assets
+[2026.01.28-20.09.51:411][152]LogContentValidation: Enabled validators:
+[2026.01.28-20.09.51:411][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-20.09.51:411][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-20.09.51:411][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-20.09.51:411][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-20.09.51:411][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-20.09.51:411][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-20.09.51:411][152]AssetCheck: /Game/Blueprints/Components/BP_HealthComp Validating asset
+[2026.01.28-20.09.51:411][152]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegren Validating asset
+[2026.01.28-20.09.51:584][155]LogPSOHitching: Encountered 1850 PSO creation hitches so far (628 graphics, 1222 compute). 0 of them were precached.
