@@ -2540,3 +2540,1008 @@ Otherwise assets can be missing from cooked builds. Continue with rename?
 [2026.01.28-19.36.20:417][171]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3229.790039, Update Interval: 329.222687
 [2026.01.28-19.36.29:025][115]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetSystemLibrary::PrintString' [Element not found.]
 [2026.01.28-19.36.56:791][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.28-19.38.00:538][670]LogPSOHitching: Encountered 800 PSO creation hitches so far (295 graphics, 505 compute). 0 of them were precached.
+[2026.01.28-19.38.26:776][247]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2026.01.28-19.38.48:012][118]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_11
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.38.48:328][143]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_12
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.38.49:677][267]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_13
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.38.52:070][455]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS
+[2026.01.28-19.38.52:071][455]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2026.01.28-19.39.20:522][557]LogStreaming: Display: FlushAsyncLoading(776): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.39.20:614][559]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_16
+[2026.01.28-19.39.21:605][645]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_14
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.39.21:654][648]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_15
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Total job queries 18,463, among them cache hits 2,214 (11.99%), DDC hits 12,350 (66.89%), Duplicates 3,223 (17.46%)
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Tracking 13,026 distinct input hashes that result in 11,891 distinct outputs (91.29%)
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: RAM used: 158.70 MiB of 1.60 GiB budget. Usage: 9.69%
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Shaders Compiled: 659
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Jobs assigned 659, completed 659 (100%)
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Average time worker was idle: 48.69 s
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Time job spent in pending queue: average 6.14 s, longest 40.00 s
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Job execution time: average 6.80 s, max 39.77 s
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Job life time (pending + execution): average 12.94 s, max 41.45
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Shader code size: total 10.087 MiB, numShaders 687, average 15.034 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 99.87 s
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.76%
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Jobs were issued in 229 batches (only local compilation was used), average 2.88 jobs/batch
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Average processing rate: 6.60 jobs/sec
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Total thread time: 814.044 s
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Total thread preprocess time: 201.228 s
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Percentage time preprocessing: 24.72%
+[2026.01.28-19.39.39:019][479]LogShaderCompilers: Display: Effective parallelization: 8.15 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.815118
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 6.08 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.48 sec, max 14.78 sec, min 1.94 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 4.21 sec, max 4.21 sec, min 4.21 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.54 sec, max 3.89 sec, min 2.22 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.41 sec, max 4.33 sec, min 0.64 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 20.91% of total time (compiled   80 times, average 2.13 sec, max 2.45 sec, min 1.61 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.03% of total time (compiled   57 times, average 1.72 sec, max 21.81 sec, min 0.26 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.32% of total time (compiled   60 times, average 1.40 sec, max 15.58 sec, min 0.15 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.21% of total time (compiled   11 times, average 6.08 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.85% of total time (compiled   32 times, average 1.74 sec, max 9.32 sec, min 0.61 sec)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Materials Translated:    162
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.39.39:020][479]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.39.43:349][897]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2026.01.28-19.39.43:373][899]LogTemp: Warning: UI Min (1.0) >= UI Max (.01) for Ranged Numeric property /Script/Engine.PostProcessSettings:LumenDiffuseColorBoost
+[2026.01.28-19.40.32:869][673]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.28-19.40.32:871][673]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.040
+[2026.01.28-19.40.32:871][673]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-19.40.32:932][673]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-19.40.32:932][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-19.40.32:953][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto5
+[2026.01.28-19.40.32:953][673]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase_Auto513DDD3754C2E006E2FA5BDAD859AE5AA.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto5.uasset'
+[2026.01.28-19.40.32:954][673]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPI_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.40.32:954][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPI_HealthComp]
+[2026.01.28-19.40.32:962][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BPI_HealthComp_Auto5
+[2026.01.28-19.40.32:962][673]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BPI_HealthComp_Auto561706A224CB9FCC0C7D65C900477A3FA.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Components/BPI_HealthComp_Auto5.uasset'
+[2026.01.28-19.40.32:962][673]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.40.32:962][673]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_HealthComp]
+[2026.01.28-19.40.32:975][673]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto5
+[2026.01.28-19.40.32:975][673]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthComp_Auto5809207C94E63C77EC76B19A280BF966C.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto5.uasset'
+[2026.01.28-19.40.32:975][673]LogFileHelpers: Auto-saving content packages took 0.104
+[2026.01.28-19.41.51:307][903]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-19.41.51:307][903]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.41.51:356][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.28-19.41.52:093][968]LogPSOHitching: Encountered 850 PSO creation hitches so far (320 graphics, 530 compute). 0 of them were precached.
+[2026.01.28-19.41.52:266][968]LogPSOHitching: Encountered 900 PSO creation hitches so far (333 graphics, 567 compute). 0 of them were precached.
+[2026.01.28-19.41.52:494][968]LogPSOHitching: Encountered 950 PSO creation hitches so far (333 graphics, 617 compute). 0 of them were precached.
+[2026.01.28-19.41.52:756][968]LogPSOHitching: Encountered 1000 PSO creation hitches so far (345 graphics, 655 compute). 0 of them were precached.
+[2026.01.28-19.42.46:449][807]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3615.822510
+[2026.01.28-19.42.46:540][815]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.42.46:540][815]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3615.903320, Update Interval: 301.225006
+[2026.01.28-19.43.36:311][261]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.28-19.44.22:668][480]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_17
+[2026.01.28-19.44.22:797][483]LogPSOHitching: Encountered 1050 PSO creation hitches so far (372 graphics, 678 compute). 0 of them were precached.
+[2026.01.28-19.44.26:365][776]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.28-19.44.26:368][776]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.28-19.44.26:368][776]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.28-19.44.26:370][776]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 728 us (total: 6.392 ms)
+[2026.01.28-19.44.26:373][776]LogPlayLevel: [PlayLevel] Compiling ABP_Player before play...
+[2026.01.28-19.44.26:374][776]LogPlayLevel: [PlayLevel]   Compiling BP_CharacterBase as a dependent...
+[2026.01.28-19.44.26:374][776]LogPlayLevel: [PlayLevel]   Compiling BP_CharacterFPS as a dependent...
+[2026.01.28-19.44.26:466][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.28-19.44.26:469][776]LogPlayLevel: PlayLevel: Blueprint regeneration took 99 ms (3 blueprints)
+[2026.01.28-19.44.26:469][776]LogPlayLevel: Display: Creating online subsystem for client :Context_23
+[2026.01.28-19.44.26:471][776]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2026.01.28-19.44.26:488][777]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-19.44.26:493][777]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.28-19.44.26:494][777]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.004 ms (total: 4.879 ms)
+[2026.01.28-19.44.26:494][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006043s)
+[2026.01.28-19.44.26:494][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.006087s)
+[2026.01.28-19.44.26:518][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.28-19.44.26:519][777]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.28-19.44.26:521][777]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.28-19.44.26:521][777]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.28-19.44.26:521][777]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.28-19.44.26:521][777]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.28-19.44.26:523][777]LogWorldPartition: Display: WorldPartition initialize took 1.561 ms (total: 754.765 ms)
+[2026.01.28-19.44.26:523][777]LogPlayLevel: PIE: World Init took: (0.003561s)
+[2026.01.28-19.44.26:524][777]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2026.01.28-19.44.26:524][777]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.28-19.44.26:524][777]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.28-19.44.26:524][777]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.28-19.44.26:524][777]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.28-19.44.26:524][777]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.28-19.44.26:524][777]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.28-19.44.26:524][777]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.28-19.44.26:524][777]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.28-19.44.26:524][777]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.28-19.44.26:524][777]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.28-19.44.26:524][777]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.28-19.44.26:526][777]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.28-19.44.26:539][777]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.01.28-19.44.26:540][777]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.28-19.44.26:540][777]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.28-19.44.26:540][777]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.28-19.44.26:541][777]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2026.01.28-19.44.26:541][777]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2026.01.28-19.44.26:543][777]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2026.01.28-19.44.26:543][777]LogInit: FAudioDevice initialized with ID 6.
+[2026.01.28-19.44.26:543][777]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2026.01.28-19.44.26:543][777]LogAudio: Display: Audio Device (ID: 6) registered with world 'L_LevelOne'.
+[2026.01.28-19.44.26:543][777]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.28-19.44.26:547][777]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.28-19.44.26:550][777]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.28-14.44.26
+[2026.01.28-19.44.26:550][777]LogWorld: Bringing up level for play took: 0.002792
+[2026.01.28-19.44.26:553][777]PIE: Server logged in
+[2026.01.28-19.44.26:554][777]PIE: Play in editor total start time 0.186 seconds.
+[2026.01.28-19.44.26:597][778]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.28-19.44.26:716][779]LogPSOHitching: Encountered 1100 PSO creation hitches so far (394 graphics, 706 compute). 0 of them were precached.
+[2026.01.28-19.44.27:394][834]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.28-19.44.28:530][936]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.44.29:458][ 21]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-19.44.29:938][ 68]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.01.28-19.44.29:969][ 71]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] Ouch, took damage >:(
+[2026.01.28-19.44.29:969][ 71]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.01.28-19.44.29:969][ 71]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_CharacterFPS_C_0.BP_HealthComponent
+[2026.01.28-19.44.29:969][ 71]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] BP_CharacterFPS00.0% health left
+[2026.01.28-19.44.30:066][ 77]LogRenderer: Warning: Building light grid exceeded number of available entries (1730659 / 983040). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.28-19.44.31:096][101]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.44.32:003][139]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-19.44.32:565][190]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-19.44.34:166][362]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/1
+[2026.01.28-19.44.34:194][365]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] Ouch, took damage >:(
+[2026.01.28-19.44.34:194][365]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.01.28-19.44.34:194][365]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_CharacterFPS_C_0.BP_HealthComponent
+[2026.01.28-19.44.34:194][365]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] BP_CharacterFPS00.0% health left
+[2026.01.28-19.44.35:319][399]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.44.36:233][447]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.28-19.44.36:791][500]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/0
+[2026.01.28-19.44.38:181][651]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/0
+[2026.01.28-19.44.38:215][655]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] Ouch, took damage >:(
+[2026.01.28-19.44.38:215][655]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.01.28-19.44.38:215][655]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_CharacterFPS_C_0.BP_HealthComponent
+[2026.01.28-19.44.38:215][655]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] BP_CharacterFPS00.0% health left
+[2026.01.28-19.44.51:291][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-19.44.51:291][928]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-19.44.51:291][928]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-19.44.51:292][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.44.51:292][928]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.28-19.44.51:293][928]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.28-19.44.51:297][928]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.44.51:317][928]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-19.44.51:319][928]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2026.01.28-19.44.51:319][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2026.01.28-19.44.51:321][928]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2026.01.28-19.44.51:328][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.28-19.44.51:408][930]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2026.01.28-19.44.52:723][ 72]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.28-19.44.52:727][ 72]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.01.28-19.44.52:727][ 72]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.01.28-19.44.52:728][ 72]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 611 us (total: 7.004 ms)
+[2026.01.28-19.44.52:728][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.28-19.44.52:760][ 72]LogPlayLevel: Display: Creating online subsystem for client :Context_24
+[2026.01.28-19.44.52:762][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2026.01.28-19.44.52:777][ 73]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-19.44.52:781][ 73]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.01.28-19.44.52:782][ 73]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 943 us (total: 5.822 ms)
+[2026.01.28-19.44.52:782][ 73]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005441s)
+[2026.01.28-19.44.52:782][ 73]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.005479s)
+[2026.01.28-19.44.52:805][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.01.28-19.44.52:807][ 73]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.01.28-19.44.52:808][ 73]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.01.28-19.44.52:808][ 73]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.01.28-19.44.52:808][ 73]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.01.28-19.44.52:808][ 73]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.01.28-19.44.52:809][ 73]LogWorldPartition: Display: WorldPartition initialize took 1.260 ms (total: 756.025 ms)
+[2026.01.28-19.44.52:809][ 73]LogPlayLevel: PIE: World Init took: (0.002848s)
+[2026.01.28-19.44.52:810][ 73]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2026.01.28-19.44.52:810][ 73]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.28-19.44.52:810][ 73]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.28-19.44.52:810][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.28-19.44.52:810][ 73]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.28-19.44.52:810][ 73]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.28-19.44.52:810][ 73]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.28-19.44.52:810][ 73]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.28-19.44.52:810][ 73]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.28-19.44.52:810][ 73]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.28-19.44.52:810][ 73]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.28-19.44.52:810][ 73]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.28-19.44.52:812][ 73]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.28-19.44.52:823][ 73]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.01.28-19.44.52:823][ 73]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.28-19.44.52:823][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.28-19.44.52:823][ 73]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.28-19.44.52:823][ 73]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2026.01.28-19.44.52:823][ 73]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2026.01.28-19.44.52:826][ 73]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2026.01.28-19.44.52:826][ 73]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2026.01.28-19.44.52:826][ 73]LogInit: FAudioDevice initialized with ID 7.
+[2026.01.28-19.44.52:826][ 73]LogAudio: Display: Audio Device (ID: 7) registered with world 'L_LevelOne'.
+[2026.01.28-19.44.52:826][ 73]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.28-19.44.52:829][ 73]LogLoad: Game class is 'GM_FPS_C'
+[2026.01.28-19.44.52:832][ 73]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.01.28-14.44.52
+[2026.01.28-19.44.52:832][ 73]LogWorld: Bringing up level for play took: 0.002827
+[2026.01.28-19.44.52:835][ 73]PIE: Server logged in
+[2026.01.28-19.44.52:837][ 73]PIE: Play in editor total start time 0.11 seconds.
+[2026.01.28-19.44.52:881][ 74]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.28-19.44.53:441][126]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/3
+[2026.01.28-19.44.54:576][236]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.44.55:509][316]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-19.44.56:066][370]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/2
+[2026.01.28-19.44.56:366][400]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/2
+[2026.01.28-19.44.56:396][403]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] Ouch, took damage >:(
+[2026.01.28-19.44.56:396][403]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.01.28-19.44.56:396][403]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_CharacterFPS_C_0.BP_HealthComponent
+[2026.01.28-19.44.56:396][403]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] BP_CharacterFPS00.0% health left
+[2026.01.28-19.44.56:493][409]LogRenderer: Warning: Building light grid exceeded number of available entries (1775306 / 983040). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.01.28-19.44.57:541][434]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.01.28-19.44.58:436][485]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-19.44.58:992][540]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 1/1
+[2026.01.28-19.45.01:341][787]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] 0/1
+[2026.01.28-19.45.01:369][790]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] Ouch, took damage >:(
+[2026.01.28-19.45.01:369][790]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.01.28-19.45.01:369][790]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_CharacterFPS_C_0.BP_HealthComponent
+[2026.01.28-19.45.01:369][790]LogBlueprintUserMessages: [BP_CharacterFPS_C_0] BP_CharacterFPS00.0% health left
+[2026.01.28-19.45.02:300][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-19.45.02:300][817]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.01.28-19.45.02:301][817]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-19.45.02:301][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.45.02:301][817]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.01.28-19.45.02:350][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.28-19.45.02:354][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.45.02:373][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.28-19.45.02:374][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2026.01.28-19.45.02:374][817]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2026.01.28-19.45.02:376][817]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2026.01.28-19.45.02:382][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.01.28-19.45.02:447][818]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2026.01.28-19.46.25:947][403]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.28-19.46.27:417][482]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_16
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.46.27:937][515]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_17
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.46.28:011][519]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_18
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.46.28:229][528]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_19
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.01.28-19.46.53:339][582]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.28-19.46.53:349][582]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.28-19.46.54:532][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.28-19.48.37:625][969]LogContentBrowser: Deferred new asset file creation: BP_Triggerable_Child
+[2026.01.28-19.48.37:652][969]LogContentBrowser: Creating deferred item: BP_Triggerable_Child
+[2026.01.28-19.48.37:663][970]LogContentBrowser: Renaming the item being created (Deferred Item: BP_Triggerable_Child).
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Total job queries 18,492, among them cache hits 2,214 (11.97%), DDC hits 12,365 (66.87%), Duplicates 3,223 (17.43%)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Tracking 13,055 distinct input hashes that result in 11,914 distinct outputs (91.26%)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: RAM used: 158.87 MiB of 1.60 GiB budget. Usage: 9.70%
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Shaders Compiled: 673
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Jobs assigned 673, completed 673 (100%)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Average time worker was idle: 162.96 s
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Time job spent in pending queue: average 6.02 s, longest 40.00 s
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Job execution time: average 6.67 s, max 39.77 s
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Job life time (pending + execution): average 12.69 s, max 41.45
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Shader code size: total 10.206 MiB, numShaders 703, average 14.867 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 101.54 s
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.75%
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Jobs were issued in 243 batches (only local compilation was used), average 2.77 jobs/batch
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Average processing rate: 6.63 jobs/sec
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Total thread time: 820.364 s
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Total thread preprocess time: 201.595 s
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Percentage time preprocessing: 24.57%
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Effective parallelization: 8.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.807908
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   11 times, average 6.08 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.48 sec, max 14.78 sec, min 1.94 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 4.21 sec, max 4.21 sec, min 4.21 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.54 sec, max 3.89 sec, min 2.22 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.41 sec, max 4.33 sec, min 0.64 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 20.75% of total time (compiled   80 times, average 2.13 sec, max 2.45 sec, min 1.61 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.07% of total time (compiled   60 times, average 1.65 sec, max 21.81 sec, min 0.26 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.34% of total time (compiled   63 times, average 1.35 sec, max 15.58 sec, min 0.15 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.15% of total time (compiled   11 times, average 6.08 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 6.98% of total time (compiled   34 times, average 1.68 sec, max 9.32 sec, min 0.61 sec)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Materials Translated:    162
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Material Total Translate Time: 0.13 s
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Material Translation Only: 0.06 s (45%)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.48.39:033][118]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.48.39:499][167]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3968.867188
+[2026.01.28-19.48.39:638][182]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.48.39:638][182]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3968.998047, Update Interval: 304.114502
+[2026.01.28-19.48.48:171][ 97]LogContentBrowser: Attempting asset rename: BP_Triggerable_Child -> BP_HealthRegren
+[2026.01.28-19.48.48:178][ 97]LogContentBrowser: End creating deferred item BP_Triggerable_Child
+[2026.01.28-19.48.49:549][217]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren
+[2026.01.28-19.48.49:549][217]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.01.28-19.48.55:389][850]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.28-19.48.58:506][850]LogSlate: Window 'Save Content' being destroyed
+[2026.01.28-19.48.58:535][850]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.48.58:583][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BPI_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.48.58:583][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BPI_HealthComp]
+[2026.01.28-19.48.58:593][850]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BPI_HealthComp
+[2026.01.28-19.48.58:593][850]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BPI_HealthComp1880D6CE43B3C8F7AB2C068B50BB1F81.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BPI_HealthComp.uasset'
+[2026.01.28-19.48.58:594][850]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.01.28-19.48.58:615][850]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.01.28-19.48.58:615][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.01.28-19.48.58:615][850]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.01.28-19.48.58:636][850]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.01.28-19.48.58:636][850]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBaseE6B45F194E6D4BDB824E6BBD77C9D2DE.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.01.28-19.48.58:637][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-19.48.58:637][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_HealthComp]
+[2026.01.28-19.48.58:650][850]LogSavePackage: Moving output files for package: /Game/Blueprints/Components/BP_HealthComp
+[2026.01.28-19.48.58:650][850]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthComp90CAD18B446702FAF353479C26FA6484.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BP_HealthComp.uasset'
+[2026.01.28-19.48.58:651][850]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-19.48.58:651][850]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-19.48.58:659][850]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_HealthRegren
+[2026.01.28-19.48.58:659][850]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegren1A308A9548A4A603CC5767843E1888F8.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Triggerables/BP_HealthRegren.uasset'
+[2026.01.28-19.48.58:670][850]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.833 ms (total: 793.879 ms)
+[2026.01.28-19.48.58:717][850]LogContentValidation: Display: Starting to validate 4 assets
+[2026.01.28-19.48.58:717][850]LogContentValidation: Enabled validators:
+[2026.01.28-19.48.58:717][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.48.58:717][850]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.48.58:717][850]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.48.58:717][850]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.48.58:717][850]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.48.58:717][850]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.48.58:717][850]AssetCheck: /Game/Blueprints/Components/BPI_HealthComp Validating asset
+[2026.01.28-19.48.58:717][850]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.01.28-19.48.58:717][850]AssetCheck: /Game/Blueprints/Components/BP_HealthComp Validating asset
+[2026.01.28-19.48.58:717][850]AssetCheck: /Game/Blueprints/Triggerables/BP_HealthRegren Validating asset
+[2026.01.28-19.48.58:734][851]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.28-19.50.10:660][358]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.01.28-19.50.10:736][358]LogPSOHitching: Encountered 1150 PSO creation hitches so far (428 graphics, 722 compute). 0 of them were precached.
+[2026.01.28-19.50.39:871][508]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:872][508]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:883][509]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:883][509]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:883][509]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:894][510]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:894][510]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:894][510]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:905][511]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:905][511]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:905][511]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:915][512]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:915][512]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:915][512]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:926][513]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:927][513]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:927][513]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:937][514]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:937][514]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:937][514]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:946][515]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:946][515]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:946][515]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:955][516]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:956][516]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:956][516]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:965][517]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:966][517]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:966][517]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:975][518]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:976][518]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:976][518]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:986][519]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:986][519]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:986][519]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:995][520]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:996][520]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.39:996][520]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:005][521]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:005][521]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:005][521]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:015][522]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:015][522]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:015][522]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:024][523]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:024][523]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:024][523]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:035][524]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:035][524]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:035][524]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:044][525]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:045][525]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:045][525]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:056][526]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:056][526]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:056][526]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:066][527]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:066][527]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:066][527]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:076][528]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:077][528]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:077][528]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:087][529]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:087][529]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:087][529]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:097][530]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:097][530]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:097][530]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:108][531]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:108][531]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:108][531]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:118][532]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:119][532]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:119][532]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:128][533]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:128][533]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:128][533]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:139][534]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:139][534]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:139][534]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:148][535]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:148][535]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:148][535]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:160][536]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:160][536]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:160][536]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:170][537]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:170][537]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:170][537]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:180][538]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:181][538]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:181][538]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:190][539]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:190][539]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:190][539]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:201][540]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:201][540]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:201][540]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:212][541]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:212][541]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:212][541]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:222][542]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.50.40:222][542]LogPhysics: Warning: Scale for /Engine/Transient.World_18:PersistentLevel.BP_HealthRegren_C_0.Cube1 has a component set to zero, which will result in a bad body instance. Scale:X=0.000 Y=0.250 Z=0.250
+[2026.01.28-19.51.19:310][942]LogEditorTransaction: Undo Modify Component Scale
+[2026.01.28-19.51.28:039][808]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2026.01.28-19.51.28:047][808]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2026.01.28-19.51.28:047][808]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.01.28-19.51.28:048][808]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2026.01.28-19.51.28:342][810]LogPSOHitching: Encountered 1200 PSO creation hitches so far (441 graphics, 759 compute). 0 of them were precached.
+[2026.01.28-19.51.28:626][810]LogPSOHitching: Encountered 1250 PSO creation hitches so far (443 graphics, 807 compute). 0 of them were precached.
+[2026.01.28-19.51.28:965][810]LogPSOHitching: Encountered 1300 PSO creation hitches so far (454 graphics, 846 compute). 0 of them were precached.
+[2026.01.28-19.51.35:776][327]LogContentBrowser: Deferred new asset file creation: BasicShapeMaterial1
+[2026.01.28-19.51.35:805][327]LogContentBrowser: Creating deferred item: BasicShapeMaterial1
+[2026.01.28-19.51.35:816][328]LogContentBrowser: Renaming the item being created (Deferred Item: BasicShapeMaterial1).
+[2026.01.28-19.51.36:714][415]LogContentBrowser: Attempting asset rename: BasicShapeMaterial1 -> BasicShapeMaterial1
+[2026.01.28-19.51.36:720][415]LogContentBrowser: End creating deferred item BasicShapeMaterial1
+[2026.01.28-19.51.36:884][424]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShapeMaterial1.BasicShapeMaterial1
+[2026.01.28-19.51.36:888][424]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.01.28-19.51.36:895][424]LogStreaming: Display: FlushAsyncLoading(777): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.51.36:903][424]LogStaticMesh: Display: Building static mesh Sphere_inversenormals (Required Memory Estimate: 1.522745 MB)...
+[2026.01.28-19.51.36:927][424]LogStaticMesh: Built static mesh [0.03s] /Engine/EditorMeshes/AssetViewer/Sphere_inversenormals.Sphere_inversenormals
+[2026.01.28-19.51.36:935][424]LogStaticMesh: Display: Building static mesh Floor_Mesh (Required Memory Estimate: 0.022237 MB)...
+[2026.01.28-19.51.36:936][424]LogStaticMesh: Built static mesh [0.00s] /Engine/EditorMeshes/AssetViewer/Floor_Mesh.Floor_Mesh
+[2026.01.28-19.51.37:486][424]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.28-19.51.37:486][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.51.37:486][424]MaterialEditorStats: Shader Count: 0
+[2026.01.28-19.51.37:486][424]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.51.37:630][424]LogPSOHitching: Encountered 1350 PSO creation hitches so far (474 graphics, 876 compute). 0 of them were precached.
+[2026.01.28-19.51.37:814][426]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.51.37:814][426]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.51.37:814][426]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.51.37:814][426]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.51.37:814][426]MaterialEditorStats: Shader Count: 5
+[2026.01.28-19.51.37:814][426]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.51.39:041][540]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.51.39:041][540]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.51.39:041][540]LogShaderCompilers: Display: Total job queries 18,567, among them cache hits 2,249 (12.11%), DDC hits 12,384 (66.70%), Duplicates 3,223 (17.36%)
+[2026.01.28-19.51.39:041][540]LogShaderCompilers: Display: Tracking 13,095 distinct input hashes that result in 11,944 distinct outputs (91.21%)
+[2026.01.28-19.51.39:041][540]LogShaderCompilers: Display: RAM used: 159.07 MiB of 1.60 GiB budget. Usage: 9.71%
+[2026.01.28-19.51.39:041][540]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Shaders Compiled: 691
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Jobs assigned 694, completed 691 (99.57%)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Average time worker was idle: 156.79 s
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Time job spent in pending queue: average 5.84 s, longest 40.00 s
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Job execution time: average 6.52 s, max 39.77 s
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Job life time (pending + execution): average 12.38 s, max 41.45
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Shader code size: total 10.357 MiB, numShaders 723, average 14.67 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 106.65 s
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.75%
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Jobs were issued in 264 batches (only local compilation was used), average 2.63 jobs/batch
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Average processing rate: 6.48 jobs/sec
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Total thread time: 831.877 s
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Total thread preprocess time: 202.554 s
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Percentage time preprocessing: 24.35%
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Effective parallelization: 7.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.779979
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 5.66 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.48 sec, max 14.78 sec, min 1.94 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 4.21 sec, max 4.21 sec, min 4.21 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.54 sec, max 3.89 sec, min 2.22 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.41 sec, max 4.33 sec, min 0.64 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 20.46% of total time (compiled   80 times, average 2.13 sec, max 2.45 sec, min 1.61 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.37% of total time (compiled   68 times, average 1.51 sec, max 21.81 sec, min 0.26 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.33% of total time (compiled   66 times, average 1.30 sec, max 15.58 sec, min 0.15 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.17% of total time (compiled   12 times, average 5.66 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.23% of total time (compiled   37 times, average 1.62 sec, max 9.32 sec, min 0.61 sec)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Materials Translated:    167
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Material Translation Only: 0.06 s (40%)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.51.39:042][540]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.51.44:976][155]LogSlate: Window 'Color Picker' being destroyed
+[2026.01.28-19.51.44:982][155]LogShaderCompilers: Display: Cancelled job 0x0000023A1379E600 with pending SubmitJob call.
+[2026.01.28-19.51.44:982][155]LogShaderCompilers: Display: Cancelled job 0x0000023A1379D200 with pending SubmitJob call.
+[2026.01.28-19.51.44:983][155]LogShaderCompilers: Display: Cancelled job 0x0000023A1379A000 with pending SubmitJob call.
+[2026.01.28-19.51.44:985][155]LogShaderCompilers: Display: Cancelled job 0x0000023A13795000 with pending SubmitJob call.
+[2026.01.28-19.51.44:986][155]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.28-19.51.44:986][155]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.51.44:986][155]MaterialEditorStats: Shader Count: 0
+[2026.01.28-19.51.44:986][155]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.51.44:987][155]LogShaderCompilers: Display: Cancelled job 0x0000023A13794600 with pending SubmitJob call.
+[2026.01.28-19.51.45:002][157]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.51.45:002][157]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.51.45:002][157]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.51.45:002][157]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.51.45:002][157]MaterialEditorStats: Shader Count: 5
+[2026.01.28-19.51.45:002][157]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.51.49:266][445]LogSlate: Window 'Message' being destroyed
+[2026.01.28-19.51.49:272][445]Message dialog closed, result: Cancel, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/BasicShapes/BasicShapeMaterial1.BasicShapeMaterial1
+(Selecting 'No' will cause all changes to be lost!)
+[2026.01.28-19.51.50:992][640]LogMaterialEditor: Saving and Compiling material BasicShapeMaterial1
+[2026.01.28-19.51.51:106][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.01.28-19.51.52:894][640]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.28-19.51.52:905][640]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.51.52:952][640]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Engine/BasicShapes/BasicShapeMaterial1] ([1] browsable assets)...
+[2026.01.28-19.51.52:964][640]OBJ SavePackage:     Rendered thumbnail for [Material /Engine/BasicShapes/BasicShapeMaterial1.BasicShapeMaterial1]
+[2026.01.28-19.51.52:964][640]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShapeMaterial1]
+[2026.01.28-19.51.52:964][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShapeMaterial1" FILE="../../../Engine/Content/BasicShapes/BasicShapeMaterial1.uasset" SILENT=true
+[2026.01.28-19.51.52:973][640]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShapeMaterial1
+[2026.01.28-19.51.52:973][640]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BasicShapeMaterial1489A2BBB4AC032B8740B4A902ABB24B3.tmp' to '../../../Engine/Content/BasicShapes/BasicShapeMaterial1.uasset'
+[2026.01.28-19.51.52:982][640]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.204 ms (total: 870.083 ms)
+[2026.01.28-19.51.53:035][640]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.51.53:035][640]LogContentValidation: Enabled validators:
+[2026.01.28-19.51.53:035][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.51.53:035][640]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.51.53:035][640]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.51.53:035][640]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.51.53:035][640]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.51.53:035][640]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.51.53:036][640]AssetCheck: /Engine/BasicShapes/BasicShapeMaterial1 Validating asset
+[2026.01.28-19.51.53:043][640]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.51.53:043][640]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.51.53:043][640]MaterialEditorStats: Nanite Compute Shader: 805 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.51.53:043][640]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.51.53:044][640]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.51.53:044][640]MaterialEditorStats: Shader Count: 41
+[2026.01.28-19.51.53:044][640]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.51.53:050][640]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.28-19.51.53:810][715]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-19.51.53:810][715]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.51.53:845][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.01.28-19.52.07:445][903]LogContentBrowser: Attempting asset rename: BasicShapeMaterial1 -> BasicShape_matGreen
+[2026.01.28-19.52.07:522][903]LogMaterial: Display: MaterialInterface BasicShapeMaterial1 has a incorrectly name EditorOnlyData 'BasicShapeMaterial1EditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'BasicShape_matGreenEditorOnlyData'.
+[2026.01.28-19.52.07:528][903]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-19.52.07:528][903]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Engine/BasicShapes/BasicShape_matGreen] ([1] browsable assets)...
+[2026.01.28-19.52.07:528][903]OBJ SavePackage: Finished generating thumbnails for package [/Engine/BasicShapes/BasicShape_matGreen]
+[2026.01.28-19.52.07:528][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Engine/BasicShapes/BasicShape_matGreen" FILE="../../../Engine/Content/BasicShapes/BasicShape_matGreen.uasset" SILENT=true
+[2026.01.28-19.52.07:537][903]LogSavePackage: Moving output files for package: /Engine/BasicShapes/BasicShape_matGreen
+[2026.01.28-19.52.07:537][903]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BasicShape_matGreen0848F694489FCB840679C388650BE458.tmp' to '../../../Engine/Content/BasicShapes/BasicShape_matGreen.uasset'
+[2026.01.28-19.52.07:538][903]LogFileHelpers: InternalPromptForCheckoutAndSave took 9.597 ms (total: 879.681 ms)
+[2026.01.28-19.52.07:572][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.28-19.52.07:600][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.01.28-19.52.07:625][903]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.28-19.52.07:687][903]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-19.52.07:687][903]LogContentValidation: Enabled validators:
+[2026.01.28-19.52.07:687][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-19.52.07:687][903]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-19.52.07:687][903]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-19.52.07:687][903]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-19.52.07:687][903]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-19.52.07:687][903]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-19.52.07:687][903]AssetCheck: /Engine/BasicShapes/BasicShape_matGreen Validating asset
+[2026.01.28-19.52.07:753][903]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.28-19.53.20:948][711]LogEditorTransaction: Undo Modify Component(s)
+[2026.01.28-19.53.59:523][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.01.28-19.54.33:459][796]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4322.610352
+[2026.01.28-19.54.33:528][804]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-19.54.33:528][804]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4322.670410, Update Interval: 318.565643
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Total job queries 18,675, among them cache hits 2,278 (12.20%), DDC hits 12,412 (66.46%), Duplicates 3,230 (17.30%)
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Tracking 13,167 distinct input hashes that result in 12,002 distinct outputs (91.15%)
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: RAM used: 159.51 MiB of 1.60 GiB budget. Usage: 9.74%
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Shaders Compiled: 738
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Jobs assigned 738, completed 738 (100%)
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Average time worker was idle: 138.70 s
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Time job spent in pending queue: average 5.49 s, longest 40.00 s
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Job execution time: average 6.15 s, max 39.77 s
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Job life time (pending + execution): average 11.64 s, max 41.45
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Shader code size: total 10.818 MiB, numShaders 773, average 14.331 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 118.74 s
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.74%
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Jobs were issued in 308 batches (only local compilation was used), average 2.40 jobs/batch
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Average processing rate: 6.22 jobs/sec
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Total thread time: 862.218 s
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Total thread preprocess time: 204.021 s
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Percentage time preprocessing: 23.66%
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Effective parallelization: 7.26 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.726156
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.48 sec, max 14.78 sec, min 1.94 sec)
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   16 times, average 4.54 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 4.21 sec, max 4.21 sec, min 4.21 sec)
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.54 sec, max 3.89 sec, min 2.22 sec)
+[2026.01.28-19.54.39:048][450]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.41 sec, max 4.33 sec, min 0.64 sec)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 19.74% of total time (compiled   80 times, average 2.13 sec, max 2.45 sec, min 1.61 sec)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.61% of total time (compiled   81 times, average 1.34 sec, max 21.81 sec, min 0.26 sec)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.27% of total time (compiled   74 times, average 1.20 sec, max 15.58 sec, min 0.15 sec)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.42% of total time (compiled   16 times, average 4.54 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.65% of total time (compiled   44 times, average 1.50 sec, max 9.32 sec, min 0.61 sec)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: Materials Translated:    175
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: Material Translation Only: 0.06 s (40%)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.54.39:049][450]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.54.48:895][526]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.01.28-19.54.48:898][526]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.025
+[2026.01.28-19.54.48:899][526]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-19.54.48:922][526]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren]
+[2026.01.28-19.54.48:922][526]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-19.54.48:937][526]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Triggerables/BP_HealthRegren_Auto6
+[2026.01.28-19.54.48:937][526]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegren_Auto6CA0ED677489950E088551ABF03E54AE4.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Triggerables/BP_HealthRegren_Auto6.uasset'
+[2026.01.28-19.54.48:937][526]LogFileHelpers: Auto-saving content packages took 0.039
+[2026.01.28-19.55.36:024][920]LogPSOHitching: Encountered 1400 PSO creation hitches so far (509 graphics, 891 compute). 0 of them were precached.
+[2026.01.28-19.56.45:889][273]LogPSOHitching: Encountered 1450 PSO creation hitches so far (525 graphics, 925 compute). 0 of them were precached.
+[2026.01.28-19.56.46:147][273]LogPSOHitching: Encountered 1500 PSO creation hitches so far (525 graphics, 975 compute). 0 of them were precached.
+[2026.01.28-19.56.46:147][273]LogPSOHitching: Encountered 1500 PSO creation hitches so far (525 graphics, 975 compute). 0 of them were precached.
+[2026.01.28-19.56.46:510][273]LogPSOHitching: Encountered 1550 PSO creation hitches so far (535 graphics, 1015 compute). 0 of them were precached.
+[2026.01.28-19.56.46:902][280]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/BasicShapes/BasicShape_matGreen.BasicShape_matGreen
+[2026.01.28-19.56.46:905][280]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.01.28-19.56.47:308][280]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.28-19.56.47:309][280]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.56.47:309][280]MaterialEditorStats: Shader Count: 0
+[2026.01.28-19.56.47:309][280]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.56.47:451][280]LogPSOHitching: Encountered 1600 PSO creation hitches so far (550 graphics, 1050 compute). 0 of them were precached.
+[2026.01.28-19.56.47:553][282]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.56.47:553][282]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.56.47:553][282]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.56.47:553][282]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.56.47:553][282]MaterialEditorStats: Shader Count: 5
+[2026.01.28-19.56.47:553][282]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Total job queries 18,706, among them cache hits 2,292 (12.25%), DDC hits 12,419 (66.39%), Duplicates 3,230 (17.27%)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Tracking 13,184 distinct input hashes that result in 12,013 distinct outputs (91.12%)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: RAM used: 159.58 MiB of 1.60 GiB budget. Usage: 9.74%
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Shaders Compiled: 748
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Jobs assigned 748, completed 748 (100%)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Average time worker was idle: 137.40 s
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Time job spent in pending queue: average 5.42 s, longest 40.00 s
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Job execution time: average 6.08 s, max 39.77 s
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Job life time (pending + execution): average 11.50 s, max 41.45
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Shader code size: total 10.9 MiB, numShaders 784, average 14.237 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 122.57 s
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.74%
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Jobs were issued in 318 batches (only local compilation was used), average 2.35 jobs/batch
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Average processing rate: 6.10 jobs/sec
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Total thread time: 867.428 s
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Total thread preprocess time: 204.427 s
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Percentage time preprocessing: 23.57%
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Effective parallelization: 7.08 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.707707
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.48 sec, max 14.78 sec, min 1.94 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   17 times, average 4.32 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 4.21 sec, max 4.21 sec, min 4.21 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.54 sec, max 3.89 sec, min 2.22 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.41 sec, max 4.33 sec, min 0.64 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 19.62% of total time (compiled   80 times, average 2.13 sec, max 2.45 sec, min 1.61 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.81% of total time (compiled   87 times, average 1.28 sec, max 21.81 sec, min 0.26 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.24% of total time (compiled   75 times, average 1.18 sec, max 15.58 sec, min 0.15 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.47% of total time (compiled   17 times, average 4.32 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.69% of total time (compiled   45 times, average 1.48 sec, max 9.32 sec, min 0.61 sec)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Materials Translated:    179
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Material Translation Only: 0.06 s (40%)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-19.57.39:054][854]LogShaderCompilers: Display: ================================================
+[2026.01.28-19.58.12:357][502]LogStreaming: Display: FlushAsyncLoading(782): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.58.20:606][224]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.HueShift_Mat
+[2026.01.28-19.58.20:609][224]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.01.28-19.58.21:043][224]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.28-19.58.21:043][224]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.21:043][224]MaterialEditorStats: Shader Count: 0
+[2026.01.28-19.58.21:043][224]MaterialEditorStats: Preshaders: 3  (3 param fetches, 7 ops)
+[2026.01.28-19.58.21:187][226]MaterialEditorStats: Base pass shader: 179 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.58.21:187][226]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.58.21:187][226]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.58.21:187][226]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.21:187][226]MaterialEditorStats: Shader Count: 5
+[2026.01.28-19.58.21:187][226]MaterialEditorStats: Preshaders: 3  (3 param fetches, 7 ops)
+[2026.01.28-19.58.24:215][571]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.28-19.58.24:215][571]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.24:215][571]MaterialEditorStats: Shader Count: 0
+[2026.01.28-19.58.24:215][571]MaterialEditorStats: Preshaders: 3  (3 param fetches, 7 ops)
+[2026.01.28-19.58.24:241][574]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.58.24:241][574]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.28-19.58.24:241][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.24:241][574]MaterialEditorStats: Shader Count: 2
+[2026.01.28-19.58.24:241][574]MaterialEditorStats: Preshaders: 3  (3 param fetches, 7 ops)
+[2026.01.28-19.58.24:836][643]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.58.24:836][643]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.58.24:836][643]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.58.24:836][643]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.24:836][643]MaterialEditorStats: Shader Count: 4
+[2026.01.28-19.58.24:836][643]MaterialEditorStats: Preshaders: 3  (3 param fetches, 7 ops)
+[2026.01.28-19.58.28:982][132]MaterialEditorStats: Texture samplers: 0/16
+[2026.01.28-19.58.28:982][132]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.28:982][132]MaterialEditorStats: Shader Count: 0
+[2026.01.28-19.58.28:982][132]MaterialEditorStats: Preshaders: 3  (3 param fetches, 7 ops)
+[2026.01.28-19.58.29:008][135]MaterialEditorStats: Base pass shader: 181 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.58.29:008][135]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.58.29:008][135]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.58.29:008][135]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.29:008][135]MaterialEditorStats: Shader Count: 5
+[2026.01.28-19.58.29:008][135]MaterialEditorStats: Preshaders: 3  (3 param fetches, 7 ops)
+[2026.01.28-19.58.30:392][296]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.01.28-19.58.39:586][193]LogSlate: Window 'Message' being destroyed
+[2026.01.28-19.58.39:592][193]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/Functions/Engine_MaterialFunctions02/ExampleContent/HueShift_Mat.HueShift_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2026.01.28-19.58.39:613][193]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-19.58.39:613][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-19.58.39:676][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.01.28-19.58.43:412][609]LogEditorTransaction: Undo Move Node
+[2026.01.28-19.58.43:921][619]LogEditorTransaction: Undo Change Number Pin Value
+[2026.01.28-19.58.44:013][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.28-19.58.44:248][619]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.01.28-19.58.44:271][619]MaterialEditorStats: Base pass shader: 177 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.58.44:271][619]MaterialEditorStats: Base pass vertex shader: 148 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.01.28-19.58.44:271][619]MaterialEditorStats: Nanite Compute Shader: 805 instructions
+Stats: Resources Used: 9
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.01.28-19.58.44:271][619]MaterialEditorStats: Texture samplers: 1/16
+[2026.01.28-19.58.44:271][619]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.01.28-19.58.44:271][619]MaterialEditorStats: Shader Count: 41
+[2026.01.28-19.58.44:271][619]MaterialEditorStats: Preshaders: 4  (4 param fetches, 7 ops)
+[2026.01.28-19.59.11:716][ 98]LogStreaming: Display: FlushAsyncLoading(783): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-19.59.44:553][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.01.28-20.00.29:799][892]LogStreaming: Display: FlushAsyncLoading(785): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: ================================================
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Total job queries 18,809, among them cache hits 2,364 (12.57%), DDC hits 12,428 (66.07%), Duplicates 3,230 (17.17%)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Tracking 13,215 distinct input hashes that result in 12,038 distinct outputs (91.09%)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: RAM used: 159.75 MiB of 1.60 GiB budget. Usage: 9.75%
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Shaders Compiled: 770
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Jobs assigned 770, completed 770 (100%)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Average time worker was idle: 132.25 s
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Time job spent in pending queue: average 5.27 s, longest 40.00 s
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Job execution time: average 5.92 s, max 39.77 s
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Job life time (pending + execution): average 11.19 s, max 41.45
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Shader code size: total 11.096 MiB, numShaders 809, average 14.045 KiB, min 1.727 KiB, max 55.505 KiB
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 130.84 s
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  1.73%
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Jobs were issued in 340 batches (only local compilation was used), average 2.26 jobs/batch
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Average processing rate: 5.89 jobs/sec
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Total thread time: 881.475 s
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Total thread preprocess time: 205.801 s
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Percentage time preprocessing: 23.35%
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Effective parallelization: 6.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.673709
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 5.48 sec, max 14.78 sec, min 1.94 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 4.21 sec, max 4.21 sec, min 4.21 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   20 times, average 3.84 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 2.54 sec, max 3.89 sec, min 2.22 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.41 sec, max 4.33 sec, min 0.64 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 19.31% of total time (compiled   80 times, average 2.13 sec, max 2.45 sec, min 1.61 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 12.95% of total time (compiled   94 times, average 1.21 sec, max 21.81 sec, min 0.26 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.15% of total time (compiled   77 times, average 1.16 sec, max 15.58 sec, min 0.15 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 8.71% of total time (compiled   20 times, average 3.84 sec, max 17.15 sec, min 0.91 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 7.92% of total time (compiled   49 times, average 1.43 sec, max 9.32 sec, min 0.61 sec)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Materials Translated:    190
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Material Total Translate Time: 0.16 s
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Material Translation Only: 0.06 s (40%)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-20.00.39:063][931]LogShaderCompilers: Display: ================================================
+[2026.01.28-20.00.47:341][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.01.28-20.00.48:441][513]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4697.456543
+[2026.01.28-20.00.48:525][523]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-20.00.48:525][524]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4697.531738, Update Interval: 308.531158
+[2026.01.28-20.00.48:656][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.01.28-20.00.53:943][135]LogEditorTransaction: Undo Delete current selection
+[2026.01.28-20.01.44:887][292]LogStreaming: Display: FlushAsyncLoading(791): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.01.58:118][818]LogEditorTransaction: Undo Move Node
+[2026.01.28-20.02.10:767][267]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'.
+Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been compiled for  Get CurrentHealth
+[2026.01.28-20.02.10:767][267]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] Could not find a variable named "MaxHealth" in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'.
+Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been compiled for  Get MaxHealth
+[2026.01.28-20.02.10:767][267]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'.
+Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been compiled for  Get CurrentHealth
+[2026.01.28-20.02.10:767][267]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] Could not find a variable named "MaxHealth" in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'.
+Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been compiled for  Get MaxHealth
+[2026.01.28-20.02.10:767][267]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] Could not find a variable named "CurrentHealth" in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'.
+Make sure '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C' has been compiled for  Set CurrentHealth
+[2026.01.28-20.02.10:768][267]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] The property associated with  Max Health  could not be found in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'
+[2026.01.28-20.02.10:768][267]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'
+[2026.01.28-20.02.10:768][267]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] The property associated with  Max Health  could not be found in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'
+[2026.01.28-20.02.10:768][267]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'
+[2026.01.28-20.02.10:768][267]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\Blueprints\Components\BP_HealthComp.uasset: [Compiler] The property associated with  Current Health  could not be found in '/Game/Blueprints/Components/BP_HealthComp.BP_HealthComp_C'
+[2026.01.28-20.02.10:826][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.01.28-20.04.10:879][102]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.28-20.05.10:702][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.01.28-20.05.10:705][658]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.01.28-20.05.10:706][658]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/BP_HealthComp] ([2] browsable assets)...
+[2026.01.28-20.05.10:706][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/BP_HealthComp]
+[2026.01.28-20.05.10:722][658]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto7
+[2026.01.28-20.05.10:722][658]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthComp_Auto703B1CD704C1C95F52C9BFDAEC87BE5B4.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Components/BP_HealthComp_Auto7.uasset'
+[2026.01.28-20.05.10:723][658]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Triggerables/BP_HealthRegren] ([2] browsable assets)...
+[2026.01.28-20.05.10:827][658]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren]
+[2026.01.28-20.05.10:827][658]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_HealthRegren]
+[2026.01.28-20.05.10:839][658]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Triggerables/BP_HealthRegren_Auto7
+[2026.01.28-20.05.10:839][658]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_HealthRegren_Auto78339F351482E899002598C852929CF2F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Triggerables/BP_HealthRegren_Auto7.uasset'
+[2026.01.28-20.05.10:839][658]LogFileHelpers: Auto-saving content packages took 0.135
+[2026.01.28-20.05.53:993][694]LogStreaming: Display: FlushAsyncLoading(797): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-20.06.55:707][444]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5064.634766
+[2026.01.28-20.06.55:813][457]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-20.06.55:813][457]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5064.732910, Update Interval: 315.179901
+[2026.01.28-20.08.09:460][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.01.28-20.08.12:345][318]LogFab: Display: Logging in using persist
+[2026.01.28-20.08.12:346][318]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2026.01.28-20.08.12:758][318]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.01.28-20.08.12:761][318]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.01.28-20.08.12:853][318]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2026.01.28-20.08.12:853][318]LogFab: Display: Logging in using exchange code
+[2026.01.28-20.08.12:853][318]LogFab: Display: Reading exchange code from commandline
+[2026.01.28-20.08.12:951][327]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[OAuth], OperationName=[TokenGrantv2], Url=[<Redacted>], HttpStatus=[400], ErrorCode=[errors.com.epicgames.account.oauth.exchange_code_not_found], NumericErrorCode=[18057], ErrorMessage=[Sorry the exchange code you supplied was not found. It is possible that it was no longer valid], CorrId=[EOS-VOwYIh-J_EGQZFRFa4h5GA-fK_Q0LNrW0u9Y3yCTif2xg]
+[2026.01.28-20.08.12:951][327]LogEOSSDK: LogEOSAuth: FTokenGrantRequestTask: Received ResultCode: EOS_Auth_ExchangeCodeNotFound
+[2026.01.28-20.08.12:966][329]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received EOS_Auth_ExchangeCodeNotFound
+[2026.01.28-20.08.12:975][330]LogFab: Error: Login failed - error code: EOS_Auth_ExchangeCodeNotFound
+[2026.01.28-20.08.15:726][618]LogSlate: Window 'Fab' being destroyed
+[2026.01.28-20.08.18:538][721]LogSlate: Window 'Message' being destroyed
+[2026.01.28-20.08.18:546][721]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Engine/BasicShapes/BasicShape_matGreen.BasicShape_matGreen
+(Selecting 'No' will cause all changes to be lost!)
+[2026.01.28-20.08.18:568][721]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-20.08.18:568][721]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-20.08.18:605][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.01.28-20.08.19:158][780]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2026.01.28-20.08.19:158][780]LogFab: Error: User auth token is invalid - unable to get auth token
+[2026.01.28-20.08.54:557][747]LogFab: Display: Asset Type = unreal-engine
+[2026.01.28-20.08.54:557][747]LogFab: Display: Is Quixel = 0
+[2026.01.28-20.08.54:560][747]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/ZapVFX232915312ce4V1/CloudDir
+[2026.01.28-20.09.06:216][ 23]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.28-20.09.06:216][ 23]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.28-20.09.06:216][ 23]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Developers/rgowell/Collections/' because it could not be accessed. Aborting watch request...
+[2026.01.28-20.09.18:278][ 59]LogPSOHitching: Encountered 1650 PSO creation hitches so far (573 graphics, 1077 compute). 0 of them were precached.
+[2026.01.28-20.09.18:811][ 61]LogPSOHitching: Encountered 1700 PSO creation hitches so far (592 graphics, 1108 compute). 0 of them were precached.
+[2026.01.28-20.09.18:970][ 61]LogPSOHitching: Encountered 1750 PSO creation hitches so far (595 graphics, 1155 compute). 0 of them were precached.
+[2026.01.28-20.09.19:291][ 61]LogPSOHitching: Encountered 1800 PSO creation hitches so far (600 graphics, 1200 compute). 0 of them were precached.

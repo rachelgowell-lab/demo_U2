@@ -12,7 +12,10 @@
 				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/BPI_Health.uasset",
 				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BPI_HealthComp.uasset",
 				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Components/BP_HealthComp.uasset",
-				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset"
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Base.uasset",
+				"C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Triggerables/BP_HealthRegren.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial1.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShape_matGreen.uasset"
 			]
 		}
 	]
