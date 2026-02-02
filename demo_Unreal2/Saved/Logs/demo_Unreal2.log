@@ -7633,3 +7633,29 @@ Script Stack (0 frames) :
 [2026.02.02-20.20.16:089][103]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
 [2026.02.02-20.20.16:089][103]AssetCheck: /Game/PlayerAssets/SK_Player Validating asset
 [2026.02.02-20.20.16:129][103]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.02-20.21.32:184][984]LogPSOHitching: Encountered 2150 PSO creation hitches so far (722 graphics, 1428 compute). 0 of them were precached.
+[2026.02.02-20.21.32:397][984]LogPSOHitching: Encountered 2200 PSO creation hitches so far (734 graphics, 1466 compute). 0 of them were precached.
+[2026.02.02-20.21.32:654][984]LogPSOHitching: Encountered 2250 PSO creation hitches so far (741 graphics, 1509 compute). 0 of them were precached.
+[2026.02.02-20.21.33:250][996]LogPSOHitching: Encountered 2300 PSO creation hitches so far (755 graphics, 1545 compute). 0 of them were precached.
+[2026.02.02-20.22.05:280][100]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.6/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/" -install="O:/SAG Winter 2026/Rachel Gowell/Class UE Demo/start of p12/demo_Unreal2.zip"" -nocompile -nocompileuat ]
+[2026.02.02-20.22.05:288][100]LogStreaming: Display: FlushAsyncLoading(728): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-20.22.05:320][100]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2026.02.02-20.22.05:351][101]UATHelper: Zip Project Task (Windows (Editor)): Using bundled DotNet SDK version: 8.0.300 win-x64
+[2026.02.02-20.22.05:447][104]UATHelper: Zip Project Task (Windows (Editor)): Starting AutomationTool...
+[2026.02.02-20.22.05:457][104]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project=C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/ -install="O:/SAG Winter 2026/Rachel Gowell/Class UE Demo/start of p12/demo_Unreal2.zip" -nocompile -nocompileuat
+[2026.02.02-20.22.05:510][105]UATHelper: Zip Project Task (Windows (Editor)): Initializing script modules...
+[2026.02.02-20.22.05:765][128]UATHelper: Zip Project Task (Windows (Editor)): Total script module initialization time: 0.25 s.
+[2026.02.02-20.22.05:817][134]UATHelper: Zip Project Task (Windows (Editor)): Using C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\MSBuild.exe
+[2026.02.02-20.22.06:038][156]UATHelper: Zip Project Task (Windows (Editor)): Executing commands...
+[2026.02.02-20.22.06:038][156]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2026.02.02-20.22.06:038][156]UATHelper: Zip Project Task (Windows (Editor)): Project directory: C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2
+[2026.02.02-20.22.06:038][156]UATHelper: Zip Project Task (Windows (Editor)): Install directory: O:/SAG Winter 2026/Rachel Gowell/Class UE Demo/start of p12/demo_Unreal2.zip
+[2026.02.02-20.22.06:038][156]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2026.02.02-20.22.49:140][702]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2026.02.02-20.22.49:140][702]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2026.02.02-20.22.49:151][702]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 43s
+[2026.02.02-20.22.49:151][702]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2026.02.02-20.22.49:459][702]LogStreaming: Display: FlushAsyncLoading(729): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.02-20.23.40:805][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6908.308594
+[2026.02.02-20.23.41:805][860]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.02-20.23.41:805][860]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6908.975098, Update Interval: 308.862579
