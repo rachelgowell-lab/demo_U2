@@ -6691,3 +6691,47 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been comp
 [2026.02.04-20.15.42:750][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.04-20.15.42:750][780]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
 [2026.02.04-20.15.42:750][780]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.04-20.17.50:838][577]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-20.17.50:838][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-20.17.50:883][577]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-20.17.50:883][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-20.17.50:917][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.04-20.17.55:351][ 41]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10425.044922
+[2026.02.04-20.17.55:433][ 51]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-20.17.55:433][ 51]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10425.118164, Update Interval: 342.053284
+[2026.02.04-20.18.05:764][188]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.04-20.18.10:677][589]LogPSOHitching: Encountered 3050 PSO creation hitches so far (1023 graphics, 2027 compute). 0 of them were precached.
+[2026.02.04-20.18.10:853][589]LogPSOHitching: Encountered 3100 PSO creation hitches so far (1039 graphics, 2061 compute). 0 of them were precached.
+[2026.02.04-20.18.11:161][589]LogPSOHitching: Encountered 3150 PSO creation hitches so far (1040 graphics, 2110 compute). 0 of them were precached.
+[2026.02.04-20.18.11:804][599]LogPSOHitching: Encountered 3200 PSO creation hitches so far (1054 graphics, 2146 compute). 0 of them were precached.
+[2026.02.04-20.18.12:670][678]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.04-20.18.12:674][678]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.04-20.18.12:674][678]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.04-20.18.12:675][678]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 829 us (total: 9.103 ms)
+[2026.02.04-20.18.12:675][678]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.04-20.18.12:675][678]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterFPS_Playercontroller
+[2026.02.04-20.18.14:226][678]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.04-20.18.21:171][408]LogSlate: Window 'Message Log' being destroyed
+[2026.02.04-20.18.21:175][408]LogSlate: Window 'Message Log' being destroyed
+[2026.02.04-20.18.43:913][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.02.04-20.18.44:944][ 87]LogSlate: Window 'Save Content' being destroyed
+[2026.02.04-20.18.44:953][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-20.18.45:003][ 87]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-20.18.45:070][ 87]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-20.18.45:070][ 87]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-20.18.45:070][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.04-20.18.45:106][ 87]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.04-20.18.45:106][ 87]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase4E46DADF403E9C6D597DE2905956BA90.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.04-20.18.45:114][ 87]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU
+[2026.02.04-20.18.45:114][ 87]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOUFFEEAC71487AA4463B5441BCCABBF0DB.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU.uasset'
+[2026.02.04-20.18.45:123][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.828 ms (total: 2.04 sec)
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: Enabled validators:
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-20.18.45:167][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-20.18.45:167][ 87]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.04-20.18.45:167][ 87]AssetCheck: /Game/Levels/L_LevelOne Validating asset
