@@ -6274,3 +6274,420 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.04-19.32.56:129][765]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
 [2026.02.04-19.32.56:129][765]AssetCheck: /Game/Input/IMC_Default Validating asset
 [2026.02.04-19.32.56:141][766]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.04-19.33.13:895][148]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7741.903320
+[2026.02.04-19.33.13:970][157]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.33.13:970][157]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7741.970215, Update Interval: 306.368591
+[2026.02.04-19.34.13:171][882]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.04-19.34.48:142][761]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.04-19.34.51:255][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.04-19.34.51:258][ 93]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.02.04-19.34.51:258][ 93]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.04-19.34.51:258][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.02.04-19.34.51:269][ 93]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/IMC_Default_Auto9
+[2026.02.04-19.34.51:269][ 93]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IMC_Default_Auto9561319954C2CCC69CBACCAAFE6F04566.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Input/IMC_Default_Auto9.uasset'
+[2026.02.04-19.34.51:270][ 93]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-19.34.51:270][ 93]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA_NextWeapon]
+[2026.02.04-19.34.51:270][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA_NextWeapon" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/IA_NextWeapon_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2026.02.04-19.34.51:277][ 93]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA_NextWeapon_Auto9
+[2026.02.04-19.34.51:277][ 93]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_NextWeapon_Auto9B818152247A0E11BE87D20843EB1D4F2.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/IA_NextWeapon_Auto9.uasset'
+[2026.02.04-19.34.51:277][ 93]LogFileHelpers: Auto-saving content packages took 0.020
+[2026.02.04-19.35.18:803][690]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.04-19.35.29:558][899]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.35.29:597][899]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.04-19.35.29:597][899]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.02.04-19.35.29:597][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.02.04-19.35.29:607][899]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.02.04-19.35.29:607][899]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IMC_Default96A70969454B79A8A0A6B7BBEECB4198.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/IMC_Default.uasset'
+[2026.02.04-19.35.29:613][899]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.853 ms (total: 1.30 sec)
+[2026.02.04-19.35.29:664][899]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.35.29:664][899]LogContentValidation: Enabled validators:
+[2026.02.04-19.35.29:664][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.35.29:664][899]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.35.29:664][899]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.35.29:664][899]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.35.29:664][899]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.35.29:664][899]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.35.29:664][899]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.02.04-19.35.34:028][280]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Input/IMC_Default.IMC_Default
+[2026.02.04-19.35.40:035][936]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/IA_NextWeapon.IA_NextWeapon
+[2026.02.04-19.35.52:445][348]LogEditCondition: Error: EnhancedActionKeyMapping - EditCondition attempted to use an invalid operand "SettingBehavior" (value error).
+[2026.02.04-19.36.06:749][923]LogSlate: Window 'Save Asset As' being destroyed
+[2026.02.04-19.36.16:892][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-19.36.16:945][ 98]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/IMC_Default] ([1] browsable assets)...
+[2026.02.04-19.36.16:945][ 98]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/IMC_Default]
+[2026.02.04-19.36.16:945][ 98]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/IMC_Default" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/IMC_Default.uasset" SILENT=true
+[2026.02.04-19.36.16:955][ 98]LogSavePackage: Moving output files for package: /Game/Input/IMC_Default
+[2026.02.04-19.36.16:955][ 98]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IMC_DefaultF53A7D1B4BB62D7736FCDCB281428D10.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/IMC_Default.uasset'
+[2026.02.04-19.36.16:963][ 98]LogFileHelpers: InternalPromptForCheckoutAndSave took 70.822 ms (total: 1.37 sec)
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: Enabled validators:
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-19.36.17:013][ 98]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-19.36.17:013][ 98]AssetCheck: /Game/Input/IMC_Default Validating asset
+[2026.02.04-19.36.18:695][282]LogPSOHitching: Encountered 2800 PSO creation hitches so far (920 graphics, 1880 compute). 0 of them were precached.
+[2026.02.04-19.37.06:240][402]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' Not Equal (Float) '
+[2026.02.04-19.37.06:240][402]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' Not Equal (Float) '
+[2026.02.04-19.37.06:240][402]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' Not Equal (Float) ' could not successfuly expand pins!
+[2026.02.04-19.37.06:370][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.04-19.37.08:619][609]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.04-19.37.08:624][609]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.04-19.37.08:624][609]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.04-19.37.08:624][609]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 663 us (total: 8.273 ms)
+[2026.02.04-19.37.08:625][609]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.04-19.37.08:625][609]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterBase
+[2026.02.04-19.37.10:177][609]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.04-19.37.14:255][ 86]LogSlate: Window 'Message Log' being destroyed
+[2026.02.04-19.37.14:261][ 86]LogSlate: Window 'Message Log' being destroyed
+[2026.02.04-19.38.51:595][745]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8079.574219
+[2026.02.04-19.38.51:670][754]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.38.51:670][754]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8079.641113, Update Interval: 352.974030
+[2026.02.04-19.41.24:753][527]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\BP_CharacterFPS_Playercontroller.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2026.02.04-19.41.24:797][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.02.04-19.43.11:086][981]LogSlate: Took 0.006695 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2026.02.04-19.43.42:236][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.04-19.43.50:808][ 86]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.02.04-19.43.50:996][ 89]LogPSOHitching: Encountered 2850 PSO creation hitches so far (951 graphics, 1899 compute). 0 of them were precached.
+[2026.02.04-19.43.52:379][179]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Pipe.BP_Pipe
+[2026.02.04-19.43.52:379][179]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_48
+[2026.02.04-19.44.20:391][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.04-19.44.24:896][729]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.44.24:896][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.44.24:943][729]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.04-19.44.34:194][552]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun
+[2026.02.04-19.44.34:195][552]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_49
+[2026.02.04-19.44.55:394][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.04-19.44.57:126][323]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.44.57:126][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.44.57:192][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.04-19.45.02:562][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher
+[2026.02.04-19.45.02:562][796]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_50
+[2026.02.04-19.45.14:755][  1]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.04-19.45.27:563][239]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.45.27:564][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.45.27:615][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.04-19.45.36:646][295]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8485.074219
+[2026.02.04-19.45.36:721][304]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.45.36:721][304]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8485.140625, Update Interval: 357.057404
+[2026.02.04-19.46.45:871][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.04-19.46.45:874][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.027
+[2026.02.04-19.46.45:875][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.04-19.46.45:987][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.04-19.46.45:987][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.04-19.46.46:007][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto0
+[2026.02.04-19.46.46:007][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Auto0AFD2A9A94AA9909426DA4797E5F33FAE.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto0.uasset'
+[2026.02.04-19.46.46:007][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-19.46.46:034][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-19.46.46:034][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-19.46.46:066][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto0
+[2026.02.04-19.46.46:066][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase_Auto036C9058C497C9098AF9B89A195E29E86.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto0.uasset'
+[2026.02.04-19.46.46:066][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.04-19.46.46:092][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher]
+[2026.02.04-19.46.46:093][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.04-19.46.46:111][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto0
+[2026.02.04-19.46.46:111][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_GrenadeLauncher_Auto06B57443449BB4E522C356FBE9AB37796.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto0.uasset'
+[2026.02.04-19.46.46:112][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.04-19.46.46:134][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.04-19.46.46:134][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.04-19.46.46:153][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto0
+[2026.02.04-19.46.46:153][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_WeaponBase_Auto066842D384FDF1E05EB909898E6AE7BA4.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto0.uasset'
+[2026.02.04-19.46.46:153][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Pipe] ([2] browsable assets)...
+[2026.02.04-19.46.46:182][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Pipe.BP_Pipe]
+[2026.02.04-19.46.46:182][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Pipe]
+[2026.02.04-19.46.46:194][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Pipe_Auto0
+[2026.02.04-19.46.46:194][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Pipe_Auto06A9ECE6741A9D9AD02E1CC9EB4A7706E.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Pipe_Auto0.uasset'
+[2026.02.04-19.46.46:195][217]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.04-19.46.46:224][217]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.04-19.46.46:224][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.04-19.46.46:242][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto0
+[2026.02.04-19.46.46:242][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Gun_Auto0D12D82A841A3C9CE1A7C68895D4342B1.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto0.uasset'
+[2026.02.04-19.46.46:242][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CharacterFPS_Playercontroller] ([2] browsable assets)...
+[2026.02.04-19.46.46:242][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CharacterFPS_Playercontroller]
+[2026.02.04-19.46.46:254][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_CharacterFPS_Playercontroller_Auto0
+[2026.02.04-19.46.46:254][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Playercontroller1C2FE9F048E0875CF84B93A6F5E5D99C.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/BP_CharacterFPS_Playercontroller_Auto0.uasset'
+[2026.02.04-19.46.46:255][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PreviousWeapon] ([1] browsable assets)...
+[2026.02.04-19.46.46:255][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PreviousWeapon]
+[2026.02.04-19.46.46:261][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_PreviousWeapon_Auto0
+[2026.02.04-19.46.46:261][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_PreviousWeapon_Auto001AA948A48A68F7BCDCADE93C64111B4.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Input/Actions/IA_PreviousWeapon_Auto0.uasset'
+[2026.02.04-19.46.46:261][217]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-19.46.46:261][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_NextWeapon]
+[2026.02.04-19.46.46:267][217]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_NextWeapon_Auto0
+[2026.02.04-19.46.46:267][217]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_NextWeapon_Auto0EAE84CC04202653F7B54D7BEBA4ED4CC.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Input/Actions/IA_NextWeapon_Auto0.uasset'
+[2026.02.04-19.46.46:267][217]LogFileHelpers: Auto-saving content packages took 0.394
+[2026.02.04-19.47.16:480][389]LogStreaming: Display: FlushAsyncLoading(583): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.04-19.47.16:482][389]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C'",MemberName="Shortcut",MemberGuid=D9C70E9640029D1136E725A2AD3D66C5)'
+[2026.02.04-19.48.43:499][  7]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' Not Equal (Float) '
+[2026.02.04-19.48.43:499][  7]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Cannot find appropriate promotion from 'Wildcard' to 'Float (double-precision)' on ' Not Equal (Float) '
+[2026.02.04-19.48.43:499][  7]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] ' Not Equal (Float) ' could not successfuly expand pins!
+[2026.02.04-19.48.43:596][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.02.04-19.49.04:195][104]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item
+[2026.02.04-19.49.04:196][104]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_51
+[2026.02.04-19.49.04:591][104]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:531][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:535][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:539][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:543][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:548][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:551][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:556][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.21:560][ 31]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.23:049][193]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.23:106][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.04-19.49.23:112][193]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.23:119][193]LogScript: Warning: Accessed None trying to read Class from property WeaponClass
+	BP_Pickup_Item_C /Engine/Transient.World_51:PersistentLevel.BP_Pickup_Item_C_0
+	Function /Game/Blueprints/Triggerables/BP_Pickup_Item.BP_Pickup_Item_C:UserConstructionScript:0046
+[2026.02.04-19.49.24:785][363]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.49.24:786][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.49.24:834][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.04-19.49.31:512][966]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.04-19.49.31:512][966]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.49.31:512][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.49.31:578][966]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.04-19.52.09:486][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8878.019531
+[2026.02.04-19.52.09:589][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.52.09:589][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8878.113281, Update Interval: 307.404999
+[2026.02.04-19.52.56:657][289]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.04-19.52.56:657][289]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-19.52.56:657][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-19.52.56:725][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.04-19.55.40:425][676]LogStreaming: Display: FlushAsyncLoading(594): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.04-19.57.01:285][456]LogEditorTransaction: Undo Move Nodes
+[2026.02.04-19.57.01:449][456]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-19.57.02:674][524]LogEditorTransaction: Undo Create Pin Link
+[2026.02.04-19.57.02:836][524]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-19.57.54:865][734]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9223.322266
+[2026.02.04-19.57.54:945][743]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-19.57.54:945][743]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9223.393555, Update Interval: 329.180573
+[2026.02.04-19.58.51:174][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.04-19.58.51:192][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto1
+[2026.02.04-19.58.51:192][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU_Auto12967C484424C456F7B1121A3A1F7F7EB.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto1.uasset'
+[2026.02.04-19.58.51:192][642]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.042
+[2026.02.04-19.58.51:192][642]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.042
+[2026.02.04-19.58.51:193][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.04-19.58.51:243][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.04-19.58.51:243][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.04-19.58.51:262][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto1
+[2026.02.04-19.58.51:262][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Auto11228B4A8416A0A6CBE687DA35F5DB530.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto1.uasset'
+[2026.02.04-19.58.51:263][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-19.58.51:280][642]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-19.58.51:280][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-19.58.51:362][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto1
+[2026.02.04-19.58.51:362][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase_Auto145FC278B4BDD2EF4C6066CAD44E1ADD0.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto1.uasset'
+[2026.02.04-19.58.51:363][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.04-19.58.51:363][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.04-19.58.51:379][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto1
+[2026.02.04-19.58.51:379][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_GrenadeLauncher_Auto1B8D137304048EAE7D16C8BB2A637270D.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto1.uasset'
+[2026.02.04-19.58.51:380][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.04-19.58.51:380][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.04-19.58.51:396][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto1
+[2026.02.04-19.58.51:396][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_WeaponBase_Auto18444D0874EEFCA3CF6B446B57EF41DBF.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto1.uasset'
+[2026.02.04-19.58.51:397][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggerables/BP_Pickup_Item] ([2] browsable assets)...
+[2026.02.04-19.58.51:397][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_Pickup_Item]
+[2026.02.04-19.58.51:408][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/Triggerables/BP_Pickup_Item_Auto1
+[2026.02.04-19.58.51:408][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Pickup_Item_Auto126BE081242935450CC0CFBB85C98D1E9.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/Triggerables/BP_Pickup_Item_Auto1.uasset'
+[2026.02.04-19.58.51:409][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Pipe] ([2] browsable assets)...
+[2026.02.04-19.58.51:409][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Pipe]
+[2026.02.04-19.58.51:421][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Pipe_Auto1
+[2026.02.04-19.58.51:421][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Pipe_Auto1F239C5054205CA1BBF433E996AEC6BB7.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Pipe_Auto1.uasset'
+[2026.02.04-19.58.51:421][642]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.04-19.58.51:421][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.04-19.58.51:436][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto1
+[2026.02.04-19.58.51:436][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Gun_Auto1610DA04D4708515DF96DA2AEACA77399.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto1.uasset'
+[2026.02.04-19.58.51:437][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CharacterFPS_Playercontroller] ([2] browsable assets)...
+[2026.02.04-19.58.51:437][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CharacterFPS_Playercontroller]
+[2026.02.04-19.58.51:447][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_CharacterFPS_Playercontroller_Auto1
+[2026.02.04-19.58.51:447][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_PlayercontrollerF6D998294D9604A6A3F4B8B92446E288.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/BP_CharacterFPS_Playercontroller_Auto1.uasset'
+[2026.02.04-19.58.51:447][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-19.58.51:447][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA_NextWeapon]
+[2026.02.04-19.58.51:447][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA_NextWeapon" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/IA_NextWeapon_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2026.02.04-19.58.51:453][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/IA_NextWeapon_Auto1
+[2026.02.04-19.58.51:453][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_NextWeapon_Auto145E1FE9D471A2E3776140AA3DEE11682.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/IA_NextWeapon_Auto1.uasset'
+[2026.02.04-19.58.51:454][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PreviousWeapon] ([1] browsable assets)...
+[2026.02.04-19.58.51:454][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PreviousWeapon]
+[2026.02.04-19.58.51:459][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_PreviousWeapon_Auto1
+[2026.02.04-19.58.51:459][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_PreviousWeapon_Auto1CD5543AB4E80546951D4A89DD110B0CB.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Input/Actions/IA_PreviousWeapon_Auto1.uasset'
+[2026.02.04-19.58.51:460][642]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-19.58.51:460][642]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_NextWeapon]
+[2026.02.04-19.58.51:465][642]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Input/Actions/IA_NextWeapon_Auto1
+[2026.02.04-19.58.51:465][642]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_NextWeapon_Auto156E136964EB32286746B58A28049D6EF.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Input/Actions/IA_NextWeapon_Auto1.uasset'
+[2026.02.04-19.58.51:466][642]LogFileHelpers: Auto-saving content packages took 0.274
+[2026.02.04-20.03.16:148][144]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "WeaponSwitchInterval" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get WeaponSwitchInterval
+[2026.02.04-20.03.16:148][144]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "Shortcut" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compiled for  Get Shortcut
+[2026.02.04-20.03.16:148][144]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "Weapons" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get Weapons
+[2026.02.04-20.03.16:165][144]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Weapons  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-20.03.16:165][144]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Shortcut  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-20.03.16:165][144]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Weapon Switch Interval  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-20.03.16:254][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.04-20.04.09:554][689]LogEditorTransaction: Undo Delete current selection
+[2026.02.04-20.04.09:721][689]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-20.04.13:514][ 45]LogEditorTransaction: Undo Delete current selection
+[2026.02.04-20.04.13:686][ 45]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-20.04.22:131][872]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9611.004883
+[2026.02.04-20.04.22:224][881]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-20.04.22:224][881]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9611.087891, Update Interval: 358.370300
+[2026.02.04-20.05.41:972][426]LogEditorTransaction: Undo Create Pin Link
+[2026.02.04-20.05.42:135][426]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-20.06.07:237][191]LogEditorTransaction: Undo Break Node Links
+[2026.02.04-20.06.07:400][191]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-20.06.23:108][872]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2026.02.04-20.06.23:108][872]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_52
+[2026.02.04-20.06.27:291][316]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2026.02.04-20.06.27:291][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-20.06.27:352][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.04-20.06.27:585][332]LogPSOHitching: Encountered 2900 PSO creation hitches so far (983 graphics, 1917 compute). 0 of them were precached.
+[2026.02.04-20.07.09:157][943]LogEditorTransaction: Undo Refresh Node(s)
+[2026.02.04-20.07.09:331][943]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_46:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-20.07.22:009][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.04-20.07.23:130][347]LogSlate: Window 'Save Content' being destroyed
+[2026.02.04-20.07.23:138][347]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-20.07.23:188][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-20.07.23:346][347]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-20.07.23:347][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-20.07.23:347][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.04-20.07.23:382][347]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.04-20.07.23:384][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBaseB03043544276DA22A71E37A309FC1704.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.04-20.07.23:384][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.04-20.07.23:391][347]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.04-20.07.23:391][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.04-20.07.23:391][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.04-20.07.23:411][347]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.04-20.07.23:412][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPSF8FBD18F48BE6310D90882A7B1C5A2BE.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.04-20.07.23:412][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CharacterFPS_Playercontroller] ([2] browsable assets)...
+[2026.02.04-20.07.23:412][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CharacterFPS_Playercontroller]
+[2026.02.04-20.07.23:422][347]LogSavePackage: Moving output files for package: /Game/BP_CharacterFPS_Playercontroller
+[2026.02.04-20.07.23:422][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Playercontroller6C4301D6438DCA546DC47D8D1CCCC5EF.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/BP_CharacterFPS_Playercontroller.uasset'
+[2026.02.04-20.07.23:426][347]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU
+[2026.02.04-20.07.23:426][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU0AD887814F87648F3B6DFB8B21222792.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU.uasset'
+[2026.02.04-20.07.23:427][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.04-20.07.23:427][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.04-20.07.23:444][347]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher
+[2026.02.04-20.07.23:444][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_GrenadeLauncher2B4C5ED949B320B5BE439A846566E208.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.uasset'
+[2026.02.04-20.07.23:445][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.04-20.07.23:445][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.04-20.07.23:460][347]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Gun
+[2026.02.04-20.07.23:461][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_GunF35B553D461F66590EEFBE9C49E47582.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset'
+[2026.02.04-20.07.23:461][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Triggerables/BP_Pickup_Item] ([2] browsable assets)...
+[2026.02.04-20.07.23:462][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Triggerables/BP_Pickup_Item]
+[2026.02.04-20.07.23:473][347]LogSavePackage: Moving output files for package: /Game/Blueprints/Triggerables/BP_Pickup_Item
+[2026.02.04-20.07.23:474][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Pickup_ItemA42E1C274F0E381697420DB57F6AB98D.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/Triggerables/BP_Pickup_Item.uasset'
+[2026.02.04-20.07.23:474][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Pipe] ([2] browsable assets)...
+[2026.02.04-20.07.23:474][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Pipe]
+[2026.02.04-20.07.23:485][347]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Pipe
+[2026.02.04-20.07.23:485][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Pipe14B331F245056BCC831C47BB216BA002.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_Pipe.uasset'
+[2026.02.04-20.07.23:486][347]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.04-20.07.23:486][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.04-20.07.23:503][347]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.04-20.07.23:503][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_WeaponBaseD5AC1FCC4FA812D98B026BB341D2B45C.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.04-20.07.23:504][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-20.07.23:504][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/IA_NextWeapon]
+[2026.02.04-20.07.23:504][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/IA_NextWeapon" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/IA_NextWeapon.uasset" SILENT=true
+[2026.02.04-20.07.23:510][347]LogSavePackage: Moving output files for package: /Game/IA_NextWeapon
+[2026.02.04-20.07.23:510][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_NextWeapon4E0F2CF5415BD6E88A1641911DA00A6E.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/IA_NextWeapon.uasset'
+[2026.02.04-20.07.23:513][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_NextWeapon] ([1] browsable assets)...
+[2026.02.04-20.07.23:513][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_NextWeapon]
+[2026.02.04-20.07.23:513][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_NextWeapon" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/Actions/IA_NextWeapon.uasset" SILENT=true
+[2026.02.04-20.07.23:519][347]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_NextWeapon
+[2026.02.04-20.07.23:519][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_NextWeapon6AA2A2B24F05212D429DF28019F7273E.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/Actions/IA_NextWeapon.uasset'
+[2026.02.04-20.07.23:520][347]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Input/Actions/IA_PreviousWeapon] ([1] browsable assets)...
+[2026.02.04-20.07.23:520][347]OBJ SavePackage: Finished generating thumbnails for package [/Game/Input/Actions/IA_PreviousWeapon]
+[2026.02.04-20.07.23:520][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Input/Actions/IA_PreviousWeapon" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/Actions/IA_PreviousWeapon.uasset" SILENT=true
+[2026.02.04-20.07.23:526][347]LogSavePackage: Moving output files for package: /Game/Input/Actions/IA_PreviousWeapon
+[2026.02.04-20.07.23:526][347]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/IA_PreviousWeapon27C8BFF845D5902D65FE08A11C204028.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Input/Actions/IA_PreviousWeapon.uasset'
+[2026.02.04-20.07.23:533][347]LogFileHelpers: InternalPromptForCheckoutAndSave took 394.543 ms (total: 1.76 sec)
+[2026.02.04-20.07.23:566][347]LogContentValidation: Display: Starting to validate 12 assets
+[2026.02.04-20.07.23:566][347]LogContentValidation: Enabled validators:
+[2026.02.04-20.07.23:566][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-20.07.23:566][347]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-20.07.23:566][347]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-20.07.23:566][347]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-20.07.23:566][347]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-20.07.23:566][347]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/BP_CharacterFPS_Playercontroller Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Gun Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Blueprints/Triggerables/BP_Pickup_Item Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Pipe Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/IA_NextWeapon Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Input/Actions/IA_NextWeapon Validating asset
+[2026.02.04-20.07.23:567][347]AssetCheck: /Game/Input/Actions/IA_PreviousWeapon Validating asset
+[2026.02.04-20.07.23:583][347]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.04-20.08.00:631][ 46]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase without an associated node. The blueprint breakpoint has been removed
+[2026.02.04-20.08.00:631][ 46]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase without an associated node. The blueprint breakpoint has been removed
+[2026.02.04-20.08.15:042][581]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "WeaponSwitchInterval" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get WeaponSwitchInterval
+[2026.02.04-20.08.15:058][581]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Weapon Switch Interval  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-20.08.15:151][581]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2026.02.04-20.08.22:330][305]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] Could not find a variable named "WeaponSwitchInterval" in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'.
+Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C' has been compiled for  Get WeaponSwitchInterval
+[2026.02.04-20.08.22:346][305]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\PlayerAssets\BP_CharacterBase.uasset: [Compiler] The property associated with  Weapon Switch Interval  could not be found in '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase_C'
+[2026.02.04-20.08.22:438][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.04-20.08.54:694][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.04-20.08.54:713][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto2
+[2026.02.04-20.08.54:713][457]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU_Auto298F6DF8A4929459A04FFFA9C1B751E8F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto2.uasset'
+[2026.02.04-20.08.54:715][457]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.063
+[2026.02.04-20.08.54:715][457]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.063
+[2026.02.04-20.08.54:715][457]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-20.08.54:762][457]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.04-20.08.54:762][457]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-20.08.54:796][457]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2
+[2026.02.04-20.08.54:797][457]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase_Auto237C393BD423AC9B6FCB020A70748D503.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2.uasset'
+[2026.02.04-20.08.54:797][457]LogFileHelpers: Auto-saving content packages took 0.082
+[2026.02.04-20.09.20:475][540]LogPSOHitching: Encountered 2950 PSO creation hitches so far (1005 graphics, 1945 compute). 0 of them were precached.
+[2026.02.04-20.09.20:772][540]LogPSOHitching: Encountered 3000 PSO creation hitches so far (1006 graphics, 1994 compute). 0 of them were precached.
+[2026.02.04-20.11.17:261][275]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 10026.838867
+[2026.02.04-20.11.17:343][285]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-20.11.17:343][285]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 10026.914062, Update Interval: 339.876099
+[2026.02.04-20.15.41:334][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2026.02.04-20.15.42:604][780]LogSlate: Window 'Save Content' being destroyed
+[2026.02.04-20.15.42:612][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-20.15.42:668][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.04-20.15.42:668][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.04-20.15.42:668][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.04-20.15.42:702][780]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.04-20.15.42:703][780]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase9DBCEC5746B02C8137C4C08953A2C65E.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.04-20.15.42:706][780]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU
+[2026.02.04-20.15.42:706][780]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU472A3CEC49AFEB4CBE17E3B86C6CCA7C.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU.uasset'
+[2026.02.04-20.15.42:713][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 101.903 ms (total: 1.87 sec)
+[2026.02.04-20.15.42:750][780]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.04-20.15.42:750][780]LogContentValidation: Enabled validators:
+[2026.02.04-20.15.42:750][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-20.15.42:750][780]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-20.15.42:750][780]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-20.15.42:750][780]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-20.15.42:750][780]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-20.15.42:750][780]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-20.15.42:750][780]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.04-20.15.42:750][780]AssetCheck: /Game/Levels/L_LevelOne Validating asset
