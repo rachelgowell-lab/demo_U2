@@ -3287,3 +3287,179 @@ Make sure '/Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase' has been compil
 [2026.02.04-18.12.55:468][673]AssetCheck: /Game/Levels/L_LevelOne Validating asset
 [2026.02.04-18.12.55:468][673]AssetCheck: /Game/Blueprints/Components/BP_HealthComp Validating asset
 [2026.02.04-18.12.55:483][673]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.04-18.14.12:025][ 81]LogPSOHitching: Encountered 1400 PSO creation hitches so far (466 graphics, 934 compute). 0 of them were precached.
+[2026.02.04-18.14.12:246][ 81]LogPSOHitching: Encountered 1450 PSO creation hitches so far (469 graphics, 981 compute). 0 of them were precached.
+[2026.02.04-18.14.12:571][ 82]LogPSOHitching: Encountered 1500 PSO creation hitches so far (479 graphics, 1021 compute). 0 of them were precached.
+[2026.02.04-18.14.22:014][777]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_57
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.14.40:336][ 81]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_58
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.14.40:353][ 82]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_59
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.14.55:343][983]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.04-18.14.55:351][983]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.04-18.14.55:361][983]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.04-18.14.55:386][984]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.04-18.15.05:572][772]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PlayerDeathPawn
+[2026.02.04-18.15.05:579][772]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.04-18.15.05:650][774]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_60
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.15.06:886][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_PlayerDeathPawn.BP_PlayerDeathPawn
+[2026.02.04-18.15.06:886][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.02.04-18.15.31:393][285]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_35
+[2026.02.04-18.15.51:858][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.04-18.16.01:985][169]LogEditorTransaction: Undo Modify Component(s)
+[2026.02.04-18.16.02:253][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-18.16.02:258][169]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-18.16.04:406][345]LogEditorTransaction: Undo Modify Component(s)
+[2026.02.04-18.16.04:643][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_3:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-18.16.04:649][345]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2026.02.04-18.18.02:617][312]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3231.035400
+[2026.02.04-18.18.02:687][316]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-18.18.02:687][316]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3231.096191, Update Interval: 344.887848
+[2026.02.04-18.18.37:360][489]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.02.04-18.18.44:104][ 89]LogPSOHitching: Encountered 1550 PSO creation hitches so far (500 graphics, 1050 compute). 0 of them were precached.
+[2026.02.04-18.18.44:323][ 89]LogPSOHitching: Encountered 1600 PSO creation hitches so far (502 graphics, 1098 compute). 0 of them were precached.
+[2026.02.04-18.18.44:685][ 89]LogPSOHitching: Encountered 1650 PSO creation hitches so far (514 graphics, 1136 compute). 0 of them were precached.
+[2026.02.04-18.18.49:585][405]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 282405
+[2026.02.04-18.18.49:585][405]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.02.04-18.18.49:586][405]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.04-18.18.49:710][410]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_61
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.05:976][651]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_62
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.05:991][652]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_63
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.06:005][653]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_64
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.06:019][654]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_65
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.06:033][655]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_66
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.06:049][656]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_67
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.06:064][657]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_68
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.19.37:841][960]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.04-18.19.37:847][960]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.041
+[2026.02.04-18.19.37:847][960]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/PlayerAssets/BP_PlayerDeathPawn] ([2] browsable assets)...
+[2026.02.04-18.19.37:855][960]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_PlayerDeathPawn.BP_PlayerDeathPawn]
+[2026.02.04-18.19.37:855][960]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_PlayerDeathPawn]
+[2026.02.04-18.19.37:866][960]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_PlayerDeathPawn_Auto5
+[2026.02.04-18.19.37:866][960]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_PlayerDeathPawn_Auto565E8B9D34BC12190D17488B2D0BF2D73.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_PlayerDeathPawn_Auto5.uasset'
+[2026.02.04-18.19.37:867][960]LogFileHelpers: Auto-saving content packages took 0.020
+[2026.02.04-18.20.05:167][645]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.02.04-18.20.05:175][645]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.02.04-18.20.05:182][645]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.02.04-18.20.05:197][646]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.02.04-18.20.25:258][173]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_CharacterFPS_Playercontroller
+[2026.02.04-18.20.25:266][173]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.02.04-18.20.25:311][175]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_69
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.20.35:021][906]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_CharacterFPS_Playercontroller.BP_CharacterFPS_Playercontroller
+[2026.02.04-18.20.35:021][906]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_36
+[2026.02.04-18.21.32:065][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.04-18.21.33:191][957]LogSlate: Window 'Save Content' being destroyed
+[2026.02.04-18.21.33:200][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-18.21.33:258][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CharacterFPS_Playercontroller] ([2] browsable assets)...
+[2026.02.04-18.21.33:258][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CharacterFPS_Playercontroller]
+[2026.02.04-18.21.33:265][957]LogSavePackage: Moving output files for package: /Game/BP_CharacterFPS_Playercontroller
+[2026.02.04-18.21.33:265][957]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Playercontroller36955E924B0FFAFA897ED7941E5286E6.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/BP_CharacterFPS_Playercontroller.uasset'
+[2026.02.04-18.21.33:269][957]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_PlayerDeathPawn] ([2] browsable assets)...
+[2026.02.04-18.21.33:269][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_PlayerDeathPawn]
+[2026.02.04-18.21.33:269][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_PlayerDeathPawn" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_PlayerDeathPawn.uasset" SILENT=true
+[2026.02.04-18.21.33:276][957]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_PlayerDeathPawn
+[2026.02.04-18.21.33:276][957]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_PlayerDeathPawn7F87AABF4EB2907D9C552E89BD4ACBD1.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_PlayerDeathPawn.uasset'
+[2026.02.04-18.21.33:285][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.201 ms (total: 588.544 ms)
+[2026.02.04-18.21.33:336][957]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.04-18.21.33:336][957]LogContentValidation: Enabled validators:
+[2026.02.04-18.21.33:336][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-18.21.33:336][957]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-18.21.33:336][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-18.21.33:336][957]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-18.21.33:336][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-18.21.33:336][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-18.21.33:336][957]AssetCheck: /Game/BP_CharacterFPS_Playercontroller Validating asset
+[2026.02.04-18.21.33:336][957]AssetCheck: /Game/PlayerAssets/BP_PlayerDeathPawn Validating asset
+[2026.02.04-18.21.33:349][957]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.04-18.22.02:549][890]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\BP_CharacterFPS_Playercontroller.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event On Possess  and was replaced as a Custom Event!
+[2026.02.04-18.22.02:550][890]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\BP_CharacterFPS_Playercontroller.uasset: [Compiler] Pasted node  CustomEvent_1   conflicted with  Event On UnPossess  and was replaced as a Custom Event!
+[2026.02.04-18.22.02:550][890]LogStreaming: Display: FlushAsyncLoading(576): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.04-18.22.28:127][754]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\BP_CharacterFPS_Playercontroller.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2026.02.04-18.22.28:127][754]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\Github\demo_U2\demo_Unreal2\Content\BP_CharacterFPS_Playercontroller.uasset: [Compiler] Input pin  Instigator  specifying non-default value no longer exists on node  SpawnActor NONE . Please refresh node or reset pin to default value to remove pin.
+[2026.02.04-18.22.28:168][754]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.02.04-18.24.34:268][535]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3622.702637
+[2026.02.04-18.24.34:335][543]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.04-18.24.34:335][543]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3622.761475, Update Interval: 350.511169
+[2026.02.04-18.26.08:846][362]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.04-18.27.17:130][199]LogPSOHitching: Encountered 1700 PSO creation hitches so far (541 graphics, 1159 compute). 0 of them were precached.
+[2026.02.04-18.27.29:400][466]LogPSOHitching: Encountered 1750 PSO creation hitches so far (556 graphics, 1194 compute). 0 of them were precached.
+[2026.02.04-18.27.29:763][466]LogPSOHitching: Encountered 1800 PSO creation hitches so far (558 graphics, 1242 compute). 0 of them were precached.
+[2026.02.04-18.27.30:024][467]LogPSOHitching: Encountered 1850 PSO creation hitches so far (576 graphics, 1274 compute). 0 of them were precached.
+[2026.02.04-18.27.31:486][530]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_70
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.38:567][ 10]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_71
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.38:585][ 11]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_72
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.38:638][ 14]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_73
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.40:577][153]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_74
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.40:809][161]LogPSOHitching: Encountered 1900 PSO creation hitches so far (598 graphics, 1302 compute). 0 of them were precached.
+[2026.02.04-18.27.41:069][168]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_75
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.41:135][171]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_76
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.41:306][178]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_12:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_77
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.04-18.27.43:405][315]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS
+[2026.02.04-18.27.43:405][315]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.02.04-18.28.07:493][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.02.04-18.29.06:991][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.04-18.29.37:695][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.04-18.29.38:832][ 90]LogSlate: Window 'Save Content' being destroyed
+[2026.02.04-18.29.38:840][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.04-18.29.38:875][ 90]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.04-18.29.38:891][ 90]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.04-18.29.38:891][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.04-18.29.38:891][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.04-18.29.38:912][ 90]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.04-18.29.38:912][ 90]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPSDD2A51954E4F7F792D1F56AD5D737D08.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.04-18.29.38:913][ 90]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CharacterFPS_Playercontroller] ([2] browsable assets)...
+[2026.02.04-18.29.38:913][ 90]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CharacterFPS_Playercontroller]
+[2026.02.04-18.29.38:923][ 90]LogSavePackage: Moving output files for package: /Game/BP_CharacterFPS_Playercontroller
+[2026.02.04-18.29.38:924][ 90]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_PlayercontrollerC06F56594ACB0F38A0BEB09F53659471.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/BP_CharacterFPS_Playercontroller.uasset'
+[2026.02.04-18.29.38:931][ 90]LogFileHelpers: InternalPromptForCheckoutAndSave took 90.627 ms (total: 679.172 ms)
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: Enabled validators:
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.04-18.29.38:973][ 90]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.04-18.29.38:973][ 90]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.04-18.29.38:973][ 90]AssetCheck: /Game/BP_CharacterFPS_Playercontroller Validating asset
+[2026.02.04-18.29.38:987][ 90]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
