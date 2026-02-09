@@ -1381,3 +1381,13 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.09-19.45.52:196][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/LevelPrototyping/Interactable/Target/BP_WobbleTarget.BP_WobbleTarget_C
 [2026.02.09-19.45.52:202][692]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Target/BP_WobbleTarget.BP_WobbleTarget as actor: BP_WobbleTarget_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WobbleTarget_C_UAID_047C162859DD71BD02_1880343967
 [2026.02.09-19.45.52:204][692]LogActorFactory: Actor Factory spawned Blueprint /Game/LevelPrototyping/Interactable/Target/BP_WobbleTarget.BP_WobbleTarget as actor: BP_WobbleTarget_C /Game/Levels/L_LevelOne.L_LevelOne:PersistentLevel.BP_WobbleTarget_C_UAID_047C162859DD71BD02_1880343967
+[2026.02.09-19.46.45:233][136]Cmd: DELETE
+[2026.02.09-19.46.45:233][136]Cmd: ACTOR DELETE
+[2026.02.09-19.46.45:235][136]LogEditorActor: Deleted Actor: BP_WobbleTarget_C
+[2026.02.09-19.46.45:265][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.09-19.46.45:267][136]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2026.02.09-19.47.12:356][438]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.09-19.47.12:357][438]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.025
+[2026.02.09-19.47.15:961][449]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1430.589478
+[2026.02.09-19.47.16:951][453]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.09-19.47.16:951][453]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1431.245605, Update Interval: 352.018188
