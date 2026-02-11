@@ -1502,3 +1502,147 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.11-18.36.39:574][598]LogSlate: Window 'WB_Master' being destroyed
 [2026.02.11-18.37.05:577][502]LogSlate: Window 'Editor Preferences' being destroyed
 [2026.02.11-18.37.05:583][502]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.02.11-18.37.46:188][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.11-18.37.46:202][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto2
+[2026.02.11-18.37.46:203][ 30]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU_Auto26066B2994C1EEC555D045F911B7ADCC9.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto2.uasset'
+[2026.02.11-18.37.46:203][ 30]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.104
+[2026.02.11-18.37.46:203][ 30]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.104
+[2026.02.11-18.37.46:203][ 30]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.11-18.37.46:266][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher]
+[2026.02.11-18.37.46:266][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.11-18.37.46:284][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto2
+[2026.02.11-18.37.46:284][ 30]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_GrenadeLauncher_Auto28689018641BEF02A95A43A9A7B08706F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher_Auto2.uasset'
+[2026.02.11-18.37.46:286][ 30]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.11-18.37.46:299][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.11-18.37.46:300][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.11-18.37.46:323][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto2
+[2026.02.11-18.37.46:323][ 30]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_RangedWeapon_Auto2B8A954394A2846D547F3D9A2E79762B3.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto2.uasset'
+[2026.02.11-18.37.46:324][ 30]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.11-18.37.46:357][ 30]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.11-18.37.46:357][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.11-18.37.46:376][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto2
+[2026.02.11-18.37.46:376][ 30]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_Gun_Auto258A4202D476A322E756ADCBEDD41CC1F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto2.uasset'
+[2026.02.11-18.37.46:377][ 30]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WB_Master] ([2] browsable assets)...
+[2026.02.11-18.37.46:379][ 30]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WB_Master.WB_Master]
+[2026.02.11-18.37.46:379][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WB_Master]
+[2026.02.11-18.37.46:388][ 30]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WB_Master_Auto2
+[2026.02.11-18.37.46:388][ 30]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WB_Master_Auto2595E15D642FF8B2DF6B97DA4D19BB3D1.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WB_Master_Auto2.uasset'
+[2026.02.11-18.37.46:388][ 30]LogFileHelpers: Auto-saving content packages took 0.185
+[2026.02.11-18.38.50:352][682]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2096.949219
+[2026.02.11-18.38.50:411][689]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-18.38.50:411][689]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2096.999023, Update Interval: 351.781982
+[2026.02.11-18.40.03:126][199]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.03:129][199]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:491][575]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:492][575]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:495][575]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:550][576]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:555][576]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:610][577]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:663][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:668][578]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:728][579]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:776][580]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:837][581]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:839][581]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:899][582]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.06:964][584]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:016][585]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:016][585]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:022][585]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:078][586]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:130][587]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:137][587]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:195][588]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.07:244][589]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2026.02.11-18.40.08:027][667]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.02.11-18.40.12:028][ 82]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.02.11-18.40.49:053][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.02.11-18.41.11:417][282]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.11-18.41.11:423][282]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.11-18.41.11:429][282]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.11-18.41.11:441][283]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.11-18.41.19:449][ 65]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Weapons
+[2026.02.11-18.41.19:456][ 65]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.11-18.41.21:707][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.11-18.41.21:716][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.41.21:777][281]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU
+[2026.02.11-18.41.21:777][281]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU62A2754B487758F3DB56D9ADFD6A9711.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU.uasset'
+[2026.02.11-18.41.21:779][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher] ([2] browsable assets)...
+[2026.02.11-18.41.21:779][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher]
+[2026.02.11-18.41.21:795][281]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher
+[2026.02.11-18.41.21:795][281]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_GrenadeLauncher09B3DC78486D00D65DCE5C9415C11604.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.uasset'
+[2026.02.11-18.41.21:796][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.11-18.41.21:796][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.11-18.41.21:817][281]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.11-18.41.21:817][281]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_RangedWeapon665E9A3547A6395820D59E8085E761BA.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.11-18.41.21:818][281]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.11-18.41.21:818][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.11-18.41.21:834][281]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Gun
+[2026.02.11-18.41.21:834][281]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_GunB4A59E2540D98378EFE206BA76E7F6F7.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset'
+[2026.02.11-18.41.21:835][281]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WB_Master] ([2] browsable assets)...
+[2026.02.11-18.41.21:837][281]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WB_Master.WB_Master]
+[2026.02.11-18.41.21:837][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WB_Master]
+[2026.02.11-18.41.21:845][281]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WB_Master
+[2026.02.11-18.41.21:845][281]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WB_Master70A0A2A44E71C00042B1C8AC820BDF8D.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WB_Master.uasset'
+[2026.02.11-18.41.21:848][281]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WB_Weapons] ([2] browsable assets)...
+[2026.02.11-18.41.21:850][281]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WB_Weapons.WB_Weapons]
+[2026.02.11-18.41.21:850][281]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WB_Weapons]
+[2026.02.11-18.41.21:857][281]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WB_Weapons
+[2026.02.11-18.41.21:857][281]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WB_WeaponsB8B35ED2467D50C095B1E3BA511A3E4F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WB_Weapons.uasset'
+[2026.02.11-18.41.21:867][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 150.953 ms (total: 960.628 ms)
+[2026.02.11-18.41.21:897][281]LogContentValidation: Display: Starting to validate 6 assets
+[2026.02.11-18.41.21:897][281]LogContentValidation: Enabled validators:
+[2026.02.11-18.41.21:897][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.41.21:897][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.41.21:897][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.41.21:897][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.41.21:897][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.41.21:897][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.41.21:898][281]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.11-18.41.21:898][281]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher Validating asset
+[2026.02.11-18.41.21:898][281]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.11-18.41.21:898][281]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Gun Validating asset
+[2026.02.11-18.41.21:898][281]AssetCheck: /Game/Blueprints/WidgetBlueprints/WB_Master Validating asset
+[2026.02.11-18.41.21:898][281]AssetCheck: /Game/Blueprints/WidgetBlueprints/WB_Weapons Validating asset
+[2026.02.11-18.41.21:913][281]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.11-18.41.23:931][440]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WB_Weapons.WB_Weapons
+[2026.02.11-18.41.23:931][440]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.02.11-18.41.23:938][440]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.02.11-18.41.35:415][714]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.11-18.41.36:799][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.11-18.41.36:805][862]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.41.36:833][862]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WB_Weapons] ([2] browsable assets)...
+[2026.02.11-18.41.36:836][862]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WB_Weapons.WB_Weapons]
+[2026.02.11-18.41.36:836][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WB_Weapons]
+[2026.02.11-18.41.36:846][862]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WB_Weapons
+[2026.02.11-18.41.36:846][862]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WB_Weapons0EE2483A4CF1AF8D88F5B1AE7CBA0B5E.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WB_Weapons.uasset'
+[2026.02.11-18.41.36:853][862]LogFileHelpers: InternalPromptForCheckoutAndSave took 47.832 ms (total: 1.00 sec)
+[2026.02.11-18.41.36:882][862]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.41.36:882][862]LogContentValidation: Enabled validators:
+[2026.02.11-18.41.36:882][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.41.36:882][862]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.41.36:882][862]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.41.36:882][862]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.41.36:882][862]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.41.36:882][862]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.41.36:882][862]AssetCheck: /Game/Blueprints/WidgetBlueprints/WB_Weapons Validating asset
+[2026.02.11-18.42.49:000][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.11-18.42.50:501][474]LogFab: Display: Logging in using persist
+[2026.02.11-18.42.50:915][474]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2026.02.11-18.42.50:916][474]LogCEFBrowser: CEF GPU acceleration enabled
+[2026.02.11-18.42.51:099][487]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: 90b...80a Access[Expires: 2026.02.11-20.42.51 Remaining: 7200.09] Refresh[Expires: 2026-08-10T18:42:51.091Z Remaining: 15552000.09] State: Valid
+[2026.02.11-18.42.51:108][488]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Received FUserAuthToken
+[2026.02.11-18.42.51:191][498]LogEOSSDK: LogEOSAuth: UserAuthGenerated: Login complete: EOS_Success
+[2026.02.11-18.42.51:191][498]LogFab: Display: User logged in
+[2026.02.11-18.42.51:191][498]LogFab: Display: User client id: xyza7891REBVsEqSJRRNXmlS7EQHM459
+[2026.02.11-18.42.51:316][513]LogEOSSDK: Warning: LogEOS: Error response received from backend. ServiceName=[Friend], OperationName=[GetBlockList], Url=[<Redacted>], HttpStatus=[403], ErrorCode=[errors.com.epicgames.common.insufficient_scopes], NumericErrorCode=[1056], ErrorMessage=[Insufficient access scopes. Expected: [friends_list]], CorrId=[EOS-FR_YXvJyY0OyCTWwSciADQ-y-HZ6kZpqUaHcW_2ZCim0w]
+[2026.02.11-18.43.12:649][840]LogFab: Display: Asset Type = unreal-engine
+[2026.02.11-18.43.12:649][840]LogFab: Display: Is Quixel = 0
+[2026.02.11-18.43.12:649][840]LogFab: Display: Base Url https://egdownload.fastly-edge.com/Builds/Rocket/Automated/FlatIcon469dafe1f6f3V1/CloudDir,https://epicgames-download1.akamaized.net/Builds/Rocket/Automated/FlatIcon469dafe1f6f3V1/CloudDir,https://download.epicgames.com/Builds/Rocket/Automated/FlatIcon469dafe1f6f3V1/CloudDir,https://cloudflare.epicgamescdn.com/Builds/Rocket/Automated/FlatIcon469dafe1f6f3V1/CloudDir
+[2026.02.11-18.43.13:044][844]LogSlate: Vector cache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 137844
+[2026.02.11-18.43.13:044][844]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.02.11-18.43.13:048][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.43.13:553][879]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.11-18.43.13:553][879]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.11-18.43.13:553][879]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Developers/rgowell/Collections/' because it could not be accessed. Aborting watch request...
