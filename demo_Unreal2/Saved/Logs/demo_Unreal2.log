@@ -1342,3 +1342,163 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.11-18.25.53:914][370]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.11-18.25.53:914][370]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.11-18.25.53:915][370]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.11-18.26.28:213][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.11-18.26.53:604][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1380.210571
+[2026.02.11-18.26.53:670][777]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-18.26.53:670][777]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1380.269165, Update Interval: 322.984100
+[2026.02.11-18.27.03:121][792]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.11-18.27.03:135][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto1
+[2026.02.11-18.27.03:136][792]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU_Auto1AF19A3264242F7BC669F84A5399BBD9F.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto1.uasset'
+[2026.02.11-18.27.03:136][792]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.038
+[2026.02.11-18.27.03:136][792]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2026.02.11-18.27.03:137][792]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.11-18.27.03:191][792]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.11-18.27.03:191][792]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.11-18.27.03:226][792]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto1
+[2026.02.11-18.27.03:227][792]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase_Auto1DA94400643EA043EAD65748004B9E6D6.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto1.uasset'
+[2026.02.11-18.27.03:227][792]LogFileHelpers: Auto-saving content packages took 0.090
+[2026.02.11-18.27.04:957][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.11-18.27.09:131][374]LogPSOHitching: Encountered 300 PSO creation hitches so far (93 graphics, 207 compute). 0 of them were precached.
+[2026.02.11-18.27.09:323][374]LogPSOHitching: Encountered 350 PSO creation hitches so far (99 graphics, 251 compute). 0 of them were precached.
+[2026.02.11-18.27.09:645][374]LogPSOHitching: Encountered 400 PSO creation hitches so far (110 graphics, 290 compute). 0 of them were precached.
+[2026.02.11-18.27.12:185][547]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_3
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.11-18.27.15:946][844]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase
+[2026.02.11-18.27.15:946][844]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_18
+[2026.02.11-18.27.54:948][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.11-18.28.02:869][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.28.02:913][ 40]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.11-18.28.02:966][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.11-18.28.02:966][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.11-18.28.02:986][ 40]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.11-18.28.02:986][ 40]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_WeaponBaseFA166B2646ED748BD865D094ABA78573.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.11-18.28.02:993][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 124.979 ms (total: 286.220 ms)
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: Enabled validators:
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.28.03:046][ 40]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.28.03:046][ 40]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.11-18.28.22:585][375]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.28.22:631][375]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.11-18.28.22:631][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.11-18.28.22:652][375]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.11-18.28.22:652][375]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_WeaponBase530F752E49EF42151D2B80BC35983AF5.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.11-18.28.22:658][375]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.920 ms (total: 359.140 ms)
+[2026.02.11-18.28.22:696][375]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.28.22:696][375]LogContentValidation: Enabled validators:
+[2026.02.11-18.28.22:696][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.28.22:696][375]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.28.22:696][375]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.28.22:696][375]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.28.22:696][375]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.28.22:696][375]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.28.22:697][375]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.11-18.30.03:255][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.11-18.30.17:564][411]LogEditorTransaction: Undo Move Node
+[2026.02.11-18.30.18:556][468]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.30.18:615][468]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.11-18.30.18:675][468]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.11-18.30.18:675][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.11-18.30.18:675][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.11-18.30.18:711][468]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.11-18.30.18:711][468]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase054CCFC44489D8C078D8768DFD5DDE41.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.11-18.30.18:720][468]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.699 ms (total: 521.840 ms)
+[2026.02.11-18.30.18:764][468]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.30.18:765][468]LogContentValidation: Enabled validators:
+[2026.02.11-18.30.18:765][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.30.18:765][468]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.30.18:765][468]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.30.18:765][468]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.30.18:765][468]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.30.18:765][468]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.30.18:765][468]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.11-18.30.19:831][574]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.11-18.30.20:490][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.30.20:533][624]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.11-18.30.20:592][624]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.11-18.30.20:592][624]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.11-18.30.20:592][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterBase" FILE="../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset" SILENT=true
+[2026.02.11-18.30.20:629][624]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterBase
+[2026.02.11-18.30.20:629][624]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_CharacterBase6BC3B50D4298B8457F70E897FA246F3E.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterBase.uasset'
+[2026.02.11-18.30.20:640][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 149.834 ms (total: 671.674 ms)
+[2026.02.11-18.30.20:681][624]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.30.20:681][624]LogContentValidation: Enabled validators:
+[2026.02.11-18.30.20:681][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.30.20:681][624]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.30.20:681][624]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.30.20:681][624]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.30.20:681][624]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.30.20:681][624]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.30.20:681][624]AssetCheck: /Game/PlayerAssets/BP_CharacterBase Validating asset
+[2026.02.11-18.30.31:040][494]LogPSOHitching: Encountered 450 PSO creation hitches so far (132 graphics, 318 compute). 0 of them were precached.
+[2026.02.11-18.30.31:227][494]LogPSOHitching: Encountered 500 PSO creation hitches so far (137 graphics, 363 compute). 0 of them were precached.
+[2026.02.11-18.30.31:538][494]LogPSOHitching: Encountered 550 PSO creation hitches so far (145 graphics, 405 compute). 0 of them were precached.
+[2026.02.11-18.30.34:243][665]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.11-18.30.36:895][897]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon
+[2026.02.11-18.30.36:895][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_19
+[2026.02.11-18.31.42:275][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.11-18.31.50:737][915]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_2:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.11-18.31.52:628][ 62]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun
+[2026.02.11-18.31.52:629][ 62]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_20
+[2026.02.11-18.31.56:794][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_GrenadeLauncher.BP_GrenadeLauncher
+[2026.02.11-18.31.56:794][355]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.11-18.32.36:610][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1723.215332
+[2026.02.11-18.32.36:693][  5]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-18.32.36:693][  5]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1723.291016, Update Interval: 315.185394
+[2026.02.11-18.34.33:789][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.11-18.34.35:274][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.11-18.34.38:348][641]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.34.38:400][641]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.11-18.34.38:456][641]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.11-18.34.38:456][641]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.11-18.34.38:477][641]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.11-18.34.38:478][641]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/BP_WeaponBaseC5A5950640DE943480FEAB802261E609.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.11-18.34.38:486][641]LogFileHelpers: InternalPromptForCheckoutAndSave took 138.000 ms (total: 809.674 ms)
+[2026.02.11-18.34.38:530][641]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.34.38:530][641]LogContentValidation: Enabled validators:
+[2026.02.11-18.34.38:530][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.34.38:530][641]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.34.38:530][641]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.34.38:530][641]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.34.38:530][641]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.34.38:530][641]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.34.38:530][641]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.11-18.35.32:046][ 31]LogPSOHitching: Encountered 600 PSO creation hitches so far (173 graphics, 427 compute). 0 of them were precached.
+[2026.02.11-18.35.35:967][425]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.35.35:967][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.35.36:019][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.11-18.35.36:435][453]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.11-18.35.36:435][453]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.35.36:435][453]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.35.36:485][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.11-18.35.36:900][481]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.11-18.35.36:900][481]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.35.36:900][481]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.35.36:957][481]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.11-18.35.37:329][506]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.11-18.35.37:329][506]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.35.37:329][506]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.35.37:376][506]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.11-18.36.23:015][153]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.11-18.36.23:023][153]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.11-18.36.23:028][153]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.11-18.36.23:052][154]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.11-18.36.34:902][255]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Master
+[2026.02.11-18.36.34:909][255]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.11-18.36.36:780][414]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WB_Master.WB_Master
+[2026.02.11-18.36.36:781][414]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.02.11-18.36.36:786][414]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.11-18.36.36:794][414]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2026.02.11-18.36.37:390][414]LogSlate: Took 0.006199 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.36.39:574][598]LogSlate: Window 'WB_Master' being destroyed
+[2026.02.11-18.37.05:577][502]LogSlate: Window 'Editor Preferences' being destroyed
+[2026.02.11-18.37.05:583][502]LogSlate: Window 'Editor Preferences' being destroyed
