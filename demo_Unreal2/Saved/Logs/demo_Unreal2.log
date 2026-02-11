@@ -1646,3 +1646,259 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.11-18.43.13:553][879]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2026.02.11-18.43.13:553][879]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2026.02.11-18.43.13:553][879]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Developers/rgowell/Collections/' because it could not be accessed. Aborting watch request...
+[2026.02.11-18.43.51:190][868]LogEOSSDK: Error: LogEOSAuth: Authentication session lost due to failing verification. Error: EOS_Auth_InvalidToken UserId: 90b...80a
+[2026.02.11-18.43.51:190][868]LogEOSSDK: Warning: LogEOSPresence: Can't set presence to offline, No connection to EpicConnect. LocalUserId=[90b...80a]
+[2026.02.11-18.44.10:800][950]LogD3D12RHI: Waited for PSO creation for 100.000000ms
+[2026.02.11-18.44.18:281][659]LogStreaming: Display: FlushAsyncLoading(563): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.11-18.44.18:283][659]LogTexture: Display: Building textures: /Game/FlatIconsFreeSamplePack/128/T_Money_128.T_Money_128 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.562492 MB), EncodeSpeed: Fast
+[2026.02.11-18.45.13:774][ 86]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2480.373291
+[2026.02.11-18.45.13:846][ 94]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-18.45.13:846][ 94]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2480.436523, Update Interval: 325.531189
+[2026.02.11-18.47.46:428][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.11-18.47.46:432][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.030
+[2026.02.11-18.47.46:432][483]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WB_Weapons] ([2] browsable assets)...
+[2026.02.11-18.47.46:434][483]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WB_Weapons.WB_Weapons]
+[2026.02.11-18.47.46:434][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WB_Weapons]
+[2026.02.11-18.47.46:446][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WB_Weapons_Auto3
+[2026.02.11-18.47.46:446][483]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WB_Weapons_Auto3BE6284A4476E2C7D274C409A3D36A7D8.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WB_Weapons_Auto3.uasset'
+[2026.02.11-18.47.46:447][483]LogFileHelpers: Auto-saving content packages took 0.016
+[2026.02.11-18.49.21:744][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.11-18.49.40:413][397]LogPSOHitching: Encountered 650 PSO creation hitches so far (201 graphics, 449 compute). 0 of them were precached.
+[2026.02.11-18.50.07:803][416]LogEditorTransaction: Undo Drag and Drop Widget
+[2026.02.11-18.51.03:849][807]LogEditorTransaction: Undo Edit Text
+[2026.02.11-18.51.04:168][810]LogEditorTransaction: Undo Rename Widget
+[2026.02.11-18.51.22:632][878]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2849.236816
+[2026.02.11-18.51.22:711][887]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-18.51.22:711][887]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2849.307617, Update Interval: 315.225677
+[2026.02.11-18.52.06:255][727]LogEditorTransaction: Undo Move Anchor
+[2026.02.11-18.52.07:215][779]LogEditorTransaction: Undo Move Anchor
+[2026.02.11-18.52.36:476][111]LogEditorTransaction: Undo Edit Right
+[2026.02.11-18.52.39:771][438]LogEditorTransaction: Undo Edit Right
+[2026.02.11-18.52.42:746][762]LogEditorTransaction: Undo Edit Bottom
+[2026.02.11-18.54.21:362][ 24]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 18423662846441895984
+[2026.02.11-18.54.21:363][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.21:370][ 25]LogSlate: Took 0.000201 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.21:370][ 25]LogSlate: Took 0.000123 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.21:371][ 25]LogSlate: Took 0.000124 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.21:372][ 25]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.21:377][ 25]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.21:410][ 27]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 3
+[2026.02.11-18.54.21:410][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.21:415][ 28]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.21:416][ 28]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.21:417][ 28]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.21:418][ 28]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.21:423][ 28]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.21:447][ 29]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 2
+[2026.02.11-18.54.21:448][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.21:454][ 30]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.21:454][ 30]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.21:455][ 30]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.21:456][ 30]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.21:461][ 30]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.21:485][ 31]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 2
+[2026.02.11-18.54.21:487][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.21:493][ 32]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.21:494][ 32]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.21:495][ 32]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.21:495][ 32]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.21:501][ 32]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.21:511][ 32]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.02.11-18.54.21:513][ 32]LogSlate: Warning: Setting the threshold to trigger a flush to 3 non-atlased textures as there is a lot of font data being cached.
+[2026.02.11-18.54.21:872][ 74]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 4/3 Textures; frames since last flush: 43
+[2026.02.11-18.54.21:874][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.21:879][ 75]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.21:879][ 75]LogSlate: Took 0.000078 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.21:880][ 75]LogSlate: Took 0.000085 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.21:881][ 75]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.21:885][ 75]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.21:896][ 75]LogSlate: Warning: Setting the threshold to trigger a flush to 2 non-atlased textures as there is a lot of font data being cached.
+[2026.02.11-18.54.21:943][ 79]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 3/2 Textures; frames since last flush: 5
+[2026.02.11-18.54.21:943][ 79]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.21:949][ 80]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.21:950][ 80]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.21:951][ 80]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.21:951][ 80]LogSlate: Took 0.000080 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.21:956][ 80]LogSlate: Took 0.000087 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.22:073][ 92]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 13
+[2026.02.11-18.54.22:074][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.22:081][ 93]LogSlate: Took 0.000148 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.22:081][ 93]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.22:082][ 93]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.22:083][ 93]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.22:087][ 93]LogSlate: Took 0.000092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.22:134][ 97]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 5
+[2026.02.11-18.54.22:135][ 97]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.22:142][ 98]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.22:143][ 98]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.22:144][ 98]LogSlate: Took 0.000075 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.22:144][ 98]LogSlate: Took 0.000083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.22:148][ 98]LogSlate: Took 0.000088 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.22:170][ 99]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 2
+[2026.02.11-18.54.22:171][ 99]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.22:177][100]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.22:177][100]LogSlate: Took 0.000096 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.22:178][100]LogSlate: Took 0.000095 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.22:178][100]LogSlate: Took 0.000100 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.22:183][100]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.22:504][135]LogSlate: FontCache flush requested. Reason: Large atlases out of space; 2/1 Textures; frames since last flush: 36
+[2026.02.11-18.54.22:504][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.54.22:510][136]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.02.11-18.54.22:510][136]LogSlate: Took 0.000076 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2026.02.11-18.54.22:511][136]LogSlate: Took 0.000077 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2026.02.11-18.54.22:512][136]LogSlate: Took 0.000079 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.02.11-18.54.22:516][136]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2026.02.11-18.54.55:316][932]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.11-18.55.06:619][115]LogSlate: Window 'Color Picker' being destroyed
+[2026.02.11-18.55.23:853][111]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2026.02.11-18.55.25:373][195]LogPSOHitching: Encountered 700 PSO creation hitches so far (208 graphics, 492 compute). 0 of them were precached.
+[2026.02.11-18.55.25:676][195]LogPSOHitching: Encountered 750 PSO creation hitches so far (212 graphics, 538 compute). 0 of them were precached.
+[2026.02.11-18.55.28:559][358]LogPSOHitching: Encountered 800 PSO creation hitches so far (232 graphics, 568 compute). 0 of them were precached.
+[2026.02.11-18.55.37:819][151]LogContentBrowser: Attempting asset rename: WB_Weapons -> WB_Weapons
+[2026.02.11-18.55.43:145][600]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.02.11-18.55.44:119][694]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.55.44:120][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.55.44:126][694]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.55.44:126][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.55.44:170][694]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2026.02.11-18.55.45:562][831]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.11-18.55.46:930][987]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.55.46:930][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.55.46:936][987]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.02.11-18.55.46:936][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.11-18.55.46:974][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.11-18.55.55:563][774]LogContentBrowser: Attempting asset rename: WB_Weapons -> WBP_Weapons
+[2026.02.11-18.55.55:662][774]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.55.55:662][774]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.11-18.55.55:666][774]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.11-18.55.55:666][774]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.11-18.55.55:676][774]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.11-18.55.55:676][774]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WBP_WeaponsCCF9D46946A11E050CF2089683C0898C.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.11-18.55.55:681][774]LogFileHelpers: InternalPromptForCheckoutAndSave took 18.095 ms (total: 1.02 sec)
+[2026.02.11-18.55.55:714][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.11-18.55.55:737][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.11-18.55.55:759][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.02.11-18.55.55:802][774]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.55.55:802][774]LogContentValidation: Enabled validators:
+[2026.02.11-18.55.55:802][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.55.55:802][774]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.55.55:802][774]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.55.55:802][774]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.55.55:802][774]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.55.55:802][774]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.55.55:802][774]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.11-18.55.55:870][774]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.11-18.56.01:294][302]LogContentBrowser: Attempting asset rename: WB_Master -> WBP_Master
+[2026.02.11-18.56.01:388][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-18.56.01:389][302]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.11-18.56.01:391][302]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.11-18.56.01:391][302]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.11-18.56.01:400][302]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.11-18.56.01:400][302]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WBP_Master72D85FA3407B96E1380764AB74F54EC5.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.11-18.56.01:405][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 16.259 ms (total: 1.04 sec)
+[2026.02.11-18.56.01:434][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.11-18.56.01:457][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2026.02.11-18.56.01:481][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2026.02.11-18.56.01:552][302]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-18.56.01:552][302]LogContentValidation: Enabled validators:
+[2026.02.11-18.56.01:552][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-18.56.01:552][302]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-18.56.01:552][302]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-18.56.01:552][302]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-18.56.01:552][302]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-18.56.01:552][302]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-18.56.01:552][302]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.11-18.56.01:618][303]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.11-18.56.17:750][897]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master
+[2026.02.11-18.56.17:750][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_37
+[2026.02.11-18.56.17:756][897]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_38
+[2026.02.11-18.56.21:034][191]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons
+[2026.02.11-18.56.21:035][191]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_39
+[2026.02.11-18.56.21:041][191]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_40
+[2026.02.11-18.57.11:683][920]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3198.286133
+[2026.02.11-18.57.11:757][929]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-18.57.11:757][929]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3198.352783, Update Interval: 311.153290
+[2026.02.11-18.57.14:097][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.11-18.58.46:660][961]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.11-18.58.46:664][961]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.078
+[2026.02.11-18.58.46:665][961]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.11-18.58.46:669][961]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.11-18.58.46:669][961]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.11-18.58.46:680][961]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Master_Auto4
+[2026.02.11-18.58.46:680][961]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WBP_Master_Auto4FF6DC6AF4B5CB390FACA2F9E4D6B9000.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Master_Auto4.uasset'
+[2026.02.11-18.58.46:682][961]LogFileHelpers: Auto-saving content packages took 0.017
+[2026.02.11-18.59.11:680][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.11-19.00.24:814][491]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.11-19.01.18:561][ 19]LogSlate: Window 'Message' being destroyed
+[2026.02.11-19.01.18:566][ 19]Message dialog closed, result: No, title: Message, text: Would you like to transfer the interface functions to be part of your blueprint?
+[2026.02.11-19.01.20:517][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.11-19.01.29:425][277]LogEditorTransaction: Undo Remove interface
+[2026.02.11-19.01.30:250][322]LogEditorTransaction: Undo Edit Orientation
+[2026.02.11-19.01.31:249][440]LogEditorTransaction: Undo Edit Size To Content
+[2026.02.11-19.01.32:622][603]LogEditorTransaction: Undo Changed Anchors
+[2026.02.11-19.02.13:395][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.11-19.02.21:590][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.11-19.02.21:596][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-19.02.21:639][441]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.11-19.02.21:641][441]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.11-19.02.21:641][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.11-19.02.21:654][441]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.11-19.02.21:654][441]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WBP_Master1E80D0A545046E185CA1AB8B6DB1E0B9.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.11-19.02.21:661][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 64.861 ms (total: 1.10 sec)
+[2026.02.11-19.02.21:703][441]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-19.02.21:703][441]LogContentValidation: Enabled validators:
+[2026.02.11-19.02.21:703][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-19.02.21:703][441]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-19.02.21:703][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-19.02.21:703][441]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-19.02.21:703][441]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-19.02.21:703][441]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-19.02.21:703][441]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.11-19.02.25:901][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.11-19.02.57:544][550]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3544.147705
+[2026.02.11-19.02.57:627][560]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.11-19.02.57:627][560]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3544.222656, Update Interval: 309.649963
+[2026.02.11-19.02.59:941][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.11-19.03.02:512][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.11-19.03.02:517][121]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-19.03.02:569][121]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.11-19.03.02:571][121]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.11-19.03.02:571][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.11-19.03.02:584][121]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.11-19.03.02:584][121]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WBP_Master4154BE0C41E19000A1F078B196DEFA31.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.11-19.03.02:585][121]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.11-19.03.02:587][121]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.11-19.03.02:587][121]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.11-19.03.02:597][121]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.11-19.03.02:597][121]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WBP_Weapons8F4D6A9043320DA86740078D976EC74A.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.11-19.03.02:605][121]LogFileHelpers: InternalPromptForCheckoutAndSave took 88.159 ms (total: 1.19 sec)
+[2026.02.11-19.03.02:636][121]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.11-19.03.02:636][121]LogContentValidation: Enabled validators:
+[2026.02.11-19.03.02:636][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-19.03.02:636][121]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-19.03.02:636][121]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-19.03.02:636][121]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-19.03.02:636][121]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-19.03.02:636][121]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-19.03.02:636][121]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.11-19.03.02:636][121]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.11-19.03.53:447][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.11-19.04.11:861][194]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.11-19.04.11:920][194]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.11-19.04.11:922][194]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.11-19.04.11:922][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.11-19.04.11:935][194]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.11-19.04.11:936][194]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Saved/WBP_MasterB809167E498B060B7701ECAD5797F17C.tmp' to '../../../../../../Users/rgowell/Documents/Github/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.11-19.04.11:941][194]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.962 ms (total: 1.27 sec)
+[2026.02.11-19.04.11:969][194]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.11-19.04.11:969][194]LogContentValidation: Enabled validators:
+[2026.02.11-19.04.11:969][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.11-19.04.11:969][194]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.11-19.04.11:969][194]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.11-19.04.11:969][194]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.11-19.04.11:969][194]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.11-19.04.11:969][194]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.11-19.04.11:969][194]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.11-19.04.12:916][303]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.11-19.04.50:450][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.11-19.04.57:774][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
