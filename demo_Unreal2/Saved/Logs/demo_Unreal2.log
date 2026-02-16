@@ -2074,3 +2074,148 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master_C' has been c
 [2026.02.16-19.57.09:963][892]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2922.112061
 [2026.02.16-19.57.10:964][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.16-19.57.10:964][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2922.779297, Update Interval: 355.680420
+[2026.02.16-19.59.07:511][142]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-19.59.56:076][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-19.59.56:126][851]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.16-19.59.56:181][851]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.16-19.59.56:181][851]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.16-19.59.56:207][851]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.16-19.59.56:207][851]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_RangedWeapon836ADDF34782BA8AE9A152A0A8EFF3BF.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.16-19.59.56:214][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.352 ms (total: 688.826 ms)
+[2026.02.16-19.59.56:275][851]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-19.59.56:275][851]LogContentValidation: Enabled validators:
+[2026.02.16-19.59.56:275][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-19.59.56:275][851]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-19.59.56:275][851]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-19.59.56:275][851]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-19.59.56:275][851]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-19.59.56:275][851]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-19.59.56:275][851]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.16-19.59.56:291][851]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-20.00.00:148][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.16-20.00.00:156][310]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-20.00.00:192][310]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.16-20.00.00:192][310]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.16-20.00.00:212][310]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.16-20.00.00:212][310]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_WeaponBaseDF1C4A57426825B11CBC3BA409D35EBA.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.16-20.00.00:219][310]LogFileHelpers: InternalPromptForCheckoutAndSave took 62.390 ms (total: 751.217 ms)
+[2026.02.16-20.00.00:275][310]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-20.00.00:275][310]LogContentValidation: Enabled validators:
+[2026.02.16-20.00.00:275][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-20.00.00:275][310]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-20.00.00:275][310]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-20.00.00:275][310]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-20.00.00:275][310]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-20.00.00:275][310]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-20.00.00:275][310]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.16-20.00.37:150][631]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WeaponBlueprints\BP_RangedWeapon.uasset: [Compiler] Parent: GetWeaponUIInfo  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2026.02.16-20.00.37:259][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.16-20.00.47:258][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.02.16-20.01.58:063][957]LogEditorTransaction: Undo AddPin
+[2026.02.16-20.02.27:303][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.02.16-20.02.27:310][339]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.031
+[2026.02.16-20.02.27:310][339]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.16-20.02.27:359][339]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.16-20.02.27:359][339]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.16-20.02.27:385][339]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto4
+[2026.02.16-20.02.27:385][339]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_RangedWeapon_Auto489D9004A4A878DB7EC41E0B6074F8269.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto4.uasset'
+[2026.02.16-20.02.27:387][339]LogFileHelpers: Auto-saving content packages took 0.077
+[2026.02.16-20.03.05:342][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2026.02.16-20.03.05:346][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-20.03.05:378][874]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.16-20.03.05:378][874]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.16-20.03.05:405][874]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.16-20.03.05:405][874]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_RangedWeapon17EE9CD34285174D32929B8B3D8A6D67.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.16-20.03.05:412][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 66.109 ms (total: 817.326 ms)
+[2026.02.16-20.03.05:461][874]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.16-20.03.05:461][874]LogContentValidation: Enabled validators:
+[2026.02.16-20.03.05:461][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-20.03.05:461][874]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-20.03.05:461][874]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-20.03.05:461][874]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-20.03.05:461][874]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-20.03.05:461][874]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-20.03.05:461][874]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.16-20.03.11:958][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.16-20.03.15:950][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.16-20.03.43:242][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.16-20.03.57:474][675]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3329.599609
+[2026.02.16-20.03.57:550][684]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-20.03.57:550][684]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3329.665527, Update Interval: 313.636292
+[2026.02.16-20.04.16:655][138]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.16-20.04.16:656][138]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/Engine.BlueprintGeneratedClass'/Game/Blueprints/Weapons/BP_WeaponBase.BP_WeaponBase_C'",MemberName="GetWeaponUIInfo",MemberGuid=AC934ECE4B19087FF88F78A9AA69788B)'
+[2026.02.16-20.06.16:126][ 44]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "Shortcut" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Get Shortcut
+[2026.02.16-20.06.16:126][ 44]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "WeaponIcon" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Get WeaponIcon
+[2026.02.16-20.06.16:126][ 44]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  Weapon Icon  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.16-20.06.16:126][ 44]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  Shortcut  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.16-20.06.16:207][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2026.02.16-20.06.56:463][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.16-20.08.03:886][248]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "Shortcut" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Get Shortcut
+[2026.02.16-20.08.03:886][248]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Could not find a variable named "WeaponIcon" in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'.
+Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C' has been compiled for  Get WeaponIcon
+[2026.02.16-20.08.03:886][248]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  Weapon Icon  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.16-20.08.03:887][248]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] The property associated with  Shortcut  could not be found in '/Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons_C'
+[2026.02.16-20.08.03:979][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.02.16-20.08.47:311][193]LogEditorTransaction: Undo Delete current selection
+[2026.02.16-20.09.27:157][375]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.16-20.09.47:802][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3679.908691
+[2026.02.16-20.09.47:882][ 71]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-20.09.47:882][ 71]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3679.978271, Update Interval: 329.316071
+[2026.02.16-20.13.21:905][827]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] In use pin  Shortcut  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.02.16-20.13.21:905][827]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] In use pin  Weapon Icon  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2026.02.16-20.13.21:905][827]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Failed to find class for pin  Weapon Icon
+[2026.02.16-20.13.21:905][827]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Failed to find class for pin  Shortcut
+[2026.02.16-20.13.22:039][827]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2026.02.16-20.13.52:357][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.02.16-20.14.17:880][197]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.16-20.14.17:885][197]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.030
+[2026.02.16-20.14.17:886][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.16-20.14.17:942][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase]
+[2026.02.16-20.14.17:943][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.16-20.14.17:963][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto5
+[2026.02.16-20.14.17:964][197]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_WeaponBase_Auto5144BB3C14F56606B0935DEA64D87B397.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_WeaponBase_Auto5.uasset'
+[2026.02.16-20.14.17:965][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.16-20.14.17:971][197]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.16-20.14.17:971][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.16-20.14.17:995][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto5
+[2026.02.16-20.14.17:995][197]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_RangedWeapon_Auto53D431BFB440559A4BAAC198050C1D9FA.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon_Auto5.uasset'
+[2026.02.16-20.14.17:995][197]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.16-20.14.18:001][197]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.16-20.14.18:001][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.16-20.14.18:011][197]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Weapons_Auto5
+[2026.02.16-20.14.18:011][197]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/WBP_Weapons_Auto54CD6B41E4E3C16126E61F1B8F6C4F0D0.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Weapons_Auto5.uasset'
+[2026.02.16-20.14.18:012][197]LogFileHelpers: Auto-saving content packages took 0.127
+[2026.02.16-20.14.38:980][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2026.02.16-20.14.40:479][701]LogSlate: Window 'Save Content' being destroyed
+[2026.02.16-20.14.40:488][701]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.16-20.14.40:522][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.16-20.14.40:522][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.16-20.14.40:547][701]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.16-20.14.40:547][701]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_RangedWeaponE50EC01F4F9D18A2A4069A902113E213.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.16-20.14.40:548][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase] ([2] browsable assets)...
+[2026.02.16-20.14.40:548][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_WeaponBase]
+[2026.02.16-20.14.40:565][701]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase
+[2026.02.16-20.14.40:566][701]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/BP_WeaponBaseE647996F4FDE032EE76185946F38BFAB.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_WeaponBase.uasset'
+[2026.02.16-20.14.40:566][701]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.16-20.14.40:566][701]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.16-20.14.40:578][701]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.16-20.14.40:578][701]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/WBP_WeaponsCA9F3EE840CADD2507906983D90FEBC7.tmp' to '../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.16-20.14.40:585][701]LogFileHelpers: InternalPromptForCheckoutAndSave took 96.192 ms (total: 913.518 ms)
+[2026.02.16-20.14.40:620][701]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.16-20.14.40:620][701]LogContentValidation: Enabled validators:
+[2026.02.16-20.14.40:620][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.16-20.14.40:620][701]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.16-20.14.40:620][701]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.16-20.14.40:620][701]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.16-20.14.40:620][701]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.16-20.14.40:620][701]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.16-20.14.40:620][701]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.16-20.14.40:620][701]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_WeaponBase Validating asset
+[2026.02.16-20.14.40:620][701]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.16-20.14.40:635][701]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.16-20.16.09:618][365]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4061.700928
+[2026.02.16-20.16.09:700][375]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.16-20.16.09:700][375]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4061.776123, Update Interval: 303.832520
