@@ -3907,3 +3907,192 @@ Stats: n/a
 [2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.02.18-20.10.15:305][957]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.18-20.11.29:305][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2026.02.18-20.11.42:990][917]LogContentBrowser: Deferred new asset file creation: M_Healthbar_Inst
+[2026.02.18-20.11.42:998][917]LogContentBrowser: Creating deferred item: M_Healthbar_Inst
+[2026.02.18-20.11.43:010][918]LogContentBrowser: Renaming the item being created (Deferred Item: M_Healthbar_Inst).
+[2026.02.18-20.11.46:160][237]LogContentBrowser: Attempting asset rename: M_Healthbar_Inst -> M_Healthbar_Inst
+[2026.02.18-20.11.46:162][237]LogContentBrowser: End creating deferred item M_Healthbar_Inst
+[2026.02.18-20.12.04:126][896]LogContentBrowser: Attempting asset rename: M_Healthbar_Inst -> M_Healthbar_Inst
+[2026.02.18-20.12.13:259][652]LogContentBrowser: Attempting asset rename: M_Healthbar -> M_Healthbar
+[2026.02.18-20.12.17:321][968]LogWindows: LaunchURL https://docs.unrealengine.com/5.6/en/BuildingWorlds/LevelEditor?utm_source=editor&utm_medium=docs&utm_campaign=help_menu
+[2026.02.18-20.12.25:662][547]LogContentBrowser: Attempting asset rename: M_Healthbar_Inst -> MI_Healthbar
+[2026.02.18-20.12.25:749][547]LogMaterial: Display: MaterialInterface M_Healthbar_Inst has a incorrectly name EditorOnlyData 'M_Healthbar_InstEditorOnlyData'. This may cause issues when running the editor on cooked data. Trying to rename it to the correct name 'MI_HealthbarEditorOnlyData'.
+[2026.02.18-20.12.25:750][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-20.12.25:751][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/MI_Healthbar] ([1] browsable assets)...
+[2026.02.18-20.12.25:752][547]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Blueprints/WidgetBlueprints/MI_Healthbar.MI_Healthbar]
+[2026.02.18-20.12.25:752][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/MI_Healthbar]
+[2026.02.18-20.12.25:763][547]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/MI_Healthbar
+[2026.02.18-20.12.25:763][547]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/MI_Healthbar836B5DB7485AB0FD6ABDE0B727E0C945.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/MI_Healthbar.uasset'
+[2026.02.18-20.12.25:764][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 13.456 ms (total: 901.213 ms)
+[2026.02.18-20.12.25:842][547]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2026.02.18-20.12.25:870][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.18-20.12.25:895][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.02.18-20.12.25:954][547]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-20.12.25:954][547]LogContentValidation: Enabled validators:
+[2026.02.18-20.12.25:954][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-20.12.25:954][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-20.12.25:954][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-20.12.25:954][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-20.12.25:954][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-20.12.25:954][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-20.12.25:954][547]AssetCheck: /Game/Blueprints/WidgetBlueprints/MI_Healthbar Validating asset
+[2026.02.18-20.12.26:021][547]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-20.12.29:857][847]LogContentBrowser: Deferred new asset file creation: M_EnenyHealthbar_Inst
+[2026.02.18-20.12.29:885][847]LogContentBrowser: Creating deferred item: M_EnenyHealthbar_Inst
+[2026.02.18-20.12.29:900][848]LogContentBrowser: Renaming the item being created (Deferred Item: M_EnenyHealthbar_Inst).
+[2026.02.18-20.12.37:068][585]LogContentBrowser: Attempting asset rename: M_EnenyHealthbar_Inst -> MI_EnenyHealthbar
+[2026.02.18-20.12.37:069][585]LogContentBrowser: End creating deferred item M_EnenyHealthbar_Inst
+[2026.02.18-20.12.44:179][282]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4380.561523
+[2026.02.18-20.12.44:254][290]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-20.12.44:254][290]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4380.626953, Update Interval: 335.018158
+[2026.02.18-20.12.46:348][507]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.12.46:348][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.12.46:355][507]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.12.46:355][507]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.12.46:413][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.18-20.13.07:821][793]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.18-20.13.10:686][ 44]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar.MI_EnenyHealthbar
+[2026.02.18-20.13.10:692][ 44]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_59
+[2026.02.18-20.13.15:419][384]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Blueprints/WidgetBlueprints/MI_Healthbar.MI_Healthbar
+[2026.02.18-20.13.15:421][384]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_60
+[2026.02.18-20.17.40:176][357]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun
+[2026.02.18-20.17.40:176][357]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_61
+[2026.02.18-20.18.37:564][235]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2026.02.18-20.18.37:567][235]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.093
+[2026.02.18-20.18.37:568][235]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-20.18.37:629][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.18-20.18.37:630][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-20.18.37:655][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto6
+[2026.02.18-20.18.37:655][235]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Auto6421DE32A4E02039309807FA799275420.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto6.uasset'
+[2026.02.18-20.18.37:655][235]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.18-20.18.37:669][235]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.18-20.18.37:669][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.18-20.18.37:689][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto6
+[2026.02.18-20.18.37:689][235]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_Gun_Auto6CE578CB549BB720411F0A3A9CFB1967C.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WeaponBlueprints/BP_Gun_Auto6.uasset'
+[2026.02.18-20.18.37:690][235]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar] ([2] browsable assets)...
+[2026.02.18-20.18.37:693][235]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_HealthBar.WBP_HealthBar]
+[2026.02.18-20.18.37:693][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar]
+[2026.02.18-20.18.37:702][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_HealthBar_Auto6
+[2026.02.18-20.18.37:702][235]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_HealthBar_Auto655A73F24439B423CF051158B51689595.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_HealthBar_Auto6.uasset'
+[2026.02.18-20.18.37:702][235]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar] ([1] browsable assets)...
+[2026.02.18-20.18.37:705][235]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar.MI_EnenyHealthbar]
+[2026.02.18-20.18.37:705][235]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar]
+[2026.02.18-20.18.37:724][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.18-20.18.37:745][235]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2026.02.18-20.18.37:755][235]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar_Auto6
+[2026.02.18-20.18.37:755][235]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/MI_EnenyHealthbar_Auto6DD6607FA42684FE6259FB69B4EC23BD8.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar_Auto6.uasset'
+[2026.02.18-20.18.37:756][235]LogFileHelpers: Auto-saving content packages took 0.188
+[2026.02.18-20.18.43:976][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.18-20.18.46:780][834]LogWorld: UWorld::CleanupWorld for World_61, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.18.46:780][834]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.18.46:831][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.18-20.19.01:946][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.18-20.19.02:028][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.02.18-20.19.02:050][624]LogWorld: UWorld::CleanupWorld for World_59, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.19.02:050][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.19.02:084][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.18-20.19.02:685][680]LogWorld: UWorld::CleanupWorld for World_60, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.19.02:685][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.19.02:719][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.18-20.19.08:561][349]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4764.989746
+[2026.02.18-20.19.08:643][358]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-20.19.08:643][358]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4765.060059, Update Interval: 314.310120
+[2026.02.18-20.19.28:093][443]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_19
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.19.28:164][445]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_20
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.19.28:532][474]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_21
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.19.31:616][718]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI
+[2026.02.18-20.19.31:616][718]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_62
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: ================================================
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Total job queries 18,689, among them cache hits 2,932 (15.69%), DDC hits 12,358 (66.12%), Duplicates 2,644 (14.15%)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Tracking 13,113 distinct input hashes that result in 11,965 distinct outputs (91.25%)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: RAM used: 159.13 MiB of 1.60 GiB budget. Usage: 9.71%
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Shaders Compiled: 755
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Jobs assigned 755, completed 755 (100%)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Average time worker was idle: 110.55 s
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Time job spent in pending queue: average 5.34 s, longest 31.81 s
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Job execution time: average 4.90 s, max 25.57 s
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Job life time (pending + execution): average 10.24 s, max 33.42
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Shader code size: total 10.764 MiB, numShaders 789, average 13.971 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 101.36 s
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Jobs were issued in 332 batches (only local compilation was used), average 2.27 jobs/batch
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Average processing rate: 7.45 jobs/sec
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Total thread time: 763.624 s
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Total thread preprocess time: 198.813 s
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Percentage time preprocessing: 26.04%
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Effective parallelization: 7.53 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.753394
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   15 times, average 3.99 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 3.78 sec, max 11.50 sec, min 1.64 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.71 sec, max 5.71 sec, min 2.04 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 21.95% of total time (compiled   80 times, average 2.10 sec, max 2.56 sec, min 1.56 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.60% of total time (compiled   38 times, average 1.73 sec, max 9.48 sec, min 0.60 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.83% of total time (compiled   15 times, average 3.99 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.28% of total time (compiled   72 times, average 0.77 sec, max 6.66 sec, min 0.23 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.06% of total time (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: === Material stats ===
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Materials Translated:    251
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Material Translation Only: 0.07 s (32%)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.18-20.20.52:333][717]LogShaderCompilers: Display: ================================================
+[2026.02.18-20.21.34:569][238]LogEditorTransaction: Undo Modify Component(s)
+[2026.02.18-20.23.31:748][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.02.18-20.23.32:698][326]LogSlate: Window 'Save Content' being destroyed
+[2026.02.18-20.23.32:707][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-20.23.32:741][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-20.23.32:741][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-20.23.32:741][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.18-20.23.32:768][326]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.18-20.23.32:768][326]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterFPSFCD9D4694438A40EFA2476B89E3342FE.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.18-20.23.32:769][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_DummyAI] ([2] browsable assets)...
+[2026.02.18-20.23.32:829][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_DummyAI.BP_DummyAI]
+[2026.02.18-20.23.32:829][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_DummyAI]
+[2026.02.18-20.23.32:829][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_DummyAI" FILE="../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_DummyAI.uasset" SILENT=true
+[2026.02.18-20.23.32:842][326]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_DummyAI
+[2026.02.18-20.23.32:842][326]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_DummyAI9BB3F736420CA5D288C02AAB29A9311E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_DummyAI.uasset'
+[2026.02.18-20.23.32:850][326]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU
+[2026.02.18-20.23.32:850][326]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU4C0EFE3F4253C122B8B4D2A9323FE90A.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU.uasset'
+[2026.02.18-20.23.32:851][326]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_Gun] ([2] browsable assets)...
+[2026.02.18-20.23.32:955][326]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_Gun.BP_Gun]
+[2026.02.18-20.23.32:955][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_Gun]
+[2026.02.18-20.23.32:975][326]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_Gun
+[2026.02.18-20.23.32:976][326]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_Gun9D8AD5014F011E2390BB6699CA1D0491.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_Gun.uasset'
+[2026.02.18-20.23.32:976][326]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar] ([1] browsable assets)...
+[2026.02.18-20.23.32:976][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar]
+[2026.02.18-20.23.32:983][326]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar
+[2026.02.18-20.23.32:983][326]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/MI_EnenyHealthbarCBF83D63486AEC6D8BD9D5806204EEA6.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/MI_EnenyHealthbar.uasset'
+[2026.02.18-20.23.32:985][326]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar] ([2] browsable assets)...
+[2026.02.18-20.23.32:985][326]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar]
+[2026.02.18-20.23.32:994][326]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_HealthBar
+[2026.02.18-20.23.32:994][326]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_HealthBar5D478FCD4FCE6354FDBDCE8164693CF9.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_HealthBar.uasset'
+[2026.02.18-20.23.33:002][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 294.984 ms (total: 1.19 sec)
+[2026.02.18-20.23.33:056][326]LogContentValidation: Display: Starting to validate 6 assets
+[2026.02.18-20.23.33:056][326]LogContentValidation: Enabled validators:
+[2026.02.18-20.23.33:056][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-20.23.33:056][326]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-20.23.33:057][326]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-20.23.33:057][326]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-20.23.33:057][326]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-20.23.33:057][326]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-20.23.33:058][326]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.18-20.23.33:058][326]AssetCheck: /Game/PlayerAssets/BP_DummyAI Validating asset
+[2026.02.18-20.23.33:058][326]AssetCheck: /Game/Levels/L_LevelOne Validating asset
+[2026.02.18-20.23.33:058][326]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_Gun Validating asset
+[2026.02.18-20.23.33:058][326]AssetCheck: /Game/Blueprints/WidgetBlueprints/MI_EnenyHealthbar Validating asset
+[2026.02.18-20.23.33:058][326]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_HealthBar Validating asset
+[2026.02.18-20.23.33:074][327]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
