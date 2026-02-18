@@ -3197,3 +3197,713 @@ Stats: n/a
 [2026.02.18-19.52.45:034][978]AssetCheck: /Game/Blueprints/T_FemHP Validating asset
 [2026.02.18-19.52.45:034][978]AssetCheck: /Game/Blueprints/T_MascHP Validating asset
 [2026.02.18-19.52.45:050][979]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-19.53.24:114][875]LogPSOHitching: Encountered 800 PSO creation hitches so far (296 graphics, 504 compute). 0 of them were precached.
+[2026.02.18-19.53.24:297][875]LogPSOHitching: Encountered 850 PSO creation hitches so far (299 graphics, 551 compute). 0 of them were precached.
+[2026.02.18-19.53.24:582][876]LogPSOHitching: Encountered 900 PSO creation hitches so far (312 graphics, 588 compute). 0 of them were precached.
+[2026.02.18-19.53.36:062][807]LogContentBrowser: Deferred new asset file creation: M_Healthbar1
+[2026.02.18-19.53.36:125][807]LogContentBrowser: Creating deferred item: M_Healthbar1
+[2026.02.18-19.53.36:137][808]LogContentBrowser: Renaming the item being created (Deferred Item: M_Healthbar1).
+[2026.02.18-19.53.40:522][268]LogContentBrowser: Attempting asset rename: M_Healthbar1 -> M_EnemyHealthbar1
+[2026.02.18-19.53.40:527][268]LogContentBrowser: End creating deferred item M_Healthbar1
+[2026.02.18-19.53.41:765][367]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/M_EnemyHealthbar1.M_EnemyHealthbar1
+[2026.02.18-19.53.41:768][367]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.18-19.53.42:268][367]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.53.42:268][367]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.53.42:268][367]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.53.42:268][367]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.53.42:268][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.18-19.53.42:268][367]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.53.42:268][367]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.18-19.53.42:371][370]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.53.42:371][370]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.53.42:371][370]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.53.42:371][370]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.53.42:371][370]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.18-19.53.42:371][370]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.53.42:371][370]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: ================================================
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Total job queries 18,606, among them cache hits 2,869 (15.42%), DDC hits 12,354 (66.40%), Duplicates 2,644 (14.21%)
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Tracking 13,093 distinct input hashes that result in 11,951 distinct outputs (91.28%)
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: RAM used: 159.04 MiB of 1.60 GiB budget. Usage: 9.71%
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Shaders Compiled: 739
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Jobs assigned 739, completed 739 (100%)
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Average time worker was idle: 88.40 s
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Time job spent in pending queue: average 5.45 s, longest 31.81 s
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Job execution time: average 5.00 s, max 25.57 s
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Job life time (pending + execution): average 10.45 s, max 33.42
+[2026.02.18-19.53.52:279][555]LogShaderCompilers: Display: Shader code size: total 10.638 MiB, numShaders 771, average 14.128 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 96.77 s
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Jobs were issued in 316 batches (only local compilation was used), average 2.34 jobs/batch
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Average processing rate: 7.64 jobs/sec
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Total thread time: 756.132 s
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Total thread preprocess time: 197.844 s
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Percentage time preprocessing: 26.17%
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Effective parallelization: 7.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.781393
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   13 times, average 4.44 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 3.78 sec, max 11.50 sec, min 1.64 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.71 sec, max 5.71 sec, min 2.04 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.17% of total time (compiled   80 times, average 2.10 sec, max 2.56 sec, min 1.56 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.69% of total time (compiled   38 times, average 1.73 sec, max 9.48 sec, min 0.60 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.63% of total time (compiled   13 times, average 4.44 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.23% of total time (compiled   70 times, average 0.78 sec, max 6.66 sec, min 0.23 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.12% of total time (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: === Material stats ===
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Materials Translated:    229
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Material Translation Only: 0.07 s (32%)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.18-19.53.52:280][555]LogShaderCompilers: Display: ================================================
+[2026.02.18-19.53.52:873][623]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-19.53.52:873][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-19.53.52:923][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.18-19.53.54:165][764]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3250.519043
+[2026.02.18-19.53.54:271][775]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-19.53.54:271][775]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3250.614502, Update Interval: 339.332245
+[2026.02.18-19.53.58:373][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.18-19.53.58:491][115]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2026.02.18-19.53.58:502][115]LogSlate: Took 0.010623 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2026.02.18-19.53.59:349][115]LogSlate: Window 'Delete Assets' being destroyed
+[2026.02.18-19.53.59:387][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.18-19.53.59:413][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2026.02.18-19.53.59:435][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2026.02.18-19.54.07:405][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.54.07:450][747]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/M_Healthbar] ([1] browsable assets)...
+[2026.02.18-19.54.07:450][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/M_Healthbar]
+[2026.02.18-19.54.07:450][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/M_Healthbar" FILE="../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/M_Healthbar.uasset" SILENT=true
+[2026.02.18-19.54.07:459][747]LogSavePackage: Moving output files for package: /Game/Blueprints/M_Healthbar
+[2026.02.18-19.54.07:459][747]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/M_Healthbar00BB346C4F35658278233989DC5F81C4.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/M_Healthbar.uasset'
+[2026.02.18-19.54.07:465][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.735 ms (total: 415.225 ms)
+[2026.02.18-19.54.07:515][747]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-19.54.07:515][747]LogContentValidation: Enabled validators:
+[2026.02.18-19.54.07:515][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.54.07:515][747]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.54.07:515][747]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.54.07:515][747]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.54.07:515][747]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.54.07:515][747]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.54.07:517][747]AssetCheck: /Game/Blueprints/M_Healthbar Validating asset
+[2026.02.18-19.54.10:988][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.54.11:016][ 50]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/T_FemHP] ([1] browsable assets)...
+[2026.02.18-19.54.11:016][ 50]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/T_FemHP]
+[2026.02.18-19.54.11:016][ 50]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/T_FemHP" FILE="../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/T_FemHP.uasset" SILENT=true
+[2026.02.18-19.54.11:030][ 50]LogSavePackage: Moving output files for package: /Game/Blueprints/T_FemHP
+[2026.02.18-19.54.11:030][ 50]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/T_FemHP7F90DF2E482926D5CBEB359461EAE692.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/T_FemHP.uasset'
+[2026.02.18-19.54.11:037][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 49.548 ms (total: 464.774 ms)
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: Enabled validators:
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.54.11:065][ 50]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.54.11:067][ 50]AssetCheck: /Game/Blueprints/T_FemHP Validating asset
+[2026.02.18-19.54.14:023][317]LogContentBrowser: Deferred new asset file creation: M_Healthbar1
+[2026.02.18-19.54.14:031][317]LogContentBrowser: Creating deferred item: M_Healthbar1
+[2026.02.18-19.54.14:043][318]LogContentBrowser: Renaming the item being created (Deferred Item: M_Healthbar1).
+[2026.02.18-19.54.20:539][993]LogContentBrowser: Attempting asset rename: M_Healthbar1 -> M_EnenyHealthbar
+[2026.02.18-19.54.20:541][993]LogContentBrowser: End creating deferred item M_Healthbar1
+[2026.02.18-19.54.23:381][185]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Blueprints/M_EnenyHealthbar.M_EnenyHealthbar
+[2026.02.18-19.54.23:383][185]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_43
+[2026.02.18-19.54.23:881][185]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.23:881][185]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.23:881][185]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.23:881][185]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.23:881][185]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.18-19.54.23:881][185]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.54.23:881][185]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.18-19.54.23:969][188]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.23:969][188]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.23:969][188]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.23:969][188]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.23:969][188]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.18-19.54.23:969][188]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.54.23:969][188]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.18-19.54.36:515][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_3 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_3 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_3
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_3.MaterialExpressionMultiply_0'")'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_1 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_1 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_1
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_1.MaterialExpressionVectorParameter_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_0 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_0 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_0
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_0.MaterialExpressionTextureSample_0'",OutputIndex=2,Mask=1,MaskG=1)'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_11 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_11 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_11
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionIf'MaterialGraphNode_11.MaterialExpressionIf_0'")'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_15 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_15 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_15
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionIf'MaterialGraphNode_15.MaterialExpressionIf_1'")'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_16 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_16 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_16
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_16.MaterialExpressionScalarParameter_0'")'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_10 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_10 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_10
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionOneMinus'MaterialGraphNode_10.MaterialExpressionOneMinus_0'")'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_8 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_8 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_8
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_8.MaterialExpressionMaterialFunctionCall_1'",OutputIndex=1)'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_12 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_12 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_12
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_12.MaterialExpressionConstant_0'")'
+[2026.02.18-19.54.36:516][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_13 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_13 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_13
+[2026.02.18-19.54.36:516][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_13.MaterialExpressionConstant_1'")'
+[2026.02.18-19.54.36:517][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_9 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_9 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_9
+[2026.02.18-19.54.36:517][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_9.MaterialExpressionScalarParameter_1'")'
+[2026.02.18-19.54.36:517][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_17 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_17 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_17
+[2026.02.18-19.54.36:517][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_17.MaterialExpressionScalarParameter_2'")'
+[2026.02.18-19.54.36:517][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_7
+[2026.02.18-19.54.36:517][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_7.MaterialExpressionVectorParameter_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.02.18-19.54.36:517][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_7 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_7 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_7
+[2026.02.18-19.54.36:517][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_7.MaterialExpressionVectorParameter_2'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.02.18-19.54.36:517][659]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_14 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_14 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_14
+[2026.02.18-19.54.36:517][659]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVectorParameter'MaterialGraphNode_14.MaterialExpressionVectorParameter_3'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2026.02.18-19.54.36:536][659]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.36:536][659]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.36:536][659]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.36:536][659]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.36:536][659]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.18-19.54.36:536][659]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.54.36:536][659]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.18-19.54.36:583][662]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.36:583][662]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.36:583][662]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.36:583][662]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.36:583][662]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.18-19.54.36:583][662]MaterialEditorStats: Shader Count: 1
+[2026.02.18-19.54.36:584][662]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.18-19.54.36:597][663]MaterialEditorStats: Default UI Pixel Shader: 38 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.36:597][663]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.36:597][663]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.36:597][663]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.36:597][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2026.02.18-19.54.36:597][663]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.54.36:597][663]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.54.40:569][118]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: Shader Count: 1
+[2026.02.18-19.54.40:597][121]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: Default UI Pixel Shader: 61 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.54.40:971][160]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.54.47:941][975]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.54.48:008][979]MaterialEditorStats: Default UI Pixel Shader: 62 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.18-19.54.48:008][979]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.48:008][979]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.48:008][979]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.18-19.54.48:009][979]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.48:009][979]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.48:009][979]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.54.48:009][979]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.54.55:198][770]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: Shader Count: 1
+[2026.02.18-19.54.55:219][772]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: Default UI Pixel Shader: 62 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.54.55:274][773]MaterialEditorStats: Preshaders: 9  (9 param fetches, 16 ops)
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.55.06:418][ 91]MaterialEditorStats: Preshaders: 8  (8 param fetches, 13 ops)
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: Default UI Pixel Shader: 49 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.55.06:839][131]MaterialEditorStats: Preshaders: 8  (8 param fetches, 13 ops)
+[2026.02.18-19.55.15:001][378]LogStreaming: Display: FlushAsyncLoading(622): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-19.55.15:001][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_EnemyHealthbar'"'
+[2026.02.18-19.55.15:001][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_EnemyHealthbar'"'
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionReroute'MaterialGraphNode_Knot_0.MaterialExpressionReroute_0'")'
+[2026.02.18-19.55.15:002][378]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_5 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_5 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_5
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMaterialFunctionCall'MaterialGraphNode_5.MaterialExpressionMaterialFunctionCall_0'")'
+[2026.02.18-19.55.15:002][378]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_9 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_9 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_9
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_9.MaterialExpressionConstant_0'")'
+[2026.02.18-19.55.15:002][378]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_10 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_10 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_10
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionConstant'MaterialGraphNode_10.MaterialExpressionConstant_1'")'
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_EnemyHealthbar'"'
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_EnemyHealthbar'"'
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_EnemyHealthbar'"'
+[2026.02.18-19.55.15:002][378]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name MaterialGraphNode_6 while ResolveName, will return /Engine/Transient.M_Healthbar:MaterialGraph_0.MaterialGraphNode_6 but could also be: /Engine/Transient.M_EnenyHealthbar:MaterialGraph_0.MaterialGraphNode_6
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_6.MaterialExpressionScalarParameter_0'")'
+[2026.02.18-19.55.15:002][378]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_EnemyHealthbar'"'
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.55.15:012][378]MaterialEditorStats: Preshaders: 8  (8 param fetches, 13 ops)
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: Default UI Pixel Shader: 49 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.55.15:117][381]MaterialEditorStats: Preshaders: 8  (8 param fetches, 13 ops)
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: Default UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: Shader Count: 0
+[2026.02.18-19.55.23:819][375]MaterialEditorStats: Preshaders: 8  (8 param fetches, 13 ops)
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: Default UI Pixel Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: Texture samplers: 0/16
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: Shader Count: 1
+[2026.02.18-19.55.23:848][378]MaterialEditorStats: Preshaders: 8  (8 param fetches, 13 ops)
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: Default UI Pixel Shader: 62 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 1
+Sampler Limit: 32
+
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: Default UI Vertex Shader: 47 instructions
+Stats: Resources Used: 0
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: Instanced UI Vertex Shader: 0 instructions
+Stats: n/a
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: Texture samplers: 1/16
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: Shader Count: 2
+[2026.02.18-19.55.24:177][411]MaterialEditorStats: Preshaders: 8  (8 param fetches, 13 ops)
+[2026.02.18-19.55.38:797][ 74]LogPSOHitching: Encountered 950 PSO creation hitches so far (328 graphics, 622 compute). 0 of them were precached.
+[2026.02.18-19.55.38:988][ 74]LogPSOHitching: Encountered 1000 PSO creation hitches so far (337 graphics, 663 compute). 0 of them were precached.
+[2026.02.18-19.55.39:286][ 74]LogPSOHitching: Encountered 1050 PSO creation hitches so far (340 graphics, 710 compute). 0 of them were precached.
+[2026.02.18-19.55.51:934][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.55.51:934][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/T_MascHP] ([1] browsable assets)...
+[2026.02.18-19.55.51:934][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/T_MascHP]
+[2026.02.18-19.55.51:944][122]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/T_MascHP
+[2026.02.18-19.55.51:944][122]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/T_MascHPEFE4996944A21120FA17E1AD2AD55FAC.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/T_MascHP.uasset'
+[2026.02.18-19.55.51:945][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/T_FemHP] ([1] browsable assets)...
+[2026.02.18-19.55.51:945][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/T_FemHP]
+[2026.02.18-19.55.51:956][122]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/T_FemHP
+[2026.02.18-19.55.51:956][122]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/T_FemHP12451E4E471EADDBA1F646A90B8C2C21.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/T_FemHP.uasset'
+[2026.02.18-19.55.51:957][122]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_Healthbar] ([1] browsable assets)...
+[2026.02.18-19.55.51:957][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_Healthbar]
+[2026.02.18-19.55.51:963][122]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/M_Healthbar
+[2026.02.18-19.55.51:963][122]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/M_HealthbarC622FB23438A70CDE82B1A953C9F909A.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/M_Healthbar.uasset'
+[2026.02.18-19.55.51:964][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar] ([1] browsable assets)...
+[2026.02.18-19.55.52:001][122]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar.M_EnenyHealthbar]
+[2026.02.18-19.55.52:001][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar]
+[2026.02.18-19.55.52:009][122]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar
+[2026.02.18-19.55.52:009][122]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/M_EnenyHealthbar774753084E074F9F8202789A5D3C2EA8.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/M_EnenyHealthbar.uasset'
+[2026.02.18-19.55.52:010][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 78.566 ms (total: 543.340 ms)
+[2026.02.18-19.55.52:140][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2026.02.18-19.55.52:165][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.18-19.55.52:190][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.02.18-19.55.52:212][122]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2026.02.18-19.55.52:212][122]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.18-19.55.52:212][122]LogContentValidation: Enabled validators:
+[2026.02.18-19.55.52:212][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.55.52:212][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.55.52:212][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.55.52:212][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.55.52:212][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.55.52:212][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.55.52:212][122]AssetCheck: /Game/Blueprints/WidgetBlueprints/T_MascHP Validating asset
+[2026.02.18-19.55.52:212][122]AssetCheck: /Game/Blueprints/WidgetBlueprints/T_FemHP Validating asset
+[2026.02.18-19.55.52:212][122]AssetCheck: /Game/Blueprints/WidgetBlueprints/M_Healthbar Validating asset
+[2026.02.18-19.55.52:212][122]AssetCheck: /Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar Validating asset
+[2026.02.18-19.55.52:231][122]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-19.55.57:071][549]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.55.57:102][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/T_MascHP] ([1] browsable assets)...
+[2026.02.18-19.55.57:102][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/T_MascHP]
+[2026.02.18-19.55.57:115][549]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/T_MascHP
+[2026.02.18-19.55.57:115][549]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/T_MascHP6D6BF53D478FF38FB1EB8DBF6B928360.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/T_MascHP.uasset'
+[2026.02.18-19.55.57:116][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/T_FemHP] ([1] browsable assets)...
+[2026.02.18-19.55.57:116][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/T_FemHP]
+[2026.02.18-19.55.57:127][549]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/T_FemHP
+[2026.02.18-19.55.57:127][549]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/T_FemHP4A69DE2C476B71EA8564A8BA0122A946.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/T_FemHP.uasset'
+[2026.02.18-19.55.57:127][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_Healthbar] ([1] browsable assets)...
+[2026.02.18-19.55.57:127][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_Healthbar]
+[2026.02.18-19.55.57:134][549]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/M_Healthbar
+[2026.02.18-19.55.57:134][549]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/M_HealthbarF39DB5F94F41192552DF309B2E4CDB6C.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/M_Healthbar.uasset'
+[2026.02.18-19.55.57:135][549]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar] ([1] browsable assets)...
+[2026.02.18-19.55.57:135][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar]
+[2026.02.18-19.55.57:141][549]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar
+[2026.02.18-19.55.57:141][549]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/M_EnenyHealthbar5C1843F6495325AFDFA824B356999D8A.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/M_EnenyHealthbar.uasset'
+[2026.02.18-19.55.57:149][549]LogFileHelpers: InternalPromptForCheckoutAndSave took 76.960 ms (total: 620.301 ms)
+[2026.02.18-19.55.57:201][549]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.18-19.55.57:201][549]LogContentValidation: Enabled validators:
+[2026.02.18-19.55.57:201][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.55.57:201][549]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.55.57:201][549]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.55.57:201][549]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.55.57:201][549]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.55.57:201][549]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.55.57:201][549]AssetCheck: /Game/Blueprints/WidgetBlueprints/T_MascHP Validating asset
+[2026.02.18-19.55.57:201][549]AssetCheck: /Game/Blueprints/WidgetBlueprints/T_FemHP Validating asset
+[2026.02.18-19.55.57:201][549]AssetCheck: /Game/Blueprints/WidgetBlueprints/M_Healthbar Validating asset
+[2026.02.18-19.55.57:201][549]AssetCheck: /Game/Blueprints/WidgetBlueprints/M_EnenyHealthbar Validating asset
+[2026.02.18-19.56.08:365][360]LogSlate: Window 'Pick Parent Class for New Widget Blueprint' being destroyed
+[2026.02.18-19.56.08:372][360]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2026.02.18-19.56.08:378][360]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2026.02.18-19.56.08:392][360]LogAutomationController: Ignoring very large delta of 2.92 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.18-19.56.08:400][361]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2026.02.18-19.56.15:964][ 55]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WBP_HealthBar
+[2026.02.18-19.56.15:971][ 55]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2026.02.18-19.56.17:081][142]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_HealthBar.WBP_HealthBar
+[2026.02.18-19.56.17:081][142]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_44
+[2026.02.18-19.56.17:088][142]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_45
+[2026.02.18-19.56.40:817][786]LogPSOHitching: Encountered 1100 PSO creation hitches so far (359 graphics, 741 compute). 0 of them were precached.
+[2026.02.18-19.56.52:284][958]LogShaderCompilers: Display: ================================================
+[2026.02.18-19.56.52:284][958]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Total job queries 18,670, among them cache hits 2,924 (15.66%), DDC hits 12,354 (66.17%), Duplicates 2,644 (14.16%)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Tracking 13,102 distinct input hashes that result in 11,957 distinct outputs (91.26%)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: RAM used: 159.08 MiB of 1.60 GiB budget. Usage: 9.71%
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Shaders Compiled: 748
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Jobs assigned 748, completed 748 (100%)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Average time worker was idle: 90.76 s
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Time job spent in pending queue: average 5.39 s, longest 31.81 s
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Job execution time: average 4.94 s, max 25.57 s
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Job life time (pending + execution): average 10.33 s, max 33.42
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Shader code size: total 10.697 MiB, numShaders 780, average 14.044 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 98.96 s
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Jobs were issued in 325 batches (only local compilation was used), average 2.30 jobs/batch
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Average processing rate: 7.56 jobs/sec
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Total thread time: 759.246 s
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Total thread preprocess time: 198.554 s
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Percentage time preprocessing: 26.15%
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Effective parallelization: 7.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.767246
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 4.19 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 3.78 sec, max 11.50 sec, min 1.64 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.71 sec, max 5.71 sec, min 2.04 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.08% of total time (compiled   80 times, average 2.10 sec, max 2.56 sec, min 1.56 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.65% of total time (compiled   38 times, average 1.73 sec, max 9.48 sec, min 0.60 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.73% of total time (compiled   14 times, average 4.19 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.26% of total time (compiled   71 times, average 0.78 sec, max 6.66 sec, min 0.23 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.09% of total time (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: === Material stats ===
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Materials Translated:    251
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Material Total Translate Time: 0.21 s
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Material Translation Only: 0.07 s (32%)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.18-19.56.52:285][958]LogShaderCompilers: Display: ================================================
+[2026.02.18-19.57.21:848][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.18-19.57.53:106][862]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2026.02.18-19.57.53:108][862]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.023
+[2026.02.18-19.57.53:109][862]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar] ([2] browsable assets)...
+[2026.02.18-19.57.53:111][862]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_HealthBar.WBP_HealthBar]
+[2026.02.18-19.57.53:111][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar]
+[2026.02.18-19.57.53:123][862]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_HealthBar_Auto4
+[2026.02.18-19.57.53:123][862]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_HealthBar_Auto4CB06385B42C94A32EF9640875BD1A0B1.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_HealthBar_Auto4.uasset'
+[2026.02.18-19.57.53:124][862]LogFileHelpers: Auto-saving content packages took 0.015
+[2026.02.18-19.59.02:584][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.18-20.00.15:361][305]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3631.698242
+[2026.02.18-20.00.15:504][322]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-20.00.15:504][322]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3631.832031, Update Interval: 339.720459
+[2026.02.18-20.00.51:704][586]LogDerivedDataCache: C:/Users/rgowell/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.02.18-20.00.54:932][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.18-20.01.55:550][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2026.02.18-20.02.40:880][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.18-20.03.17:110][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2026.02.18-20.03.30:793][124]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2026.02.18-20.03.58:596][143]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.02.18-20.04.52:491][377]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_14
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.04.52:593][383]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_15
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.04.53:047][423]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_16
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.05.28:049][847]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BPI_HealthComp.BPI_HealthComp
+[2026.02.18-20.05.28:051][847]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_54
+[2026.02.18-20.05.34:951][615]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.05.34:951][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.05.35:010][615]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.18-20.05.38:591][ 13]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.05.38:591][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.05.38:669][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.18-20.05.42:301][351]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.02.18-20.05.42:301][351]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.05.42:301][351]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.05.42:379][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.18-20.06.29:744][  8]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4006.110596
+[2026.02.18-20.06.29:838][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-20.06.29:838][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4006.190674, Update Interval: 342.155823
+[2026.02.18-20.06.55:516][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.02.18-20.06.56:813][169]LogSlate: Window 'Save Content' being destroyed
+[2026.02.18-20.06.56:822][169]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-20.06.56:854][169]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-20.06.56:933][169]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.18-20.06.56:933][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-20.06.56:933][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.18-20.06.56:957][169]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.18-20.06.56:957][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS2214A8D848E9C761985BCEB52B705577.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.18-20.06.56:958][169]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar] ([2] browsable assets)...
+[2026.02.18-20.06.56:960][169]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_HealthBar.WBP_HealthBar]
+[2026.02.18-20.06.56:960][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_HealthBar]
+[2026.02.18-20.06.56:969][169]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_HealthBar
+[2026.02.18-20.06.56:969][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_HealthBar9B5A197C46E898FF3716D2A600C6432E.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_HealthBar.uasset'
+[2026.02.18-20.06.56:973][169]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.18-20.06.56:976][169]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master]
+[2026.02.18-20.06.56:976][169]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.18-20.06.56:988][169]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.18-20.06.56:990][169]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_Master94BD210A48A0F2D8B1C9FFB9E4DC7F4B.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.18-20.06.56:997][169]LogFileHelpers: InternalPromptForCheckoutAndSave took 175.029 ms (total: 795.330 ms)
+[2026.02.18-20.06.57:053][169]LogContentValidation: Display: Starting to validate 3 assets
+[2026.02.18-20.06.57:053][169]LogContentValidation: Enabled validators:
+[2026.02.18-20.06.57:053][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-20.06.57:053][169]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-20.06.57:053][169]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-20.06.57:053][169]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-20.06.57:053][169]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-20.06.57:053][169]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-20.06.57:053][169]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.18-20.06.57:053][169]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_HealthBar Validating asset
+[2026.02.18-20.06.57:054][169]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.18-20.06.57:067][169]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.02.18-20.07.38:393][200]LogStreaming: Display: FlushAsyncLoading(628): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-20.07.38:394][200]LogProperty: Warning: ObjectProperty /Script/Engine.MemberReference:MemberParent: unresolved reference to '"/Script/UMG.WidgetBlueprintGeneratedClass'/Game/Blueprints/WBP/WBP_Master.WBP_Master_C'",MemberName="UpdateHealthBar",MemberGuid=84F70058423C5BCF5A8ACCBC6CEAE453)'
+[2026.02.18-20.07.57:068][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.18-20.08.37:041][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.18-20.08.37:048][ 40]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.028
+[2026.02.18-20.08.37:048][ 40]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-20.08.37:157][ 40]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.18-20.08.37:157][ 40]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-20.08.37:182][ 40]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto5
+[2026.02.18-20.08.37:182][ 40]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Auto5C51F39C34D1FCCABCA1A63B2AE018930.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterFPS_Auto5.uasset'
+[2026.02.18-20.08.37:183][ 40]LogFileHelpers: Auto-saving content packages took 0.134
+[2026.02.18-20.09.47:023][153]LogPSOHitching: Encountered 1150 PSO creation hitches so far (387 graphics, 763 compute). 0 of them were precached.
+[2026.02.18-20.09.47:073][154]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_17
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.09.47:350][175]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_18
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-20.09.50:103][415]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Components/BP_HealthComp.BP_HealthComp
+[2026.02.18-20.09.50:103][415]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_57
+[2026.02.18-20.10.11:015][647]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-20.10.11:015][647]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-20.10.11:073][647]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2026.02.18-20.10.13:913][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.02.18-20.10.15:154][957]LogSlate: Window 'Save Content' being destroyed
+[2026.02.18-20.10.15:162][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-20.10.15:223][957]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-20.10.15:223][957]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-20.10.15:223][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.18-20.10.15:246][957]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.18-20.10.15:247][957]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterFPSEC1C0E1C4503B0D9B0EDF3BD10E80F55.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.18-20.10.15:255][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 92.425 ms (total: 887.756 ms)
+[2026.02.18-20.10.15:305][957]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.18-20.10.15:305][957]LogContentValidation: Enabled validators:
+[2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-20.10.15:305][957]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-20.10.15:305][957]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
