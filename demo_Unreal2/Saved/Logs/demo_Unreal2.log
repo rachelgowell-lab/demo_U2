@@ -1721,3 +1721,284 @@ Make sure '/Game/Blueprints/WidgetBlueprints/WBP_Master.WBP_Master' has been com
 [2026.02.18-19.17.09:265][218]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1045.659180
 [2026.02.18-19.17.10:263][221]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.18-19.17.10:263][221]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1046.325806, Update Interval: 324.434326
+[2026.02.18-19.18.27:496][583]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_25
+[2026.02.18-19.18.27:552][586]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_4
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.18.28:270][658]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_5
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.18.28:310][659]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_6
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.18.29:123][712]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS
+[2026.02.18-19.18.29:123][712]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_26
+[2026.02.18-19.19.34:446][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.18-19.20.05:131][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2026.02.18-19.20.07:160][858]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-19.20.07:160][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-19.20.07:213][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2026.02.18-19.20.20:456][ 63]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons
+[2026.02.18-19.20.20:456][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_27
+[2026.02.18-19.20.20:463][ 63]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_28
+[2026.02.18-19.21.38:201][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.02.18-19.22.46:914][110]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1383.315063
+[2026.02.18-19.22.47:014][122]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-19.22.47:014][122]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1383.406860, Update Interval: 336.787018
+[2026.02.18-19.24.21:961][350]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2026.02.18-19.27.29:111][309]LogClass: Warning: SerializeFromMismatchedTag failed: Type mismatch in DeselectedIconSize - Previous (StructProperty(Vector(/Script/CoreUObject))) Current(StructProperty(Vector2D(/Script/CoreUObject))) in package: FObjectReader
+[2026.02.18-19.27.29:111][309]LogClass: Warning: SerializeFromMismatchedTag failed: Type mismatch in SelectedIconSize - Previous (StructProperty(Vector(/Script/CoreUObject))) Current(StructProperty(Vector2D(/Script/CoreUObject))) in package: FObjectReader
+[2026.02.18-19.27.29:135][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2026.02.18-19.27.42:488][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS
+[2026.02.18-19.27.42:489][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_32
+[2026.02.18-19.27.42:574][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_CharacterFPS_Playercontroller.BP_CharacterFPS_Playercontroller
+[2026.02.18-19.27.42:574][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.02.18-19.27.42:658][979]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/WeaponBlueprints/BP_WeaponBase.BP_WeaponBase
+[2026.02.18-19.27.42:658][979]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.02.18-19.27.43:692][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2026.02.18-19.27.44:950][ 35]LogSlate: Window 'Save Content' being destroyed
+[2026.02.18-19.27.44:959][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.27.44:996][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterFPS] ([2] browsable assets)...
+[2026.02.18-19.27.45:067][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS]
+[2026.02.18-19.27.45:067][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterFPS]
+[2026.02.18-19.27.45:067][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PlayerAssets/BP_CharacterFPS" FILE="../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset" SILENT=true
+[2026.02.18-19.27.45:090][ 35]LogSavePackage: Moving output files for package: /Game/PlayerAssets/BP_CharacterFPS
+[2026.02.18-19.27.45:090][ 35]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS12F169294CC42C933F8AF4ADCA6C338F.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/PlayerAssets/BP_CharacterFPS.uasset'
+[2026.02.18-19.27.45:091][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon] ([2] browsable assets)...
+[2026.02.18-19.27.45:100][ 35]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon.BP_RangedWeapon]
+[2026.02.18-19.27.45:100][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WeaponBlueprints/BP_RangedWeapon]
+[2026.02.18-19.27.45:123][ 35]LogSavePackage: Moving output files for package: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon
+[2026.02.18-19.27.45:123][ 35]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_RangedWeaponE1419AC441EBE955494AF5BB30DDA146.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WeaponBlueprints/BP_RangedWeapon.uasset'
+[2026.02.18-19.27.45:124][ 35]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Master] ([2] browsable assets)...
+[2026.02.18-19.27.45:124][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Master]
+[2026.02.18-19.27.45:136][ 35]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Master
+[2026.02.18-19.27.45:136][ 35]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_MasterB89B6DD54953B7C5ACF7F8B86A1030F7.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Master.uasset'
+[2026.02.18-19.27.45:137][ 35]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.18-19.27.45:140][ 35]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.18-19.27.45:140][ 35]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.18-19.27.45:152][ 35]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.18-19.27.45:152][ 35]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_WeaponsC34612C3413B5873D4A31C9742763580.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.18-19.27.45:162][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 202.012 ms
+[2026.02.18-19.27.45:209][ 35]LogContentValidation: Display: Starting to validate 4 assets
+[2026.02.18-19.27.45:209][ 35]LogContentValidation: Enabled validators:
+[2026.02.18-19.27.45:211][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.27.45:211][ 35]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.27.45:211][ 35]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.27.45:211][ 35]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.27.45:211][ 35]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.27.45:211][ 35]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.27.45:212][ 35]AssetCheck: /Game/PlayerAssets/BP_CharacterFPS Validating asset
+[2026.02.18-19.27.45:212][ 35]AssetCheck: /Game/Blueprints/WeaponBlueprints/BP_RangedWeapon Validating asset
+[2026.02.18-19.27.45:213][ 35]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Master Validating asset
+[2026.02.18-19.27.45:213][ 35]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.18-19.28.16:880][678]LogBlueprint: Warning: [AssetLog] C:\Users\rgowell\Documents\GitHub\demo_U2\demo_Unreal2\Content\Blueprints\WidgetBlueprints\WBP_Weapons.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event On Item Selection Changed  and was replaced as a Custom Event!
+[2026.02.18-19.28.16:880][678]LogStreaming: Display: FlushAsyncLoading(573): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.18-19.28.28:043][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.02.18-19.28.52:007][666]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1748.387207
+[2026.02.18-19.28.52:075][674]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.18-19.28.52:075][674]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1748.445068, Update Interval: 356.577667
+[2026.02.18-19.28.54:434][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2026.02.18-19.28.54:438][949]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.025
+[2026.02.18-19.28.54:438][949]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.18-19.28.54:441][949]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.18-19.28.54:441][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.18-19.28.54:458][949]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Weapons_Auto2
+[2026.02.18-19.28.54:458][949]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_Weapons_Auto2EF41BF724FF3839F19C4629DAD16BF66.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/Blueprints/WidgetBlueprints/WBP_Weapons_Auto2.uasset'
+[2026.02.18-19.28.54:458][949]LogFileHelpers: Auto-saving content packages took 0.020
+[2026.02.18-19.29.28:884][825]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2026.02.18-19.29.54:552][749]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-19.29.54:559][749]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.18-19.29.54:559][749]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.18-19.29.54:561][749]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 1.822 ms
+[2026.02.18-19.29.54:563][749]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-19.29.54:564][749]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterFPS_Playercontroller
+[2026.02.18-19.29.56:571][749]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.18-19.29.56:709][750]LogAutomationController: Ignoring very large delta of 2.16 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.18-19.29.59:109][977]LogSlate: Window 'Message Log' being destroyed
+[2026.02.18-19.29.59:119][977]LogSlate: Window 'Message Log' being destroyed
+[2026.02.18-19.30.12:460][409]LogBlueprint: Error: [AssetLog] C:\Users\rgowell\Documents\GitHub\demo_U2\demo_Unreal2\Content\BP_CharacterFPS_Playercontroller.uasset: [Compiler] Spawn node  SpawnActor NONE  must have a  Class  specified.
+[2026.02.18-19.30.12:504][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2026.02.18-19.31.28:101][853]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_7
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.31.29:018][940]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_8
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.31.29:060][941]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_9
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.31.29:073][942]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_10
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.31.29:087][943]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_11
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.31.29:100][944]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_12
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.31.31:236][116]LogScript: Warning: Accessed None trying to read (real) property CallFunc_TryGetPawnOwner_ReturnValue in not an UClass
+	ABP_Player_C /Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP_Player_C_13
+	Function /Game/PlayerAssets/ABP_Player.ABP_Player_C:ExecuteUbergraph_ABP_Player:00ED
+[2026.02.18-19.31.39:123][872]LogPSOHitching: Encountered 700 PSO creation hitches so far (259 graphics, 441 compute). 0 of them were precached.
+[2026.02.18-19.32.19:099][881]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.02.18-19.32.19:105][881]LogContentBundle: [L_LevelOne(Editor)] Generating Streaming for 0 Content Bundles.
+[2026.02.18-19.32.19:105][881]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' started...
+[2026.02.18-19.32.19:106][881]LogWorldPartition: Display: GenerateStreaming for 'L_LevelOne' took 632 us (total: 2.454 ms)
+[2026.02.18-19.32.19:106][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.02.18-19.32.19:106][881]BlueprintLog: Warning: Blueprint failed to compile:  BP_CharacterFPS_Playercontroller
+[2026.02.18-19.32.21:238][881]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2026.02.18-19.32.21:247][881]LogPlayLevel: Display: Creating online subsystem for client :Context_31
+[2026.02.18-19.32.21:250][881]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2026.02.18-19.32.21:267][881]LogAutomationController: Ignoring very large delta of 2.17 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2026.02.18-19.32.21:268][882]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.18-19.32.21:276][882]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2026.02.18-19.32.21:277][882]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.189 ms
+[2026.02.18-19.32.21:277][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008419s)
+[2026.02.18-19.32.21:277][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/L_LevelOne.L_LevelOne to /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne (0.008485s)
+[2026.02.18-19.32.21:313][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.02.18-19.32.21:316][882]LogChaosDD: Creating Chaos Debug Draw Scene for world L_LevelOne
+[2026.02.18-19.32.21:317][882]LogWorldPartition: ULevel::OnLevelLoaded(L_LevelOne)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2026.02.18-19.32.21:318][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2026.02.18-19.32.21:318][882]LogWorldPartition: UWorldPartition::Initialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2026.02.18-19.32.21:318][882]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2026.02.18-19.32.21:320][882]LogWorldPartition: Display: WorldPartition initialize took 2.336 ms (total: 838.916 ms)
+[2026.02.18-19.32.21:320][882]LogPlayLevel: PIE: World Init took: (0.004494s)
+[2026.02.18-19.32.21:320][882]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.02.18-19.32.21:320][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.02.18-19.32.21:320][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.02.18-19.32.21:320][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.02.18-19.32.21:320][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.02.18-19.32.21:320][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.02.18-19.32.21:322][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.02.18-19.32.21:322][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.02.18-19.32.21:322][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.02.18-19.32.21:322][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.02.18-19.32.21:322][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.02.18-19.32.21:322][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.02.18-19.32.21:323][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.02.18-19.32.21:335][882]LogAudioMixer: Display: Using Audio Hardware Device LG HDR 4K (NVIDIA High Definition Audio)
+[2026.02.18-19.32.21:336][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.02.18-19.32.21:336][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.02.18-19.32.21:336][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.02.18-19.32.21:337][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.02.18-19.32.21:337][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.02.18-19.32.21:338][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.02.18-19.32.21:338][882]LogInit: FAudioDevice initialized with ID 2.
+[2026.02.18-19.32.21:338][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.02.18-19.32.21:338][882]LogAudio: Display: Audio Device (ID: 2) registered with world 'L_LevelOne'.
+[2026.02.18-19.32.21:338][882]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.18-19.32.21:345][882]LogLoad: Game class is 'GM_FPS_C'
+[2026.02.18-19.32.21:350][882]LogWorld: Bringing World /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne up for play (max tick rate 0) at 2026.02.18-14.32.21
+[2026.02.18-19.32.21:360][882]LogWorld: Bringing up level for play took: 0.013953
+[2026.02.18-19.32.21:376][882]PIE: Server logged in
+[2026.02.18-19.32.21:378][882]PIE: Play in editor total start time 2.273 seconds.
+[2026.02.18-19.32.21:388][882]LogScript: Warning: Accessed None trying to read (real) property UI in BP_CharacterFPS_C
+	BP_CharacterFPS_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_CharacterFPS_C_0
+	Function /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS_C:ExecuteUbergraph_BP_CharacterFPS:0E30
+[2026.02.18-19.32.21:388][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property UI in BP_CharacterFPS_C". Node:  UIAddNewWeapon Graph:  EventGraph Function:  Execute Ubergraph BP Character FPS Blueprint:  BP_CharacterFPS
+[2026.02.18-19.32.21:390][882]LogScript: Warning: Accessed None trying to read (real) property UI in BP_CharacterFPS_C
+	BP_CharacterFPS_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_CharacterFPS_C_0
+	Function /Game/PlayerAssets/BP_CharacterFPS.BP_CharacterFPS_C:ExecuteUbergraph_BP_CharacterFPS:0E8A
+[2026.02.18-19.32.21:390][882]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property UI in BP_CharacterFPS_C". Node:  UiWeaponSwitched Graph:  EventGraph Function:  Execute Ubergraph BP Character FPS Blueprint:  BP_CharacterFPS
+[2026.02.18-19.32.21:494][883]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.02.18-19.32.22:401][925]LogRenderer: Warning: Building light grid exceeded number of available entries (1018507 / 983040). Increase r.Forward.MaxCulledLightsPerCell to prevent potential visual artifacts.
+[2026.02.18-19.32.22:401][925]LogRenderer: Warning: Building light grid exceeded number of available links, glitches will be visible (1018507 / 983040).
+[2026.02.18-19.32.23:023][941]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.18-19.32.23:023][941]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983.BP_HealthComponent
+[2026.02.18-19.32.23:023][941]LogBlueprintUserMessages: [BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983] BP_DummyAI20.0% health left
+[2026.02.18-19.32.23:023][941]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.18-19.32.23:759][959]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.02.18-19.32.25:360][ 14]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.18-19.32.26:568][ 73]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.18-19.32.26:569][ 73]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983.BP_HealthComponent
+[2026.02.18-19.32.26:569][ 73]LogBlueprintUserMessages: [BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983] BP_DummyAI20.0% health left
+[2026.02.18-19.32.26:750][ 86]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.18-19.32.26:750][ 86]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983.BP_HealthComponent
+[2026.02.18-19.32.26:750][ 86]LogBlueprintUserMessages: [BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983] BP_DummyAI20.0% health left
+[2026.02.18-19.32.27:625][114]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_0] NewGrenadeInHandNotify
+[2026.02.18-19.32.27:667][115]LogBlueprintUserMessages: [BP_GrenadeLauncher_C_1] NewGrenadeInHandNotify
+[2026.02.18-19.32.28:824][160]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2026.02.18-19.32.28:825][160]LogScript: Warning: Script Msg called by: BP_HealthComp_C /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne:PersistentLevel.BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983.BP_HealthComponent
+[2026.02.18-19.32.28:825][160]LogBlueprintUserMessages: [BP_DummyAI_C_UAID_047C162859DDD8BB02_1725285983] BP_DummyAI20.0% health left
+[2026.02.18-19.32.30:295][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-19.32.30:295][229]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_L_LevelOne
+[2026.02.18-19.32.30:295][229]LogWorld: UWorld::CleanupWorld for L_LevelOne, bSessionEnded=true, bCleanupResources=true
+[2026.02.18-19.32.30:296][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-19.32.30:296][229]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/Levels/UEDPIE_0_L_LevelOne.L_LevelOne
+[2026.02.18-19.32.30:313][229]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.02.18-19.32.30:318][229]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.02.18-19.32.30:339][229]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.02.18-19.32.30:339][229]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.02.18-19.32.30:340][229]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.02.18-19.32.30:343][229]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.02.18-19.32.30:346][229]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.02.18-19.32.30:349][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.02.18-19.32.30:491][230]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2026.02.18-19.32.32:260][375]LogSlate: Window 'Message Log' being destroyed
+[2026.02.18-19.32.32:286][375]LogSlate: Window 'Message Log' being destroyed
+[2026.02.18-19.32.40:097][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2026.02.18-19.32.41:456][995]LogSlate: Window 'Save Content' being destroyed
+[2026.02.18-19.32.41:486][995]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.18-19.32.41:515][995]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_CharacterFPS_Playercontroller] ([2] browsable assets)...
+[2026.02.18-19.32.41:515][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_CharacterFPS_Playercontroller]
+[2026.02.18-19.32.41:528][995]LogSavePackage: Moving output files for package: /Game/BP_CharacterFPS_Playercontroller
+[2026.02.18-19.32.41:529][995]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterFPS_Playercontroller97DF56AA4680C250533446A46E34CBD3.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/BP_CharacterFPS_Playercontroller.uasset'
+[2026.02.18-19.32.41:529][995]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons] ([2] browsable assets)...
+[2026.02.18-19.32.41:531][995]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Blueprints/WidgetBlueprints/WBP_Weapons.WBP_Weapons]
+[2026.02.18-19.32.41:531][995]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/WidgetBlueprints/WBP_Weapons]
+[2026.02.18-19.32.41:545][995]LogSavePackage: Moving output files for package: /Game/Blueprints/WidgetBlueprints/WBP_Weapons
+[2026.02.18-19.32.41:546][995]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/WBP_Weapons110BD72142B3964F652CA08CBE0A5B1A.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Content/Blueprints/WidgetBlueprints/WBP_Weapons.uasset'
+[2026.02.18-19.32.41:553][995]LogFileHelpers: InternalPromptForCheckoutAndSave took 67.146 ms (total: 269.159 ms)
+[2026.02.18-19.32.41:596][995]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.18-19.32.41:597][995]LogContentValidation: Enabled validators:
+[2026.02.18-19.32.41:597][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.18-19.32.41:597][995]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.18-19.32.41:597][995]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.18-19.32.41:597][995]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.18-19.32.41:597][995]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.18-19.32.41:597][995]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.18-19.32.41:597][995]AssetCheck: /Game/BP_CharacterFPS_Playercontroller Validating asset
+[2026.02.18-19.32.41:597][995]AssetCheck: /Game/Blueprints/WidgetBlueprints/WBP_Weapons Validating asset
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: ================================================
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Total job queries 18,438, among them cache hits 2,780 (15.08%), DDC hits 12,343 (66.94%), Duplicates 2,639 (14.31%)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Tracking 13,019 distinct input hashes that result in 11,897 distinct outputs (91.38%)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: RAM used: 158.74 MiB of 1.60 GiB budget. Usage: 9.69%
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Shaders Compiled: 676
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Jobs assigned 676, completed 676 (100%)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Average time worker was idle: 79.44 s
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Time job spent in pending queue: average 5.95 s, longest 31.81 s
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Job execution time: average 5.42 s, max 25.57 s
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Job life time (pending + execution): average 11.37 s, max 33.42
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Shader code size: total 10.229 MiB, numShaders 708, average 14.795 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 85.03 s
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.04%
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Jobs were issued in 253 batches (only local compilation was used), average 2.67 jobs/batch
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Average processing rate: 7.95 jobs/sec
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Total thread time: 735.366 s
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Total thread preprocess time: 196.066 s
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Percentage time preprocessing: 26.66%
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Effective parallelization: 8.65 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.864818
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 7.48 sec, max 7.48 sec, min 7.48 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 4.72 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 3.78 sec, max 11.50 sec, min 1.64 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 3.71 sec, max 5.71 sec, min 2.04 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.79% of total time (compiled   80 times, average 2.10 sec, max 2.56 sec, min 1.56 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 8.19% of total time (compiled   31 times, average 1.94 sec, max 9.48 sec, min 0.60 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 7.70% of total time (compiled   12 times, average 4.72 sec, max 13.39 sec, min 0.85 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.81% of total time (compiled   58 times, average 0.86 sec, max 6.66 sec, min 0.23 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display:                                       FRayTracingSkyLightRGS - 6.29% of total time (compiled   16 times, average 2.89 sec, max 7.49 sec, min 0.71 sec)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: === Material stats ===
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Materials Translated:    165
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Material Translation Only: 0.06 s (31%)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.02.18-19.32.51:985][139]LogShaderCompilers: Display: ================================================
