@@ -2805,3 +2805,17 @@ FPackageName: Skipped package /Game/Fab/SCIFI_CCG_Gun_Sketch/scifi_ccg_gun_sketc
 [2026.02.23-18.22.16:986][983]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1360.479126, Update Interval: 348.420044
 [2026.02.23-18.22.18:670][121]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Triggerables/BP_HealthRegren.BP_HealthRegren
 [2026.02.23-18.22.18:670][121]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_42
+[2026.02.23-18.23.33:898][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2026.02.23-18.23.33:913][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto2
+[2026.02.23-18.23.33:913][682]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/N9KT3GA5MNS0KLJDPVGCOU_Auto211E80BB244279613AFBF559E61043B30.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/__ExternalActors__/Levels/L_LevelOne/5/YE/N9KT3GA5MNS0KLJDPVGCOU_Auto2.uasset'
+[2026.02.23-18.23.33:914][682]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/L_LevelOne' took 0.058
+[2026.02.23-18.23.33:914][682]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2026.02.23-18.23.33:914][682]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PlayerAssets/BP_CharacterBase] ([2] browsable assets)...
+[2026.02.23-18.23.34:129][682]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/PlayerAssets/BP_CharacterBase.BP_CharacterBase]
+[2026.02.23-18.23.34:129][682]OBJ SavePackage: Finished generating thumbnails for package [/Game/PlayerAssets/BP_CharacterBase]
+[2026.02.23-18.23.34:166][682]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2
+[2026.02.23-18.23.34:166][682]LogSavePackage: Moving '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/BP_CharacterBase_Auto2D92DCCCE45FC1B4AFAA85198F0048087.tmp' to '../../../../../../Users/rgowell/Documents/GitHub/demo_U2/demo_Unreal2/Saved/Autosaves/Game/PlayerAssets/BP_CharacterBase_Auto2.uasset'
+[2026.02.23-18.23.34:167][682]LogFileHelpers: Auto-saving content packages took 0.254
+[2026.02.23-18.28.23:609][552]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1727.114624
+[2026.02.23-18.28.24:609][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.02.23-18.28.24:609][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1727.781982, Update Interval: 307.470917
